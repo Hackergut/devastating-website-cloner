@@ -32,12 +32,20 @@
 
 ---
 
-## 📸 Demo
+## 📸 What You Get
 
 <div align="center">
-<img src="assets/screenshots/ledger-clone-demo.png" alt="Ledger.com Clone Demo" width="100%">
 
-**Extract complete websites in 2 minutes with ONE command** ⚡
+### Extracted Design System & Components
+
+<img src="assets/screenshots/hero-image.png" alt="Leadger Product Hero" width="80%">
+
+**Auto-extract hero images, product photos, and real assets**
+
+<img src="assets/screenshots/product-demo.png" alt="Product Showcase" width="80%">
+
+**Production-ready components with exact CSS values**
+
 </div>
 
 ---
