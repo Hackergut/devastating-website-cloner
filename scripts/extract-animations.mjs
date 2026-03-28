@@ -64,10 +64,13 @@ async function extractAnimations(url) {
       const styles = window.getComputedStyle(el);
       
       if (styles.transition && styles.transition !== 'none') {
+        const classNameStr = (el.className && typeof el.className === 'string') 
+          ? el.className 
+          : (el.className && el.className.baseVal) || '';
         results.transitions.push({
           selector: el.tagName.toLowerCase() + 
             (el.id ? `#${el.id}` : '') + 
-            (el.className ? '.' + el.className.split(' ').slice(0, 2).join('.') : ''),
+            (classNameStr ? '.' + classNameStr.split(' ').slice(0, 2).join('.') : ''),
           transition: styles.transition,
           transitionProperty: styles.transitionProperty,
           transitionDuration: styles.transitionDuration,
@@ -77,10 +80,13 @@ async function extractAnimations(url) {
       }
       
       if (styles.animation && styles.animation !== 'none 0s') {
+        const classNameStr = (el.className && typeof el.className === 'string') 
+          ? el.className 
+          : (el.className && el.className.baseVal) || '';
         results.animations.push({
           selector: el.tagName.toLowerCase() + 
             (el.id ? `#${el.id}` : '') + 
-            (el.className ? '.' + el.className.split(' ').slice(0, 2).join('.') : ''),
+            (classNameStr ? '.' + classNameStr.split(' ').slice(0, 2).join('.') : ''),
           animation: styles.animation,
           animationName: styles.animationName,
           animationDuration: styles.animationDuration,

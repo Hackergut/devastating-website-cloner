@@ -1,0 +1,72 @@
+[
+  {
+    "selector": "a.activeLanguage",
+    "event": "click",
+    "handler": "return false;"
+  },
+  {
+    "selector": "select.activeLanguage.language-dropdown",
+    "event": "change",
+    "handler": "window.location.href=this.value"
+  },
+  {
+    "selector": "a.activeLanguage",
+    "event": "click",
+    "handler": "return false;"
+  },
+  {
+    "selector": "select.activeLanguage.language-dropdown",
+    "event": "change",
+    "handler": "window.location.href=this.value"
+  },
+  {
+    "selector": "a.activeLanguage",
+    "event": "click",
+    "handler": "return false;"
+  },
+  {
+    "selector": "select.activeLanguage.language-dropdown",
+    "event": "change",
+    "handler": "window.location.href=this.value"
+  },
+  {
+    "selector": "a.activeLanguage",
+    "event": "click",
+    "handler": "return false;"
+  },
+  {
+    "selector": "select.activeLanguage.language-dropdown",
+    "event": "change",
+    "handler": "window.location.href=this.value"
+  },
+  {
+    "selector": "a.activeLanguage",
+    "event": "click",
+    "handler": "return false;"
+  },
+  {
+    "selector": "select.activeLanguage.language-dropdown",
+    "event": "change",
+    "handler": "window.location.href=this.value"
+  },
+  {
+    "selector": "input#footer-mail",
+    "event": "focus",
+    "handler": "if(this.value===this.defaultValue){this.value=''; this.style.color='#fff';}"
+  },
+  {
+    "selector": "input#footer-mail",
+    "event": "blur",
+    "handler": "if(this.value===''){this.value=this.defaultValue; this.style.color='#A3A3A3'}"
+  },
+  {
+    "selector": "a.activeLanguage",
+    "event": "click",
+    "handler": "return false;"
+  },
+  {
+    "selector": "select.activeLanguage.language-dropdown",
+    "event": "change",
+    "handler": "window.location.href=this.value"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "endpoint": "https://cdn.cookielaw.org/consent/5ff3ecce-44bd-4ef3-b746-ec81546bf82a/5ff3ecce-44bd-4ef3-b746-ec81546bf82a.json",
+    "isRestAPI": false,
+    "isGraphQL": false,
+    "hasQueryParams": false,
+    "hasPathParams": true,
+    "domain": "cdn.cookielaw.org",
+    "path": "/consent/5ff3ecce-44bd-4ef3-b746-ec81546bf82a/5ff3ecce-44bd-4ef3-b746-ec81546bf82a.json"
+  },
+  {
+    "endpoint": "https://c.contentsquare.net/pageview",
+    "isRestAPI": false,
+    "isGraphQL": false,
+    "hasQueryParams": false,
+    "hasPathParams": false,
+    "domain": "c.contentsquare.net",
+    "path": "/pageview"
+  },
+  {
+    "endpoint": "https://s.yimg.com/wi/config/10159916.json",
+    "isRestAPI": false,
+    "isGraphQL": false,
+    "hasQueryParams": false,
+    "hasPathParams": true,
+    "domain": "s.yimg.com",
+    "path": "/wi/config/10159916.json"
+  },
+  {
+    "endpoint": "https://insight.adsrvr.org/track/realtimeconversion",
+    "isRestAPI": false,
+    "isGraphQL": false,
+    "hasQueryParams": false,
+    "hasPathParams": false,
+    "domain": "insight.adsrvr.org",
+    "path": "/track/realtimeconversion"
+  }
+]

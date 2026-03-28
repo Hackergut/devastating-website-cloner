@@ -65,6 +65,8 @@ async function main() {
   console.log('  6. Extract Animations');
   console.log('  7. Check Accessibility');
   console.log('  8. Analyze Performance');
+  console.log('  9. Extract Source Code (DEEP)');
+  console.log('  10. Extract Network & APIs (DEEP)');
   console.log('\n');
   
   try {
@@ -92,6 +94,12 @@ async function main() {
     // Step 8: Analyze performance
     await runScript('analyze-performance.mjs', 'Performance Analysis');
     
+    // Step 9: Extract deep source code
+    await runScript('extract-source-code.mjs', 'Deep Source Code Extraction');
+    
+    // Step 10: Extract network/API calls
+    await runScript('extract-network.mjs', 'Network & API Extraction');
+    
     const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
     
     console.log('\n');
@@ -108,6 +116,19 @@ async function main() {
     console.log('  ├─ animations.json           - All animations');
     console.log('  ├─ accessibility-issues.json - WCAG report');
     console.log('  └─ performance-metrics.json  - Core Web Vitals');
+    console.log('\n  📁 Source Code (DEEP):');
+    console.log('  ├─ raw.html                 - Complete HTML');
+    console.log('  ├─ stylesheets.json          - All CSS (inline + external)');
+    console.log('  ├─ scripts.json             - All JS (inline + external)');
+    console.log('  ├─ framework-data.json       - React/Vue/Next detection');
+    console.log('  ├─ event-handlers.json       - All event listeners');
+    console.log('  ├─ data-attributes.json      - Data attributes');
+    console.log('  └─ web-storage.json          - LocalStorage/Session');
+    console.log('\n  📁 Network (DEEP):');
+    console.log('  ├─ requests.json            - All network requests');
+    console.log('  ├─ responses.json           - API responses');
+    console.log('  ├─ api-endpoints.json        - REST/GraphQL endpoints');
+    console.log('  └─ graphql.json              - GraphQL queries');
     console.log('\n  📁 Design System:');
     console.log('  ├─ design-system.json        - Colors, fonts, spacing');
     console.log('  ├─ tailwind.config.js        - Auto-generated config');

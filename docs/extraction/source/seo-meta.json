@@ -1,0 +1,312 @@
+{
+  "title": "Ledger Crypto Wallet - Security for DeFi & Web3",
+  "meta": {
+    "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "description": "Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe",
+    "og:locale": "en_US",
+    "og:type": "website",
+    "og:title": "Ledger Crypto Wallet - Security for DeFi & Web3",
+    "og:description": "Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe",
+    "og:url": "https://www.ledger.com/",
+    "og:site_name": "Ledger",
+    "article:publisher": "https://www.facebook.com/Ledger/",
+    "article:modified_time": "2026-03-24T13:40:33+00:00",
+    "og:image": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/og_home.webp",
+    "og:image:width": "1200",
+    "og:image:height": "640",
+    "og:image:type": "image/webp",
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@ledger",
+    "generator": "WPML ver:4.9.2 stt:5,59,1,4,3,28,29,42,45,2,52,53;",
+    "msapplication-TileImage": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2021/11/Ledger_favicon.png"
+  },
+  "links": [
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/fr",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/tr",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/de",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/pt-br",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/es",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/ru",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/zh-hans",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/ja",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/ko",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/ar",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/th",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "alternate",
+      "href": "https://www.ledger.com/",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "preload",
+      "href": "https://cdn.optimizely.com/js/30433690750.js",
+      "type": "",
+      "as": "script"
+    },
+    {
+      "rel": "preconnect",
+      "href": "https://logx.optimizely.com/",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "dns-prefetch",
+      "href": "https://cdn.optimizely.com/",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "canonical",
+      "href": "https://www.ledger.com/",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "dns-prefetch",
+      "href": "https://cdn.cookielaw.org/",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "dns-prefetch",
+      "href": "https://cdn.optimizely.com/",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "dns-prefetch",
+      "href": "https://cdnjs.cloudflare.com/",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "dns-prefetch",
+      "href": "https://kit.fontawesome.com/",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "dns-prefetch",
+      "href": "https://ledger-wp-website-s3-prd.ledger.com/",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.0/swiper-bundle.min.css?ver=9.2.0",
+      "type": "text/css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/main.css?ver=14540",
+      "type": "text/css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/homepage.css?ver=14540",
+      "type": "text/css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.ledger.com/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.79",
+      "type": "text/css",
+      "as": ""
+    },
+    {
+      "rel": "icon",
+      "href": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2021/11/Ledger_favicon.png",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "icon",
+      "href": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2021/11/Ledger_favicon.png",
+      "type": "",
+      "as": ""
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2021/11/Ledger_favicon.png",
+      "type": "",
+      "as": ""
+    }
+  ],
+  "scripts": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://www.ledger.com/",
+          "url": "https://www.ledger.com/",
+          "name": "Ledger Crypto Wallet - Security for DeFi & Web3",
+          "isPartOf": {
+            "@id": "https://www.ledger.com/#website"
+          },
+          "about": {
+            "@id": "https://www.ledger.com/#organization"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://www.ledger.com/#primaryimage"
+          },
+          "image": {
+            "@id": "https://www.ledger.com/#primaryimage"
+          },
+          "thumbnailUrl": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/og_home.webp",
+          "datePublished": "2019-04-16T11:53:33+00:00",
+          "dateModified": "2026-03-24T13:40:33+00:00",
+          "description": "Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe",
+          "breadcrumb": {
+            "@id": "https://www.ledger.com/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://www.ledger.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "https://www.ledger.com/#primaryimage",
+          "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/og_home.webp",
+          "contentUrl": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/og_home.webp",
+          "width": 1200,
+          "height": 640
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.ledger.com/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Homepage"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://www.ledger.com/#website",
+          "url": "https://www.ledger.com/",
+          "name": "Ledger",
+          "description": "Keep your crypto secure, everywhere",
+          "publisher": {
+            "@id": "https://www.ledger.com/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://www.ledger.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://www.ledger.com/#organization",
+          "name": "Ledger",
+          "url": "https://www.ledger.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.ledger.com/#/schema/logo/image/",
+            "url": "https://www.ledger.com/wp-content/uploads/2023/08/Ledger-logo-696.png",
+            "contentUrl": "https://www.ledger.com/wp-content/uploads/2023/08/Ledger-logo-696.png",
+            "width": 696,
+            "height": 697,
+            "caption": "Ledger"
+          },
+          "image": {
+            "@id": "https://www.ledger.com/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/Ledger/",
+            "https://x.com/ledger",
+            "https://www.instagram.com/ledgerhq",
+            "https://www.linkedin.com/company/ledgerhq",
+            "https://www.youtube.com/Ledger"
+          ]
+        }
+      ]
+    }
+  ]
+}

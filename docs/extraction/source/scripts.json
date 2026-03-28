@@ -1,0 +1,630 @@
+[
+  {
+    "type": "inline",
+    "index": 0,
+    "code": "",
+    "typeAttr": "text/javascript",
+    "id": "uz_ps",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 1,
+    "code": "document.querySelector('html').classList.remove('no-js');",
+    "typeAttr": "",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 2,
+    "code": "\n    function getCookie(cname) {\n        let name = cname + \"=\";\n        let decodedCookie = decodeURIComponent(document.cookie);\n        let ca = decodedCookie.split(\";\");\n        for(let i = 0; i <ca.length; i++) {\n        let c = ca[i];\n        while (c.charAt(0) === \" \") {\n        c = c.substring(1);\n        }\n        if (c.indexOf(name) === 0) {\n        return c.substring(name.length, c.length);\n        }\n        }\n        return \"\";\n    }\n    function consentState() {\n        const optanonCookieBoxClosedCookieValue = getCookie(\"OptanonAlertBoxClosed\");\n\n        if (!optanonCookieBoxClosedCookieValue) return \"pending\";\n        \n        const optanonConsentCookieValue = getCookie(\"OptanonConsent\");\n        \n        if (optanonConsentCookieValue?.includes(\"C0002:1\")) return \"accepted\";\n        \n        return \"refused\";\n    }\n    \n    window.optimizely = window.optimizely || [];\n    \n    switch(consentState()) {\n        case \"accepted\":\n            window.optimizely.push({\n                type: \"sendEvents\",\n            });\n         break;\n         case \"refused\":\n            window.optimizely.push({\n                type: \"disable\",\n                scope: \"tracking\",\n            });\n        break; \n        case \"pending\":\n            window.optimizely.push({\n                type: \"holdEvents\",\n            });\n        break;\n    }\n    \n    window.addEventListener(\"DOMContentLoaded\", function () {\n      setTimeout(() => {\n        window.OneTrust.OnConsentChanged(function() {\n            if (consentState() === \"accepted\") {\n                window.optimizely.push({\n                    type: \"sendEvents\",\n                });\n            } else {\n                window.optimizely.push({\n                    type: \"disable\",\n                    scope: \"tracking\",\n                });\n            }\n        });\n      }, 500);\n    });\n    ",
+    "typeAttr": "",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 3,
+    "code": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.ledger.com/\",\"url\":\"https://www.ledger.com/\",\"name\":\"Ledger Crypto Wallet - Security for DeFi & Web3\",\"isPartOf\":{\"@id\":\"https://www.ledger.com/#website\"},\"about\":{\"@id\":\"https://www.ledger.com/#organization\"},\"primaryImageOfPage\":{\"@id\":\"https://www.ledger.com/#primaryimage\"},\"image\":{\"@id\":\"https://www.ledger.com/#primaryimage\"},\"thumbnailUrl\":\"https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/og_home.webp\",\"datePublished\":\"2019-04-16T11:53:33+00:00\",\"dateModified\":\"2026-03-24T13:40:33+00:00\",\"description\":\"Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe\",\"breadcrumb\":{\"@id\":\"https://www.ledger.com/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.ledger.com/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.ledger.com/#primaryimage\",\"url\":\"https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/og_home.webp\",\"contentUrl\":\"https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/og_home.webp\",\"width\":1200,\"height\":640},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.ledger.com/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Homepage\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.ledger.com/#website\",\"url\":\"https://www.ledger.com/\",\"name\":\"Ledger\",\"description\":\"Keep your crypto secure, everywhere\",\"publisher\":{\"@id\":\"https://www.ledger.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.ledger.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.ledger.com/#organization\",\"name\":\"Ledger\",\"url\":\"https://www.ledger.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.ledger.com/#/schema/logo/image/\",\"url\":\"https://www.ledger.com/wp-content/uploads/2023/08/Ledger-logo-696.png\",\"contentUrl\":\"https://www.ledger.com/wp-content/uploads/2023/08/Ledger-logo-696.png\",\"width\":696,\"height\":697,\"caption\":\"Ledger\"},\"image\":{\"@id\":\"https://www.ledger.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/Ledger/\",\"https://x.com/ledger\",\"https://www.instagram.com/ledgerhq\",\"https://www.linkedin.com/company/ledgerhq\",\"https://www.youtube.com/Ledger\"]}]}",
+    "typeAttr": "application/ld+json",
+    "id": "",
+    "className": "yoast-schema-graph"
+  },
+  {
+    "type": "inline",
+    "index": 4,
+    "code": "\n/* <![CDATA[ */\nvar wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}};\nvar wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}};\n//# sourceURL=wpml-cookie-js-extra\n/* ]]> */\n",
+    "typeAttr": "text/javascript",
+    "id": "wpml-cookie-js-extra",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 5,
+    "code": "(function (w, d, s, l, i) {\n        w[l] = w[l] || []\n        w[l].push({\n          'gtm.start':\n            new Date().getTime(), event: 'gtm.js'\n        })\n        var f = d.getElementsByTagName(s)[0],\n          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''\n        j.setAttributeNode(d.createAttribute('data-ot-ignore'))\n        j.async = true\n        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl\n        f.parentNode.insertBefore(j, f)\n      })(window, document, 'script', 'dataLayer', 'GTM-W5FKZ2N')",
+    "typeAttr": "",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 6,
+    "code": "\n          if (document.domain != 'ledger.com' && document.domain != 'www.ledger.com') {\n            var l = location.href\n            var r = document.referrer\n            var m = new Image()\n            m.src = '//canarytokens.com/' +\n              '5lfx15mtsy87zb3pm9pmshyam.jpg?l=' +\n              encodeURI(l) + '&amp;r=' + encodeURI(r)\n          }\n        ",
+    "typeAttr": "",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 7,
+    "code": "\n\tconst copyButton = jQuery(\".copy-button\")\n\tjQuery(document).ready(function () {\n\t\tcopyButton.click(function () {\n\t\t\tconst button = jQuery(this);\n\t\t\t// Remove the content of the span tag inside the anchor\n\t\t\tconst textToCopy = button.clone().children().remove().end().text().trim();;\n\t\t\tnavigator.clipboard.writeText(textToCopy).then(function () {\n\t\t\t\tbutton.addClass(\"copied\");\n\t\t\t}).catch(function (error) {\n\t\t\t\tconsole.error(\"Error copying text:\");\n\t\t\t})\n\t\t});\n\t\t// Event listener for clicks outside of the copyButton\n\t\tjQuery(document).on('click', function (event) {\n\t\t\tif (!copyButton.is(event.target) && !copyButton.has(event.target).length) {\n\t\t\t\tcopyButton.removeClass('copied');\n\t\t\t}\n\t\t});\n\t});\n",
+    "typeAttr": "",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 8,
+    "code": "\n{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/ledger-v2/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]}\n",
+    "typeAttr": "speculationrules",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 9,
+    "code": "\n      window.dataLayer = window.dataLayer || []\n      dataLayer.push({\n        'event': 'page_view',\n        'site_language': 'en',\n        'user_country': 'en',\n        'page_title': 'Homepage',\n        'page_type': 'page'\n      })\n    ",
+    "typeAttr": "",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 10,
+    "code": "\n        function onRecaptchaEnterpriseApiLoaded() {\n            document.dispatchEvent(new Event('recaptchaApiReady'));\n        }\n    ",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 11,
+    "code": "\n/* <![CDATA[ */\nfunction heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!=\"function\") {window.onload=e}else{window.onload=function() {t();e()}}};\tvar heateorSssSharingAjaxUrl = 'https://www.ledger.com/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.ledger.com/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.ledger.com/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = \"Link copied.\";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,\"popUpWindow\",\"height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status\")}\n//# sourceURL=heateor_sss_sharing_js-js-before\n/* ]]> */\n",
+    "typeAttr": "text/javascript",
+    "id": "heateor_sss_sharing_js-js-before",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 12,
+    "code": "\n/* <![CDATA[ */\nvar phpVariables = {\"userCountry\":\"AE\"};\n//# sourceURL=globals-js-extra\n/* ]]> */\n",
+    "typeAttr": "text/javascript",
+    "id": "globals-js-extra",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 13,
+    "code": "\n/* <![CDATA[ */\nvar ParamsDataMain = {\"url_affiliate\":\"https://affiliate.ledger.com\"};\n//# sourceURL=ledger-js-extra\n/* ]]> */\n",
+    "typeAttr": "text/javascript",
+    "id": "ledger-js-extra",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 14,
+    "code": "\n/* <![CDATA[ */\nvar ParamsDataNewsletterForm = {\"wp_ajax_url\":\"https://www.ledger.com/wp-admin/admin-ajax.php\",\"current_language_code\":\"en\",\"siteKey\":\"6Ld5wAUrAAAAAPxTES7LrOw7W8VBA5s4W6e8PtfJ\",\"recaptcha_loaded\":\"\",\"recaptcha_url\":\"https://www.google.com/recaptcha/enterprise.js?onload=onRecaptchaEnterpriseApiLoaded&render=6Ld5wAUrAAAAAPxTES7LrOw7W8VBA5s4W6e8PtfJ&hl=en\",\"loading_text\":\"Processing\"};\n//# sourceURL=newsletter-form-js-js-extra\n/* ]]> */\n",
+    "typeAttr": "text/javascript",
+    "id": "newsletter-form-js-js-extra",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 15,
+    "code": "\n{\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.ledger.com/wp-includes/js/wp-emoji-release.min.js\"}}\n",
+    "typeAttr": "application/json",
+    "id": "wp-emoji-settings",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 16,
+    "code": "\n/* <![CDATA[ */\n/*! This file is auto-generated */\nconst a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});\n//# sourceURL=https://www.ledger.com/wp-includes/js/wp-emoji-loader.min.js\n/* ]]> */\n",
+    "typeAttr": "module",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 17,
+    "code": "window.optimizely=window.optimizely||[];window.optimizely.push({type:\"event\",eventName:\"page_view\",properties:{site_language:google_tag_manager[\"rm\"][\"9346581\"](39),user_country:google_tag_manager[\"rm\"][\"9346581\"](40),page_type:google_tag_manager[\"rm\"][\"9346581\"](41),item_category:google_tag_manager[\"rm\"][\"9346581\"](42),URL:window.location.href}});",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 18,
+    "code": "(function(){window._uxa=window._uxa||[];window._uxa.push([\"afterPageView\",function(f){if(1==f.pageNumber){f=document.referrer;\"\"==f&&(f=\"Direct\");window._uxa.push([\"trackDynamicVariable\",{key:\"Referrer\",value:f}]);if(\"\"!=document.location.search){var c=\"utm_medium\";var d=\"utm_campaign\";var e=\"utm_source\";var b=\"\\x3d([a-zA-Z0-9-_]+)\";c=new RegExp(c+b);c=c.exec(document.location.search);d=new RegExp(d+b);d=d.exec(document.location.search);e=new RegExp(e+b);e=e.exec(document.location.search);b=RegExp(\"gclid\\x3d([a-zA-Z0-9-_]+)\");\nb=b.exec(document.location.search);var g=RegExp(\"fbclid\\x3d([a-zA-Z0-9-_]+)\");g=g.exec(document.location.search);var h=RegExp(\"dclid\\x3d([a-zA-Z0-9-_]+)\");h=h.exec(document.location.search)}try{null!==c&&\"undefined\"!==typeof c?\"undefined\"!==typeof c[1]&&window._uxa.push([\"trackDynamicVariable\",{key:\"Medium\",value:c[1].toLowerCase()}]):window._uxa.push([\"trackDynamicVariable\",{key:\"Medium\",value:\"false\"}]),null!==d&&\"undefined\"!==typeof d?\"undefined\"!==typeof d[1]&&window._uxa.push([\"trackDynamicVariable\",\n{key:\"Campaign\",value:d[1].toLowerCase()}]):window._uxa.push([\"trackDynamicVariable\",{key:\"Campaign\",value:\"false\"}]),null!==e&&\"undefined\"!==typeof e?\"undefined\"!==typeof e[1]&&window._uxa.push([\"trackDynamicVariable\",{key:\"Source\",value:e[1].toLowerCase()}]):window._uxa.push([\"trackDynamicVariable\",{key:\"Source\",value:\"false\"}]),null!==b&&\"undefined\"!==typeof b?\"undefined\"!==typeof b[1]&&window._uxa.push([\"trackDynamicVariable\",{key:\"Gclid\",value:\"true\"}]):window._uxa.push([\"trackDynamicVariable\",\n{key:\"Gclid\",value:\"false\"}]),null!==g&&\"undefined\"!==typeof g?\"undefined\"!==typeof g[1]&&window._uxa.push([\"trackDynamicVariable\",{key:\"Fbclid\",value:\"true\"}]):window._uxa.push([\"trackDynamicVariable\",{key:\"Fbclid\",value:\"false\"}]),null!==h&&\"undefined\"!==typeof h?\"undefined\"!==typeof h[1]&&window._uxa.push([\"trackDynamicVariable\",{key:\"Dclid\",value:\"true\"}]):window._uxa.push([\"trackDynamicVariable\",{key:\"Dclid\",value:\"false\"}])}catch(l){}}}]);try{if(\"undefined\"!==typeof dataLayer)for(var a=0;a<\ndataLayer.length;a++)for(var k=0;k<dataLayer[a].length;k++)window._uxa.push([\"setCustomVariable\",1,\"ecomm_pagetype\",dataLayer[a][k].ecomm_pagetype,3]),window._uxa.push([\"setCustomVariable\",2,\"site_language\",dataLayer[a][k].site_language,3])}catch(f){}\"undefined\"===typeof CS_CONF?(window._uxa.push([\"setPath\",window.location.pathname+window.location.hash.replace(\"#\",\"?__\")]),a=document.createElement(\"script\"),a.type=\"text/javascript\",a.async=!0,a.src=\"//t.contentsquare.net/uxa/632f3a9f096b5.js\",document.getElementsByTagName(\"head\")[0].appendChild(a)):\nwindow._uxa.push([\"trackPageview\",window.location.pathname+window.location.hash.replace(\"#\",\"?__\")])})();",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 19,
+    "code": "!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version=\"2.0\",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,\"script\",\"https://connect.facebook.net/en_US/fbevents.js\");fbq(\"init\",\"237213137153741\");fbq(\"set\",\"agent\",\"tmgoogletagmanager\",\"237213137153741\");fbq(\"track\",\"PageView\",{},{eventID:google_tag_manager[\"rm\"][\"9346581\"](49)});",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 20,
+    "code": "(function(a,c,e,k,b){a[b]=a[b]||[];a[b].push({projectId:\"10000\",properties:{pixelId:\"10159916\",userEmail:\"\\x3cemail_address\\x3e\"}});var d=c.createElement(e);d.src=k;d.async=!0;d.onload=d.onreadystatechange=function(){var f=this.readyState,l=a[b];if(!f||\"complete\"==f||\"loaded\"==f)try{var g=YAHOO.ywa.I13N.fireBeacon;a[b]=[];a[b].push=function(h){g([h])};g(l)}catch(h){}};c=c.getElementsByTagName(e)[0];e=c.parentNode;e.insertBefore(d,c)})(window,document,\"script\",\"https://s.yimg.com/wi/ytc.js\",\"dotq\");",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 21,
+    "code": "google_tag_manager[\"rm\"][\"9346581\"](50)();google_tag_manager[\"rm\"][\"9346581\"](51)();",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 22,
+    "code": "!function(a,b){var e=\"59051\";if(a.zemApi)b=function(d){return\"[object Array]\"===Object.prototype.toString.call(d)?d:[d]},a.zemApi.marketerId=b(a.zemApi.marketerId).concat(b(e));else{var c=a.zemApi=function(){c.dispatch?c.dispatch.apply(c,arguments):c.queue.push(arguments)};c.version=\"1.0\";c.loaded=!0;c.marketerId=e;c.queue=[];a=b.createElement(\"script\");a.async=!0;a.src=\"//js-tag.zemanta.com/zcpt.js\";a.type=\"text/javascript\";b=b.getElementsByTagName(\"script\")[0];b.parentNode.insertBefore(a,b)}}(window,\ndocument);zemApi(\"track\",\"PAGE_VIEW\");",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 23,
+    "code": "!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods=\"page track identify instances debug on off once ready alias group enableCookie disableCookie\".split(\" \");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f=\"https://analytics.tiktok.com/i18n/pixel/events.js\";\na._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement(\"script\");c.type=\"text/javascript\";c.async=!0;c.src=f+\"?sdkid\\x3d\"+b+\"\\x26lib\\x3d\"+e;b=document.getElementsByTagName(\"script\")[0];b.parentNode.insertBefore(c,b)};a.load(\"CCM80A3C77U9QMO0Q980\");a.page({},{event_id:\"1774737992519.155879.0\"})}(window,document,\"ttq\");",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 24,
+    "code": "window.optimizely=window.optimizely||[];window.optimizely.push({type:\"sendEvents\"});",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 25,
+    "code": "(function(b,c,e,a,f,d){b[a]=b[a]||[];b[a].push({\"tag.start\":(new Date).getTime(),event:\"tag.js\",id:d,ad:f});b=c.getElementsByTagName(e)[0];c=c.createElement(e);a=a!=\"cibleclic_pt\"?\"\\x26l\\x3d\"+a:\"\";c.async=!0;c.src=\"https://\"+d+\".userly.net/cl.js?id\\x3d\"+d+\"\\x26ad\\x3d\"+f+a;b.parentNode.insertBefore(c,b)})(window,document,\"script\",\"cibleclic_pta\",541,2632);",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 26,
+    "code": "window._tfa=window._tfa||[];window._tfa.push({notify:\"event\",name:\"page_view\",id:1893020});!function(a,b,d,c){document.getElementById(c)||(a.async=1,a.src=d,a.id=c,b.parentNode.insertBefore(a,b))}(document.createElement(\"script\"),document.getElementsByTagName(\"script\")[0],\"//cdn.taboola.com/libtrc/unip/1893020/tfa.js\",\"tb_tfa_script\");",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 27,
+    "code": "ttd_dom_ready(function(){if(\"function\"===typeof TTDUniversalPixelApi){var a=new TTDUniversalPixelApi;a.init(\"ybd3fwz\",[\"x70jfyp\"],\"https://insight.adsrvr.org/track/up\",{td1:google_tag_manager[\"rm\"][\"9346581\"](52),td2:google_tag_manager[\"rm\"][\"9346581\"](53),v:google_tag_manager[\"rm\"][\"9346581\"](54)})}});",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "inline",
+    "index": 28,
+    "code": "var cibleclic_pt=[{page:\"homepage\"}];",
+    "typeAttr": "text/javascript",
+    "id": "",
+    "className": ""
+  },
+  {
+    "type": "external",
+    "index": 0,
+    "src": "https://2632.userly.net/trk/index.php?script_source=homepage&u=541,884a%205284-c826-69a0-358b-%20a753%209068,1774741595,",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 1,
+    "src": "https://analytics.tiktok.com/i18n/pixel/static/identify_5cff1caf.js",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 2,
+    "src": "https://analytics.tiktok.com/i18n/pixel/static/main.MTJlMjhkNzMyMQ.js",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 3,
+    "src": "https://www.googletagmanager.com/gtag/js?id=G-Y38HP2KGC3&cx=c&gtm=4e63p1h1",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 4,
+    "src": "https://cdn.taboola.com/libtrc/unip/1893020/tfa.js",
+    "typeAttr": "",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 5,
+    "src": "https://2632.userly.net/cl.js?id=2632&ad=541&l=cibleclic_pta",
+    "typeAttr": "",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 6,
+    "src": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CCM80A3C77U9QMO0Q980&lib=ttq",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 7,
+    "src": "https://js-tag.zemanta.com/zcpt.js",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 8,
+    "src": "https://s.yimg.com/wi/ytc.js",
+    "typeAttr": "",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 9,
+    "src": "https://connect.facebook.net/signals/config/237213137153741?v=2.9.285&r=stable&domain=www.ledger.com&hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157",
+    "typeAttr": "",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 10,
+    "src": "https://connect.facebook.net/en_US/fbevents.js",
+    "typeAttr": "",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 11,
+    "src": "https://p.teads.tv/teads-fellow.js",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 12,
+    "src": "https://static.ads-twitter.com/uwt.js",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 13,
+    "src": "https://www.redditstatic.com/ads/pixel.js",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 14,
+    "src": "https://bat.bing.com/bat.js",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 15,
+    "src": "https://www.googletagmanager.com/gtm.js?id=GTM-W5FKZ2N",
+    "typeAttr": "",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 16,
+    "src": "https://www.ledger.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=491900",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": true,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 17,
+    "src": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js?ver=1",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 18,
+    "src": "https://cdn.optimizely.com/js/30433690750.js?ver=1",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 19,
+    "src": "https://www.ledger.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 20,
+    "src": "https://www.ledger.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 21,
+    "src": "https://www.ledger.com/wp-includes/js/wp-emoji-release.min.js",
+    "typeAttr": "",
+    "async": true,
+    "defer": true,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 22,
+    "src": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/otBannerSdk.js",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 23,
+    "src": "https://t.contentsquare.net/uxa/632f3a9f096b5.js",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 24,
+    "src": "https://bat.bing.com/p/action/134633242.js",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 25,
+    "src": "https://2632.userly.net/p/live_ov.js",
+    "typeAttr": "text/javascript",
+    "async": true,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 26,
+    "src": "https://www.ledger.com/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.79",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 27,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/iosCookieDisable.js",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 28,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/main.js?ver=14540",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 29,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/language.js",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 30,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/globalisation-bar.js",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 31,
+    "src": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.0/swiper-bundle.min.js",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 32,
+    "src": "https://kit.fontawesome.com/f8a71d88c0.js",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 33,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/newsletter-form.js?ver=14540",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 34,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/popin.js?ver=14540",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 35,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/new-navigation.js?ver=14540",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 36,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/script-load-fifty-crypto-assets.js?ver=14540",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 37,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/homepage.js?ver=14540",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 38,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/testimonials.js?ver=14540",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 39,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/faq-2.js?ver=14540",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 40,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/supported-cryptos-swiper.js?ver=14540",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 41,
+    "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/recover-block.js?ver=14540",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 42,
+    "src": "https://js.adsrvr.org/up_loader.1.1.0.js",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  },
+  {
+    "type": "external",
+    "index": 43,
+    "src": "https://try.abtasty.com/2f64c37290a95967d11de606157a17ac.js",
+    "typeAttr": "text/javascript",
+    "async": false,
+    "defer": false,
+    "module": false
+  }
+]

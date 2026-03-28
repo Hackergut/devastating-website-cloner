@@ -1,0 +1,2857 @@
+{
+  "api": [
+    {
+      "url": "https://cdn.cookielaw.org/consent/5ff3ecce-44bd-4ef3-b746-ec81546bf82a/5ff3ecce-44bd-4ef3-b746-ec81546bf82a.json",
+      "method": "GET",
+      "type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:31.626Z"
+    },
+    {
+      "url": "https://c.contentsquare.net/pageview?cw=1&happid=2090349489&t=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&ex=&pvt=n&la=en-US&uc=1&url=https%3A%2F%2Fwww.ledger.com%2F&dr=&dw=800&dh=10544&ww=800&wh=600&sw=800&sh=600&uu=ead83cb4-e8aa-a380-f39c-003d45221bc2&sn=1&hd=1774737993&v=15.201.10%2Bfix-8d3086b9&pid=2958&pn=1&fvt=1774737993104&fvurl=https%3A%2F%2Fwww.ledger.com%2F&cvt=1774737993105&ct=0",
+      "method": "POST",
+      "type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:33.107Z"
+    },
+    {
+      "url": "https://s.yimg.com/wi/config/10159916.json",
+      "method": "GET",
+      "type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:33.508Z"
+    },
+    {
+      "url": "https://insight.adsrvr.org/track/realtimeconversion",
+      "method": "POST",
+      "type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "eventdatasourceversion": "3.0.0",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "sec-ch-ua-mobile": "?0",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "content-type": "application/json",
+        "eventdatasource": "JsSdk",
+        "accept": "*/*",
+        "cookie": "TDID=6bc1a194-c8b9-4ac4-8902-e4b27db7322b; TDCPM=CAESFwoIYXBwbmV4dXMSCwjkiJPpvMmGPxAFEhYKB3J1Ymljb24SCwj6p5PpvMmGPxAFEhUKBmdvb2dsZRILCOKXz--8yYY_EAUYBSACKAYyCwiY4pWW08mGPxAFQg8iDQgBEgkKBXRpZXIxEAFaB3liZDNmd3pgAQ.."
+      },
+      "timestamp": "2026-03-28T22:46:37.343Z",
+      "postData": "{\"data\":[{\"adv\":\"ybd3fwz\",\"pixel_ids\":[\"x70jfyp\"],\"referrer_url\":\"https://www.ledger.com/\",\"data_processing_option\":null,\"privacy_settings\":[]}]}"
+    }
+  ],
+  "xhr": [
+    {
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+      "method": "GET",
+      "type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "accept": "application/json",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "timestamp": "2026-03-28T22:46:31.727Z"
+    },
+    {
+      "url": "https://pixel-config.reddit.com/pixels/t2_bq5gt56v/config",
+      "method": "GET",
+      "type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:33.046Z"
+    },
+    {
+      "url": "https://pro.ip-api.com/json/?key=jAoQ8GLYRzcAChw",
+      "method": "GET",
+      "type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:33.924Z"
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2021/11/Ledger_favicon.png",
+      "method": "GET",
+      "type": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; OptanonConsent=isGpcEnabled=0&datestamp=Sat+Mar+28+2026+15%3A46%3A32+GMT-0700+(Pacific+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=7262b703-1a41-4195-90d8-e08f4e4c7c08&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.ledger.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=H235%3A1%2CH156%3A1%2CH240%3A1%2CH80%3A1%2CH4%3A1%2CH8%3A1%2CH165%3A1%2CH43%3A1%2CH222%3A1%2CH226%3A1%2CH228%3A1%2CH154%3A1%2CH134%3A1%2CH49%3A1%2CH224%3A1%2CH21%3A1%2CH234%3A1%2CH45%3A1%2CH31%3A1%2CH232%3A1%2CH225%3A1%2CH189%3A1%2CH190%3A1%2CH230%3A1%2CH64%3A1%2CH168%3A1%2CH70%3A1%2CH9%3A1%2CH193%3A1%2CH179%3A1%2CH72%3A1%2CH74%3A1%2CH78%3A1%2CH82%3A1%2CH83%3A1%2CH85%3A1%2CH16%3A1%2CH17%3A1%2CH198%3A1%2CH89%3A1%2CH19%3A1%2CH20%3A1%2CH95%3A1%2CH23%3A1%2CH202%3A1%2CH96%3A1%2CH58%3A1%2CH241%3A1%2CH172%3A1%2CH99%3A1%2CH100%3A1%2CH102%3A1%2CH205%3A1%2CH29%3A1%2CH105%3A1%2CH162%3A1%2CH106%3A1%2CH108%3A1%2CH109%3A1%2CH163%3A1%2CH207%3A1%2CH112%3A1%2CH208%3A1%2CH209%3A1%2CH210%3A1%2CH211%3A1%2CH213%3A1%2CH144%3A1%2CH217%3A1&genVendors=; _shopify_y=38019bbe-413b-4873-bdc4-38456d6cd470; _rdt_uuid=1774737993040.4afde3e6-3ece-4a87-bb5f-b7bbc77c490e; _cs_c=1; _cs_id=ead83cb4-e8aa-a380-f39c-003d45221bc2.1774737993.1.1774737993.1774737993.1743519975.1808901993103.1.x; _cs_s_ctx=%7B%22firstViewTime%22%3A1774737993104%2C%22firstViewUrl%22%3A%22https%3A%2F%2Fwww.ledger.com%2F%22%2C%22sessionReferrer%22%3A%22%22%7D; _cs_s=1.0.U.9.1774739793110; _ga_Y38HP2KGC3=GS2.1.s1774737993$o1$g0$t1774737993$j60$l0$h2102523412; _ga=GA1.1.840083818.1774737993; _twpid=tw.1774737993247.69563539969173979; _tt_enable_cookie=1; _uetsid=f8223ec02af711f184087fcd7e5b6499; _uetvid=f82233202af711f1a9cbf1aa30bd1330; ttcsid=1774737993336::_WeEPUN8f819BO7g0pN1.1.1774737993556.0; ttcsid_CCM80A3C77U9QMO0Q980=1774737993336::SeOCvzxrWk29ojiA4wDs.1.1774737993556.0; FPID=FPID2.2.hRHak6DTrq5GmUPY7KaiylXH8Vf94lUpdvPIhbVAhsQ%3D.1774737993; FPLC=mMaxF09p0HWAtutuAlqwXuGmPrtQXOrCS3s%2Fxosln9C8VSq9sVNmgzPb4KqxlD%2BiCFFE5knAHjtPcJmVDln%2BNLUDDE4XrDMiAGzOyhKb9SqDGtKefGBPnrRU3TUrIA%3D%3D; FPAU=1.2.1972982138.1774737994; _fbp=fb.1.1774737993740.1825568699; _ttp=VKywaPSfxZaYWP6vlmjSre4rwTN; tfpsi=fc762bfd-3818-4a0a-b1d1-0223270bd89c; _scid=0cfbdb53-c114-402e-bb89-1340805a1120"
+      },
+      "timestamp": "2026-03-28T22:46:35.875Z"
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2021/11/Ledger_favicon.png",
+      "method": "GET",
+      "type": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; OptanonConsent=isGpcEnabled=0&datestamp=Sat+Mar+28+2026+15%3A46%3A32+GMT-0700+(Pacific+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=7262b703-1a41-4195-90d8-e08f4e4c7c08&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.ledger.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=H235%3A1%2CH156%3A1%2CH240%3A1%2CH80%3A1%2CH4%3A1%2CH8%3A1%2CH165%3A1%2CH43%3A1%2CH222%3A1%2CH226%3A1%2CH228%3A1%2CH154%3A1%2CH134%3A1%2CH49%3A1%2CH224%3A1%2CH21%3A1%2CH234%3A1%2CH45%3A1%2CH31%3A1%2CH232%3A1%2CH225%3A1%2CH189%3A1%2CH190%3A1%2CH230%3A1%2CH64%3A1%2CH168%3A1%2CH70%3A1%2CH9%3A1%2CH193%3A1%2CH179%3A1%2CH72%3A1%2CH74%3A1%2CH78%3A1%2CH82%3A1%2CH83%3A1%2CH85%3A1%2CH16%3A1%2CH17%3A1%2CH198%3A1%2CH89%3A1%2CH19%3A1%2CH20%3A1%2CH95%3A1%2CH23%3A1%2CH202%3A1%2CH96%3A1%2CH58%3A1%2CH241%3A1%2CH172%3A1%2CH99%3A1%2CH100%3A1%2CH102%3A1%2CH205%3A1%2CH29%3A1%2CH105%3A1%2CH162%3A1%2CH106%3A1%2CH108%3A1%2CH109%3A1%2CH163%3A1%2CH207%3A1%2CH112%3A1%2CH208%3A1%2CH209%3A1%2CH210%3A1%2CH211%3A1%2CH213%3A1%2CH144%3A1%2CH217%3A1&genVendors=; _shopify_y=38019bbe-413b-4873-bdc4-38456d6cd470; _rdt_uuid=1774737993040.4afde3e6-3ece-4a87-bb5f-b7bbc77c490e; _cs_c=1; _cs_id=ead83cb4-e8aa-a380-f39c-003d45221bc2.1774737993.1.1774737993.1774737993.1743519975.1808901993103.1.x; _cs_s_ctx=%7B%22firstViewTime%22%3A1774737993104%2C%22firstViewUrl%22%3A%22https%3A%2F%2Fwww.ledger.com%2F%22%2C%22sessionReferrer%22%3A%22%22%7D; _cs_s=1.0.U.9.1774739793110; _ga_Y38HP2KGC3=GS2.1.s1774737993$o1$g0$t1774737993$j60$l0$h2102523412; _ga=GA1.1.840083818.1774737993; _twpid=tw.1774737993247.69563539969173979; _tt_enable_cookie=1; _uetsid=f8223ec02af711f184087fcd7e5b6499; _uetvid=f82233202af711f1a9cbf1aa30bd1330; ttcsid=1774737993336::_WeEPUN8f819BO7g0pN1.1.1774737993556.0; ttcsid_CCM80A3C77U9QMO0Q980=1774737993336::SeOCvzxrWk29ojiA4wDs.1.1774737993556.0; FPID=FPID2.2.hRHak6DTrq5GmUPY7KaiylXH8Vf94lUpdvPIhbVAhsQ%3D.1774737993; FPLC=mMaxF09p0HWAtutuAlqwXuGmPrtQXOrCS3s%2Fxosln9C8VSq9sVNmgzPb4KqxlD%2BiCFFE5knAHjtPcJmVDln%2BNLUDDE4XrDMiAGzOyhKb9SqDGtKefGBPnrRU3TUrIA%3D%3D; FPAU=1.2.1972982138.1774737994; _fbp=fb.1.1774737993740.1825568699; _ttp=VKywaPSfxZaYWP6vlmjSre4rwTN; tfpsi=fc762bfd-3818-4a0a-b1d1-0223270bd89c; _scid=0cfbdb53-c114-402e-bb89-1340805a1120"
+      },
+      "timestamp": "2026-03-28T22:46:35.892Z"
+    },
+    {
+      "url": "https://trc-events.taboola.com/1893020/log/3/unip?en=pre_d_eng_tb&tos=4554&scd=0&ssd=1&est=1774737993861&ver=36&isls=true&src=i&invt=4500&msa=9944&rv=1&tim=1774737998415&vi=1774737993859&ri=3116308af34bd3f70a842574bbef35af&sd=v2_ec7d7a0689e39722a9591984b583bbc2_510224a1-870c-4a8a-adb2-30bee125d987-tuct10c1dfca_1774737994_1774737994_CNawjgYQnMVzGIPhgrXTMyABKAEwBDiL8g1AwoUQSO-ohQRQ____________AVgAYABovqSSqLKVoeyNAXABgAEAiAEA&ui=510224a1-870c-4a8a-adb2-30bee125d987-tuct10c1dfca&ref=null&cv=20260323-31-RELEASE&item-url=https%3A%2F%2Fwww.ledger.com%2F&cbp=OneTrust&cbpv=1&cbcd=%2CC0001%2CC0002%2CC0003%2CC0004%2CH235%2CH156%2CH240%2CH80%2CH4%2CH8%2CH165%2CH43%2CH222%2CH226%2CH228%2CH154%2CH134%2CH49%2CH224%2CH21%2CH234%2CH45%2CH31%2CH232%2CH225%2CH189%2CH190%2CH230%2CH64%2CH168%2CH70%2CH9%2CH193%2CH179%2CH72%2CH74%2CH78%2CH82%2CH83%2CH85%2CH16%2CH17%2CH198%2CH89%2CH19%2CH20%2CH95%2CH23%2CH202%2CH96%2CH58%2CH241%2CH172%2CH99%2CH100%2CH102%2CH205%2CH29%2CH105%2CH162%2CH106%2CH108%2CH109%2CH163%2CH207%2CH112%2CH208%2CH209%2CH210%2CH211%2CH213%2CH144%2CH217%2C&it=JS_PIXEL",
+      "method": "GET",
+      "type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "t_gid=510224a1-870c-4a8a-adb2-30bee125d987-tuct10c1dfca"
+      },
+      "timestamp": "2026-03-28T22:46:38.416Z"
+    },
+    {
+      "url": "https://trc-events.taboola.com/1893020/log/3/unip?en=pre_d_eng_tb&tos=10056&scd=6&ssd=1&est=1774737993861&ver=36&isls=true&src=i&invt=5500&msa=9944&rv=1&tim=1774738003917&vi=1774737993859&ri=3116308af34bd3f70a842574bbef35af&sd=v2_ec7d7a0689e39722a9591984b583bbc2_510224a1-870c-4a8a-adb2-30bee125d987-tuct10c1dfca_1774737994_1774737994_CNawjgYQnMVzGIPhgrXTMyABKAEwBDiL8g1AwoUQSO-ohQRQ____________AVgAYABovqSSqLKVoeyNAXABgAEAiAEA&ui=510224a1-870c-4a8a-adb2-30bee125d987-tuct10c1dfca&ref=null&cv=20260323-31-RELEASE&item-url=https%3A%2F%2Fwww.ledger.com%2F&cbp=OneTrust&cbpv=1&cbcd=%2CC0001%2CC0002%2CC0003%2CC0004%2CH235%2CH156%2CH240%2CH80%2CH4%2CH8%2CH165%2CH43%2CH222%2CH226%2CH228%2CH154%2CH134%2CH49%2CH224%2CH21%2CH234%2CH45%2CH31%2CH232%2CH225%2CH189%2CH190%2CH230%2CH64%2CH168%2CH70%2CH9%2CH193%2CH179%2CH72%2CH74%2CH78%2CH82%2CH83%2CH85%2CH16%2CH17%2CH198%2CH89%2CH19%2CH20%2CH95%2CH23%2CH202%2CH96%2CH58%2CH241%2CH172%2CH99%2CH100%2CH102%2CH205%2CH29%2CH105%2CH162%2CH106%2CH108%2CH109%2CH163%2CH207%2CH112%2CH208%2CH209%2CH210%2CH211%2CH213%2CH144%2CH217%2C&it=JS_PIXEL",
+      "method": "GET",
+      "type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "t_gid=510224a1-870c-4a8a-adb2-30bee125d987-tuct10c1dfca"
+      },
+      "timestamp": "2026-03-28T22:46:43.918Z"
+    },
+    {
+      "url": "https://trc-events.taboola.com/1893020/log/3/unip?en=pre_d_eng_tb&tos=20059&scd=80&ssd=1&est=1774737993861&ver=36&isls=true&src=i&invt=10000&msa=9944&rv=1&tim=1774738013920&vi=1774737993859&ri=3116308af34bd3f70a842574bbef35af&sd=v2_ec7d7a0689e39722a9591984b583bbc2_510224a1-870c-4a8a-adb2-30bee125d987-tuct10c1dfca_1774737994_1774737994_CNawjgYQnMVzGIPhgrXTMyABKAEwBDiL8g1AwoUQSO-ohQRQ____________AVgAYABovqSSqLKVoeyNAXABgAEAiAEA&ui=510224a1-870c-4a8a-adb2-30bee125d987-tuct10c1dfca&ref=null&cv=20260323-31-RELEASE&item-url=https%3A%2F%2Fwww.ledger.com%2F&cbp=OneTrust&cbpv=1&cbcd=%2CC0001%2CC0002%2CC0003%2CC0004%2CH235%2CH156%2CH240%2CH80%2CH4%2CH8%2CH165%2CH43%2CH222%2CH226%2CH228%2CH154%2CH134%2CH49%2CH224%2CH21%2CH234%2CH45%2CH31%2CH232%2CH225%2CH189%2CH190%2CH230%2CH64%2CH168%2CH70%2CH9%2CH193%2CH179%2CH72%2CH74%2CH78%2CH82%2CH83%2CH85%2CH16%2CH17%2CH198%2CH89%2CH19%2CH20%2CH95%2CH23%2CH202%2CH96%2CH58%2CH241%2CH172%2CH99%2CH100%2CH102%2CH205%2CH29%2CH105%2CH162%2CH106%2CH108%2CH109%2CH163%2CH207%2CH112%2CH208%2CH209%2CH210%2CH211%2CH213%2CH144%2CH217%2C&it=JS_PIXEL",
+      "method": "GET",
+      "type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "t_gid=510224a1-870c-4a8a-adb2-30bee125d987-tuct10c1dfca"
+      },
+      "timestamp": "2026-03-28T22:46:53.921Z"
+    }
+  ],
+  "fetch": [],
+  "websocket": [],
+  "images": [
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-short.svg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/ledger-stax-face.webp?v=1738140795",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/flex_magenta_front_desktop.webp?v=1760980832",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/lng5_desktop.webp?v=1760980866",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/classic_nanos_desktop.webp?v=1760980844",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://images.ctfassets.net/ge894kijjvls/76LvaWgTQamzcyssyjTBxS/2e05abdb956c0f9318d62f0251573113/banner_bg.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://images.ctfassets.net/ge894kijjvls/4gsMvh4slbBc716GvFZEuo/380e9c372967dc135624980507ba109f/visual_banner.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/ledger-live-app-face.webp?v=1738140795",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/recovery_solutions_desktop.webp?v=1760980844",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/multisig_desktop.webp?v=1760980696",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/ledger-card-face.webp?v=1738140795",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://images.ctfassets.net/ge894kijjvls/7n3L6wXGF6YEmaczxpya5v/7b39ec48f5100334322efd2a3e950a7c/banner_bg2.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://images.ctfassets.net/ge894kijjvls/53jPTVO8XdIHpNAQew6GVY/c45be89e1645d28f454915a0264e2668/visual2.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/ledger-academy-face.webp?v=1738140794",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/quest_desktop.webp?v=1753880361",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/blog_desktop.webp?v=17580248585",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/enterprise_9a3e3afb-5112-4fb8-aa8e-bcaa1e238bc3.webp?v=1758025058",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/partners_desktop.webp?v=1758024949",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/cobranded_desktop.webp?v=1758025128",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/entries_visuals_mob.webp?v=1738082910",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/flex_magenta_front_mobile.webp?v=1760966208",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/nano_gen5_front_mobile.webp?v=1760966208",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/classic_nanos_mobile.webp?v=1760966208",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/ll.webp?v=1738082909",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/recovery_solutions_mobile.webp?v=1760966209",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/stax_multisig_mobile.webp?v=1760966209",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/card.webp?v=1738082909",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/academy.webp?v=1738082910",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/quest_mobile.webp?v=1753880362",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/blog_mob.webp?v=1758024854",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/entreprise_mobile.webp?v=1753880362",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/partners_mob.webp?v=1758024950",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2974/4858/files/cobranded_mob.webp?v=1758025128",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2026/02/visual-23.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2026/03/eye.svg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2026/03/circles.svg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2026/03/bolt.svg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2024/10/stax_3x.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2024/07/flex_comparison_block.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/Nano-Gen5-visual.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2024/07/ledger_nanos_ranges_comparison.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/Bitcoin-Logo.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/Ethereum-logo.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/XRP-logo.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/Tron-Logo.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/SizeXL-TypeCoin-AssetUSDT.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/bnb-logo.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Solana-logo.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Cardano-logo.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Doge-Logo.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Chainlink-logo.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/matic-token-icon.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Polkadot-logo.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Wrapped-Bitcoin-logo-1.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/litecoin.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Dai-logo.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/shiba.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Uniswap-logo.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/05/Optimism.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/05/Arbitrum-logo.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/USD_Coin_icon.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/top_up_desktop.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/11/dapps_desktop_section.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/swap_desktop.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/stake_desktop.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/side-image.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/images/payment-methods-logos.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "data:image/svg+xml;charset=utf-8,%3Csvg width='4' height='3' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 0v.5H.526V3H0V0h4z' fill='%23D4A0FF'/%3E%3C/svg%3E",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "referer": ""
+      }
+    },
+    {
+      "url": "data:image/svg+xml;charset=utf-8,%3Csvg width='4' height='3' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 3v-.5H.526V0H0v3h4z' fill='%23D4A0FF'/%3E%3C/svg%3E",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "referer": ""
+      }
+    },
+    {
+      "url": "data:image/svg+xml;charset=utf-8,%3Csvg width='4' height='3' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 3v-.5h3.474V0H4v3H0z' fill='%23D4A0FF'/%3E%3C/svg%3E",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "referer": ""
+      }
+    },
+    {
+      "url": "data:image/svg+xml;charset=utf-8,%3Csvg width='4' height='3' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0v.5h3.474V3H4V0H0z' fill='%23D4A0FF'/%3E%3C/svg%3E",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "referer": ""
+      }
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/images/arrow.svg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/main.css?ver=14540",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; optimizely_user_id=38019bbe-413b-4873-bdc4-38456d6cd470"
+      }
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/images/chevronUp.svg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/main.css?ver=14540",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; optimizely_user_id=38019bbe-413b-4873-bdc4-38456d6cd470"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2026/03/banner_desktop.webp",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/09/janet.jpg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/09/primenic.jpg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/09/winny.eth_.jpg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/09/2160.jpg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/09/fanzo.jpg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/09/petrica.jpg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/09/lkmland.jpg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/09/matt.jpg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      }
+    },
+    {
+      "url": "https://s.w.org/images/core/emoji/17.0.2/svg/1f9e2.svg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4ab.svg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/ot_close.svg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/df21fb3f-71b8-491b-89ee-eb777bcaf866/637ca236-af9d-4a40-815f-1b6a15af499d/ea9d9f41-35f0-4c24-9a83-1ef746863067/White_64.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://alb.reddit.com/rp.gif?ts=1774737993044&id=t2_bq5gt56v&event=PageVisit&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=c574db0c7c27b59bee623ae7f98f4aaa985ee753c82b10459700d3a2932b17a7&uuid=4afde3e6-3ece-4a87-bb5f-b7bbc77c490e&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=&partner_version=1.0.2&opt_out=0&sh=800&sw=600&v=rdt_79aa2193&dpm=&dpcc=&dprc=",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://c.contentsquare.net/dvar?v=15.201.10%2Bfix-8d3086b9&pid=2958&pn=1&sn=1&uu=ead83cb4-e8aa-a380-f39c-003d45221bc2&dv=H4sIAAAAAAAAA6tWCkpNSy0qSi1SslJyySxKTS5R0lHyTU3JLM0FiqQl5hSnAgWcE3MLEjPT85CEgvNLi5JTkQTck3MyU5D4bkloAi4o%2FFoAUShf%2FXsAAAA%3D&ct=2&r=721540",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=e5869661-0e8e-47b9-a4cb-bff844978502&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=be51cd93-0777-469a-b774-50ceaae5557b&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774737993247.69563539969173979&txn_id=nzkax&type=javascript&version=2.3.50",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=e5869661-0e8e-47b9-a4cb-bff844978502&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=be51cd93-0777-469a-b774-50ceaae5557b&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774737993247.69563539969173979&txn_id=nzkax&type=javascript&version=2.3.50",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://bat.bing.com/action/0?ti=134633242&tm=gtm002&Ver=2&mid=af21ad88-e35c-4a69-8620-8a13518247ac&bo=1&sid=f8223ec02af711f184087fcd7e5b6499&vid=f82233202af711f1a9cbf1aa30bd1330&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&p=https%3A%2F%2Fwww.ledger.com%2F&r=&lt=1545&evt=pageLoad&sv=2&cdb=AQET&rn=657064",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/961495034/?random=1912321162&fst=1774737993745&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=800&u_h=600&gtm=45j91e63p1v886391240z879346581z99231858494za20gzb79346581zd79346581&url=https%3A%2F%2Fwww.ledger.com%2F&tiba=Homepage&auid=1972982138.1774737994&uaa=arm&uab=64&uafvl=Not-A.Brand%3B24.0.0.0%7CChromium%3B146.0.7680.153&uamb=0&uam=&uap=macOS&uapv=26.4.0&uaw=0&dma=0&npa=0&gcs=G111&gcd=13r3r3r3r5l1&pscdl=noapi&_is_sw=f15s0t1&tag_exp=0~115938466~115938469~116133314~117215456~117484252&_tu=DA",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://kin.ledger.com/_/set_cookie?val=ClNpbBoCu6MVnwWkXGiGXzKFdfMIrNumWmiPjBbe8%2FubYEpz1EE1k6EsU%2BegkodLxTy4fSY91mD9lIc5%2B7DpH2XrWzpAlOcVb8Y9nMyeC7jmpup3IkQYo6LsrpNLwTB%2BPn%2FnGTil4xsUuSZylLQ0KHlN3M1L5C64AcLvqzfh9hYHJS%2Ff1HDKqIgOgZDhmxuiLzu4VH%2Bc&path=%2F",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; OptanonConsent=isGpcEnabled=0&datestamp=Sat+Mar+28+2026+15%3A46%3A32+GMT-0700+(Pacific+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=7262b703-1a41-4195-90d8-e08f4e4c7c08&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.ledger.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=H235%3A1%2CH156%3A1%2CH240%3A1%2CH80%3A1%2CH4%3A1%2CH8%3A1%2CH165%3A1%2CH43%3A1%2CH222%3A1%2CH226%3A1%2CH228%3A1%2CH154%3A1%2CH134%3A1%2CH49%3A1%2CH224%3A1%2CH21%3A1%2CH234%3A1%2CH45%3A1%2CH31%3A1%2CH232%3A1%2CH225%3A1%2CH189%3A1%2CH190%3A1%2CH230%3A1%2CH64%3A1%2CH168%3A1%2CH70%3A1%2CH9%3A1%2CH193%3A1%2CH179%3A1%2CH72%3A1%2CH74%3A1%2CH78%3A1%2CH82%3A1%2CH83%3A1%2CH85%3A1%2CH16%3A1%2CH17%3A1%2CH198%3A1%2CH89%3A1%2CH19%3A1%2CH20%3A1%2CH95%3A1%2CH23%3A1%2CH202%3A1%2CH96%3A1%2CH58%3A1%2CH241%3A1%2CH172%3A1%2CH99%3A1%2CH100%3A1%2CH102%3A1%2CH205%3A1%2CH29%3A1%2CH105%3A1%2CH162%3A1%2CH106%3A1%2CH108%3A1%2CH109%3A1%2CH163%3A1%2CH207%3A1%2CH112%3A1%2CH208%3A1%2CH209%3A1%2CH210%3A1%2CH211%3A1%2CH213%3A1%2CH144%3A1%2CH217%3A1&genVendors=; _shopify_y=38019bbe-413b-4873-bdc4-38456d6cd470; _rdt_uuid=1774737993040.4afde3e6-3ece-4a87-bb5f-b7bbc77c490e; _cs_c=1; _cs_id=ead83cb4-e8aa-a380-f39c-003d45221bc2.1774737993.1.1774737993.1774737993.1743519975.1808901993103.1.x; _cs_s_ctx=%7B%22firstViewTime%22%3A1774737993104%2C%22firstViewUrl%22%3A%22https%3A%2F%2Fwww.ledger.com%2F%22%2C%22sessionReferrer%22%3A%22%22%7D; _cs_s=1.0.U.9.1774739793110; _ga_Y38HP2KGC3=GS2.1.s1774737993$o1$g0$t1774737993$j60$l0$h2102523412; _ga=GA1.1.840083818.1774737993; _twpid=tw.1774737993247.69563539969173979; _tt_enable_cookie=1; _uetsid=f8223ec02af711f184087fcd7e5b6499; _uetvid=f82233202af711f1a9cbf1aa30bd1330; ttcsid=1774737993336::_WeEPUN8f819BO7g0pN1.1.1774737993556.0; ttcsid_CCM80A3C77U9QMO0Q980=1774737993336::SeOCvzxrWk29ojiA4wDs.1.1774737993556.0; FPID=FPID2.2.hRHak6DTrq5GmUPY7KaiylXH8Vf94lUpdvPIhbVAhsQ%3D.1774737993; FPLC=mMaxF09p0HWAtutuAlqwXuGmPrtQXOrCS3s%2Fxosln9C8VSq9sVNmgzPb4KqxlD%2BiCFFE5knAHjtPcJmVDln%2BNLUDDE4XrDMiAGzOyhKb9SqDGtKefGBPnrRU3TUrIA%3D%3D; FPAU=1.2.1972982138.1774737994; _fbp=fb.1.1774737993740.1825568699; _ttp=VKywaPSfxZaYWP6vlmjSre4rwTN"
+      }
+    },
+    {
+      "url": "https://t.teads.tv/track?action=pageView&env=js-gtm&tag_version=8.8.2_3b95617&provider=tag&buyer_pixel_id=6887&referer=https%3A%2F%2Fwww.ledger.com%2F&user_session_id=fc762bfd-3818-4a0a-b1d1-0223270bd89c&hasConsent=true&cht=timeout",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/961495034/?random=1912321162&fst=1774735200000&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=800&u_h=600&gtm=45j91e63p1v886391240z879346581z99231858494za20gzb79346581zd79346581&url=https%3A%2F%2Fwww.ledger.com%2F&tiba=Homepage&auid=1972982138.1774737994&uaa=arm&uab=64&uafvl=Not-A.Brand%3B24.0.0.0%7CChromium%3B146.0.7680.153&uamb=0&uam=&uap=macOS&uapv=26.4.0&uaw=0&dma=0&npa=0&gcs=G111&gcd=13r3r3r3r5l1&pscdl=noapi&_is_sw=f15s0t1&tag_exp=0~115938466~115938469~116133314~117215456~117484252&_tu=DA&is_vtc=1&cid=CAQSsQEABaugfbEz8uNzOMlowwPd3C4y2JrJh5S5qfqmRD8s49gGHxUNJpV0dsybt391XFtOwnN3vl5MhJ9fNyqvQwyWPDGnMHsqFIfMtLVfMqAVU8F7k9D3Zzh6vq9_7tr8oQ7DdeDeBTR2m8wqdMPhFNNLFpelVGWPtq8Gq6HKi__OTh1SNSh_4LY9CHHx1a7HvQwflIpAwV7w5_63amr9dMeplTlHzc4mqxQjkNb93qlVOlA&random=4253973052",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "referer": "https://www.ledger.com/",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "accept-language": "en-US,en;q=0.9"
+      }
+    },
+    {
+      "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sat%2C%2028%20Mar%202026%2022%3A46%3A34%20GMT&n=7d&b=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&.yp=10159916&f=https%3A%2F%2Fwww.ledger.com%2F&enc=UTF-8&yv=1.16.6&tagmgr=gtm",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+      }
+    },
+    {
+      "url": "https://www.google.ae/pagead/1p-user-list/961495034/?random=1912321162&fst=1774735200000&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=800&u_h=600&gtm=45j91e63p1v886391240z879346581z99231858494za20gzb79346581zd79346581&url=https%3A%2F%2Fwww.ledger.com%2F&tiba=Homepage&auid=1972982138.1774737994&uaa=arm&uab=64&uafvl=Not-A.Brand%3B24.0.0.0%7CChromium%3B146.0.7680.153&uamb=0&uam=&uap=macOS&uapv=26.4.0&uaw=0&dma=0&npa=0&gcs=G111&gcd=13r3r3r3r5l1&pscdl=noapi&_is_sw=f15s0t1&tag_exp=0~115938466~115938469~116133314~117215456~117484252&_tu=DA&is_vtc=1&cid=CAQSsQEABaugfbEz8uNzOMlowwPd3C4y2JrJh5S5qfqmRD8s49gGHxUNJpV0dsybt391XFtOwnN3vl5MhJ9fNyqvQwyWPDGnMHsqFIfMtLVfMqAVU8F7k9D3Zzh6vq9_7tr8oQ7DdeDeBTR2m8wqdMPhFNNLFpelVGWPtq8Gq6HKi__OTh1SNSh_4LY9CHHx1a7HvQwflIpAwV7w5_63amr9dMeplTlHzc4mqxQjkNb93qlVOlA&random=4253973052&ipr=y",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "referer": "https://www.ledger.com/",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "accept-language": "en-US,en;q=0.9"
+      }
+    },
+    {
+      "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&b=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&.yp=10159917&f=https%3A%2F%2Fwww.ledger.com%2F&enc=UTF-8&yv=1.16.6&tagmgr=gtm",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "A3=d=AQABBEtayGkCEGPX8QL0KCM0kqCUyBV3fQoFEgEBAQGryWnSac1n0CMA_eMCAA&S=AQAAAk8MNdjIV-f2qFHdSQ4IZEI"
+      }
+    }
+  ],
+  "scripts": [
+    {
+      "url": "https://cdn.optimizely.com/js/30433690750.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "origin": "https://www.ledger.com",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:30.522Z"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js?ver=1",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:30.534Z"
+    },
+    {
+      "url": "https://cdn.optimizely.com/js/30433690750.js?ver=1",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:30.535Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:30.535Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:30.535Z"
+    },
+    {
+      "url": "https://www.ledger.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.139Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.79",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.145Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/iosCookieDisable.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.148Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/main.js?ver=14540",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.161Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/language.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.161Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/globalisation-bar.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.175Z"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.0/swiper-bundle.min.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:31.175Z"
+    },
+    {
+      "url": "https://kit.fontawesome.com/f8a71d88c0.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:31.189Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/newsletter-form.js?ver=14540",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.194Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/popin.js?ver=14540",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.208Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/new-navigation.js?ver=14540",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.220Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/script-load-fifty-crypto-assets.js?ver=14540",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.233Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/homepage.js?ver=14540",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.245Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/testimonials.js?ver=14540",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.258Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/faq-2.js?ver=14540",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.271Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/supported-cryptos-swiper.js?ver=14540",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.286Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/recover-block.js?ver=14540",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.298Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=491900",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:31.498Z"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W5FKZ2N",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:31.648Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-includes/js/wp-emoji-release.min.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; optimizely_user_id=38019bbe-413b-4873-bdc4-38456d6cd470; wp-wpml_current_language=en"
+      },
+      "timestamp": "2026-03-28T22:46:31.771Z"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/otBannerSdk.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.076Z"
+    },
+    {
+      "url": "https://bat.bing.com/bat.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.658Z"
+    },
+    {
+      "url": "https://www.redditstatic.com/ads/pixel.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.658Z"
+    },
+    {
+      "url": "https://static.ads-twitter.com/uwt.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.658Z"
+    },
+    {
+      "url": "https://p.teads.tv/teads-fellow.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.659Z"
+    },
+    {
+      "url": "https://t.contentsquare.net/uxa/632f3a9f096b5.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.659Z"
+    },
+    {
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.659Z"
+    },
+    {
+      "url": "https://s.yimg.com/wi/ytc.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.659Z"
+    },
+    {
+      "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.659Z"
+    },
+    {
+      "url": "https://js-tag.zemanta.com/zcpt.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.659Z"
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CCM80A3C77U9QMO0Q980&lib=ttq",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.660Z"
+    },
+    {
+      "url": "https://try.abtasty.com/2f64c37290a95967d11de606157a17ac.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.660Z"
+    },
+    {
+      "url": "https://2632.userly.net/cl.js?id=2632&ad=541&l=cibleclic_pta",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.660Z"
+    },
+    {
+      "url": "https://cdn.taboola.com/libtrc/unip/1893020/tfa.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.660Z"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-Y38HP2KGC3&cx=c&gtm=4e63p1",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.662Z"
+    },
+    {
+      "url": "https://connect.facebook.net/signals/config/237213137153741?v=2.9.285&r=stable&domain=www.ledger.com&hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:33.136Z"
+    },
+    {
+      "url": "https://bat.bing.com/p/action/134633242.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:33.217Z"
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MTJlMjhkNzMyMQ.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "_ttp=3BarOv1P1xBIYzF2SYWWUx6PJZ2"
+      },
+      "timestamp": "2026-03-28T22:46:33.265Z"
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_5cff1caf.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "_ttp=3BarOv1P1xBIYzF2SYWWUx6PJZ2"
+      },
+      "timestamp": "2026-03-28T22:46:33.343Z"
+    },
+    {
+      "url": "https://trc.taboola.com/1893020/trc/3/json?tim=1774737993864&data=%7B%22id%22%3A521%2C%22ii%22%3A%22%2F%22%2C%22it%22%3A%22video%22%2C%22sd%22%3Anull%2C%22ui%22%3Anull%2C%22vi%22%3A1774737993859%2C%22cv%22%3A%2220260323-31-RELEASE%22%2C%22uiv%22%3A%22default%22%2C%22u%22%3A%22https%3A%2F%2Fwww.ledger.com%2F%22%2C%22e%22%3Anull%2C%22cb%22%3A%22TFASC.trkCallback%22%2C%22qs%22%3A%22%22%2C%22r%22%3A%5B%7B%22li%22%3A%22rbox-tracking%22%2C%22s%22%3A0%2C%22uim%22%3A%22rbox-tracking%3Apub%3Dledgernew-sc%3Aabp%3D0%22%2C%22uip%22%3A%22rbox-tracking%22%2C%22orig_uip%22%3A%22rbox-tracking%22%7D%5D%2C%22cbp%22%3A%22OneTrust%22%2C%22cbpv%22%3A%221%22%2C%22cbcd%22%3A%22%2CC0001%2CC0002%2CC0003%2CC0004%2CH235%2CH156%2CH240%2CH80%2CH4%2CH8%2CH165%2CH43%2CH222%2CH226%2CH228%2CH154%2CH134%2CH49%2CH224%2CH21%2CH234%2CH45%2CH31%2CH232%2CH225%2CH189%2CH190%2CH230%2CH64%2CH168%2CH70%2CH9%2CH193%2CH179%2CH72%2CH74%2CH78%2CH82%2CH83%2CH85%2CH16%2CH17%2CH198%2CH89%2CH19%2CH20%2CH95%2CH23%2CH202%2CH96%2CH58%2CH241%2CH172%2CH99%2CH100%2CH102%2CH205%2CH29%2CH105%2CH162%2CH106%2CH108%2CH109%2CH163%2CH207%2CH112%2CH208%2CH209%2CH210%2CH211%2CH213%2CH144%2CH217%2C%22%2C%22mpvd%22%3A%7B%22en%22%3A%22page_view%22%2C%22tim%22%3A1774737993863%2C%22ref%22%3Anull%2C%22item-url%22%3A%22https%3A%2F%2Fwww.ledger.com%2F%22%2C%22tos%22%3A2%2C%22ssd%22%3A1%2C%22scd%22%3A0%2C%22it%22%3A%22JS_PIXEL%22%2C%22supv%22%3Atrue%7D%2C%22pa%22%3A%7B%22su%22%3Atrue%7D%2C%22psb%22%3Atrue%7D&pubit=i",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:33.866Z"
+    },
+    {
+      "url": "https://2632.userly.net/p/live_ov.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:34.675Z"
+    },
+    {
+      "url": "https://2632.userly.net/trk/index.php?script_source=homepage&u=541,5fdd%204e41-e7de-cf48-ab13-%20a7d9%20e191,1774741595,",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:35.852Z"
+    },
+    {
+      "url": "https://js.adsrvr.org/universal_pixel.js",
+      "method": "GET",
+      "type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://match.adsrvr.org/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "TDID=6bc1a194-c8b9-4ac4-8902-e4b27db7322b; TDCPM=CAESFwoIYXBwbmV4dXMSCwjkiJPpvMmGPxAFEhYKB3J1Ymljb24SCwj6p5PpvMmGPxAFEhUKBmdvb2dsZRILCLrMk-m8yYY_EAUYBSgGMgsImOKVltPJhj8QBUIPIg0IARIJCgV0aWVyMRABWgd5YmQzZnd6YAE."
+      },
+      "timestamp": "2026-03-28T22:46:36.511Z"
+    }
+  ],
+  "styles": [
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.0/swiper-bundle.min.css?ver=9.2.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "text/css,*/*;q=0.1"
+      },
+      "timestamp": "2026-03-28T22:46:30.527Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/main.css?ver=14540",
+      "method": "GET",
+      "type": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:30.527Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/homepage.css?ver=14540",
+      "method": "GET",
+      "type": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:30.527Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.79",
+      "method": "GET",
+      "type": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa"
+      },
+      "timestamp": "2026-03-28T22:46:30.528Z"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap",
+      "method": "GET",
+      "type": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "text/css,*/*;q=0.1"
+      },
+      "timestamp": "2026-03-28T22:46:30.554Z"
+    },
+    {
+      "url": "https://use.typekit.net/vli5gyn.css",
+      "method": "GET",
+      "type": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "text/css,*/*;q=0.1"
+      },
+      "timestamp": "2026-03-28T22:46:30.555Z"
+    },
+    {
+      "url": "https://p.typekit.net/p.css?s=1&k=vli5gyn&ht=tk&f=1982.2005.2007.2009&a=82434219&app=typekit&e=css",
+      "method": "GET",
+      "type": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://use.typekit.net/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "text/css,*/*;q=0.1"
+      },
+      "timestamp": "2026-03-28T22:46:30.971Z"
+    }
+  ],
+  "fonts": [
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+      "method": "GET",
+      "type": "font",
+      "headers": {
+        "origin": "https://www.ledger.com",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://fonts.googleapis.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:31.706Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/fonts/icomoon.ttf?ovw2pd",
+      "method": "GET",
+      "type": "font",
+      "headers": {
+        "origin": "https://www.ledger.com",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/main.css?ver=14540",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; optimizely_user_id=38019bbe-413b-4873-bdc4-38456d6cd470"
+      },
+      "timestamp": "2026-03-28T22:46:31.706Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/fonts/HMAlphaMono-Medium.otf",
+      "method": "GET",
+      "type": "font",
+      "headers": {
+        "origin": "https://www.ledger.com",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/main.css?ver=14540",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; optimizely_user_id=38019bbe-413b-4873-bdc4-38456d6cd470"
+      },
+      "timestamp": "2026-03-28T22:46:31.708Z"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2",
+      "method": "GET",
+      "type": "font",
+      "headers": {
+        "origin": "https://www.ledger.com",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://fonts.googleapis.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:31.711Z"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+      "method": "GET",
+      "type": "font",
+      "headers": {
+        "origin": "https://www.ledger.com",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://fonts.googleapis.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:31.729Z"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2",
+      "method": "GET",
+      "type": "font",
+      "headers": {
+        "origin": "https://www.ledger.com",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://fonts.googleapis.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:31.729Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/fonts/icomoon.ttf?ovw2pd",
+      "method": "GET",
+      "type": "font",
+      "headers": {
+        "origin": "https://www.ledger.com",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/main.css?ver=14540",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; optimizely_user_id=38019bbe-413b-4873-bdc4-38456d6cd470; wp-wpml_current_language=en"
+      },
+      "timestamp": "2026-03-28T22:46:31.732Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-content/themes/ledger-v2/public/fonts/HMAlphaMono-Medium.otf",
+      "method": "GET",
+      "type": "font",
+      "headers": {
+        "origin": "https://www.ledger.com",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/main.css?ver=14540",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; optimizely_user_id=38019bbe-413b-4873-bdc4-38456d6cd470; wp-wpml_current_language=en"
+      },
+      "timestamp": "2026-03-28T22:46:31.732Z"
+    }
+  ],
+  "other": [
+    {
+      "url": "https://www.ledger.com/",
+      "method": "GET",
+      "type": "document",
+      "headers": {
+        "accept-language": "en-US,en;q=0.9",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+      },
+      "timestamp": "2026-03-28T22:46:30.179Z"
+    },
+    {
+      "url": "https://www.ledger.com/wp-admin/admin-ajax.php",
+      "method": "POST",
+      "type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "content-type": "application/x-www-form-urlencoded",
+        "sec-ch-ua-mobile": "?0",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; optimizely_user_id=38019bbe-413b-4873-bdc4-38456d6cd470"
+      },
+      "timestamp": "2026-03-28T22:46:31.651Z",
+      "postData": "action=set_shopify_cookie&visitorId=38019bbe-413b-4873-bdc4-38456d6cd470"
+    },
+    {
+      "url": "https://ledger-ecom-cdn-prod.s3-eu-west-1.amazonaws.com/website/assets/cryptoAssetsShortlist.json",
+      "method": "GET",
+      "type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:31.725Z"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/5ff3ecce-44bd-4ef3-b746-ec81546bf82a/019c7002-3fbd-7a09-a29b-bb019fbfc2a1/en.json",
+      "method": "GET",
+      "type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.119Z"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/assets/otFloatingRounded.json",
+      "method": "GET",
+      "type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.163Z"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/assets/v2/otPcTab.json",
+      "method": "GET",
+      "type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.164Z"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/assets/otCommonStyles.css",
+      "method": "GET",
+      "type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.164Z"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+      "method": "GET",
+      "type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:32.199Z"
+    },
+    {
+      "url": "https://cm.teads.tv/v2/advertiser?referer=https%3A%2F%2Fwww.ledger.com%2F&buyer_pixel_id=6887&gtm_consent=true&onetrust_consent=true",
+      "method": "GET",
+      "type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:33.041Z"
+    },
+    {
+      "url": "https://kin.ledger.com/g/collect?v=2&tid=G-Y38HP2KGC3&gtm=45je63p1v886391240z879346581za20gzb79346581zd79346581&_p=1774737991626&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=840083818.1774737993&ecid=2102523412&ul=en-us&sr=800x600&_fplc=0&ur=AE-DU&uaa=arm&uab=64&uafvl=Not-A.Brand%3B24.0.0.0%7CChromium%3B146.0.7680.153&uamb=0&uam=&uap=macOS&uapv=26.4.0&uaw=0&are=1&frm=0&pscdl=noapi&sst.rnd=354429028.1774737993&sst.etld=google.ae&sst.adr=1&sst.tft=1774737991626&sst.lpc=188994230&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=1&tag_exp=0~115938466~115938469~116133314~117484252&dt=Homepage&dl=https%3A%2F%2Fwww.ledger.com%2F&dr=&sid=1774737993&sct=1&seg=0&_tu=DA&en=page_view&_fv=1&_nsi=1&_ss=1&ep.site_language=en&ep.page_type=page&ep.OneTrustActiveGroups=%2CC0001%2CC0002%2CC0003%2CC0004%2CH235%2CH156%2CH240%2CH80%2CH4%2CH8%2CH165%2CH43%2CH222%2CH226%2CH228%2CH154%2CH134%2CH49%2CH224%2CH21%2CH234%2CH45%2CH31%2CH232%2CH225%2CH189%2CH190%2CH230%2CH64%2CH168%2CH70%2CH9%2CH193%2CH179%2CH72%2CH74%2CH78%2CH82%2CH83%2CH85%2CH16%2CH17%2CH198%2CH89%2CH19%2CH20%2CH95%2CH23%2CH202%2CH96%2CH58%2CH241%2CH172%2CH99%2CH100%2CH102%2CH205%2CH29%2CH105%2CH162%2CH106%2CH108%2CH109%2CH163%2CH207%2CH112%2CH208%2CH209%2CH210%2CH211%2CH213%2CH144%2CH217%2C&ep.event_id=1774737992642.799935.0&up.user_country=en&up.site_language=en&tfd=2981&richsstsse",
+      "method": "GET",
+      "type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; OptanonConsent=isGpcEnabled=0&datestamp=Sat+Mar+28+2026+15%3A46%3A32+GMT-0700+(Pacific+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=7262b703-1a41-4195-90d8-e08f4e4c7c08&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.ledger.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=H235%3A1%2CH156%3A1%2CH240%3A1%2CH80%3A1%2CH4%3A1%2CH8%3A1%2CH165%3A1%2CH43%3A1%2CH222%3A1%2CH226%3A1%2CH228%3A1%2CH154%3A1%2CH134%3A1%2CH49%3A1%2CH224%3A1%2CH21%3A1%2CH234%3A1%2CH45%3A1%2CH31%3A1%2CH232%3A1%2CH225%3A1%2CH189%3A1%2CH190%3A1%2CH230%3A1%2CH64%3A1%2CH168%3A1%2CH70%3A1%2CH9%3A1%2CH193%3A1%2CH179%3A1%2CH72%3A1%2CH74%3A1%2CH78%3A1%2CH82%3A1%2CH83%3A1%2CH85%3A1%2CH16%3A1%2CH17%3A1%2CH198%3A1%2CH89%3A1%2CH19%3A1%2CH20%3A1%2CH95%3A1%2CH23%3A1%2CH202%3A1%2CH96%3A1%2CH58%3A1%2CH241%3A1%2CH172%3A1%2CH99%3A1%2CH100%3A1%2CH102%3A1%2CH205%3A1%2CH29%3A1%2CH105%3A1%2CH162%3A1%2CH106%3A1%2CH108%3A1%2CH109%3A1%2CH163%3A1%2CH207%3A1%2CH112%3A1%2CH208%3A1%2CH209%3A1%2CH210%3A1%2CH211%3A1%2CH213%3A1%2CH144%3A1%2CH217%3A1&genVendors=; _shopify_y=38019bbe-413b-4873-bdc4-38456d6cd470; _rdt_uuid=1774737993040.4afde3e6-3ece-4a87-bb5f-b7bbc77c490e; _cs_c=1; _cs_id=ead83cb4-e8aa-a380-f39c-003d45221bc2.1774737993.1.1774737993.1774737993.1743519975.1808901993103.1.x; _cs_s_ctx=%7B%22firstViewTime%22%3A1774737993104%2C%22firstViewUrl%22%3A%22https%3A%2F%2Fwww.ledger.com%2F%22%2C%22sessionReferrer%22%3A%22%22%7D; _cs_s=1.0.U.9.1774739793110; _ga_Y38HP2KGC3=GS2.1.s1774737993$o1$g0$t1774737993$j60$l0$h2102523412; _ga=GA1.1.840083818.1774737993"
+      },
+      "timestamp": "2026-03-28T22:46:33.175Z"
+    },
+    {
+      "url": "https://kin.ledger.com/_/service_worker/63b0/sw_iframe.html?origin=https%3A%2F%2Fwww.ledger.com&1p=1",
+      "method": "GET",
+      "type": "document",
+      "headers": {
+        "accept-language": "en-US,en;q=0.9",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "cookie": "__cf_bm=23OSL877BHQF_kx3kNx603cPAZcpu485XLaKk4RKtyM-1774737990.6322784-1.0.1.1-9DFCSg1ZMcJlbS6GV1342D12JuxvV38qyJEVE_0VzHXxNkD5Hp5ZIa1zgWOsU5KPCJchIgz6j8CmHBkziVBN8tFKG8SQcsNWp.C3Fm3tmkxbo_wdlFAVNye1kNYYgWPa; OptanonConsent=isGpcEnabled=0&datestamp=Sat+Mar+28+2026+15%3A46%3A32+GMT-0700+(Pacific+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=7262b703-1a41-4195-90d8-e08f4e4c7c08&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.ledger.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=H235%3A1%2CH156%3A1%2CH240%3A1%2CH80%3A1%2CH4%3A1%2CH8%3A1%2CH165%3A1%2CH43%3A1%2CH222%3A1%2CH226%3A1%2CH228%3A1%2CH154%3A1%2CH134%3A1%2CH49%3A1%2CH224%3A1%2CH21%3A1%2CH234%3A1%2CH45%3A1%2CH31%3A1%2CH232%3A1%2CH225%3A1%2CH189%3A1%2CH190%3A1%2CH230%3A1%2CH64%3A1%2CH168%3A1%2CH70%3A1%2CH9%3A1%2CH193%3A1%2CH179%3A1%2CH72%3A1%2CH74%3A1%2CH78%3A1%2CH82%3A1%2CH83%3A1%2CH85%3A1%2CH16%3A1%2CH17%3A1%2CH198%3A1%2CH89%3A1%2CH19%3A1%2CH20%3A1%2CH95%3A1%2CH23%3A1%2CH202%3A1%2CH96%3A1%2CH58%3A1%2CH241%3A1%2CH172%3A1%2CH99%3A1%2CH100%3A1%2CH102%3A1%2CH205%3A1%2CH29%3A1%2CH105%3A1%2CH162%3A1%2CH106%3A1%2CH108%3A1%2CH109%3A1%2CH163%3A1%2CH207%3A1%2CH112%3A1%2CH208%3A1%2CH209%3A1%2CH210%3A1%2CH211%3A1%2CH213%3A1%2CH144%3A1%2CH217%3A1&genVendors=; _shopify_y=38019bbe-413b-4873-bdc4-38456d6cd470; _rdt_uuid=1774737993040.4afde3e6-3ece-4a87-bb5f-b7bbc77c490e; _cs_c=1; _cs_id=ead83cb4-e8aa-a380-f39c-003d45221bc2.1774737993.1.1774737993.1774737993.1743519975.1808901993103.1.x; _cs_s_ctx=%7B%22firstViewTime%22%3A1774737993104%2C%22firstViewUrl%22%3A%22https%3A%2F%2Fwww.ledger.com%2F%22%2C%22sessionReferrer%22%3A%22%22%7D; _cs_s=1.0.U.9.1774739793110; _ga_Y38HP2KGC3=GS2.1.s1774737993$o1$g0$t1774737993$j60$l0$h2102523412; _ga=GA1.1.840083818.1774737993"
+      },
+      "timestamp": "2026-03-28T22:46:33.218Z"
+    },
+    {
+      "url": "https://p1.outbrain.com/v2/p/js/59051/PAGE_VIEW/?au=false&bust=03969172832594655&referrer=https%3A%2F%2Fwww.ledger.com%2F&pRef=&dl=https%3A%2F%2Fwww.ledger.com%2F&g=1&zone=all&zemApiVersion=1.0&zcptVersion=d6e89594dd0c_2026-03-26&url_referer=",
+      "method": "GET",
+      "type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:33.308Z"
+    },
+    {
+      "url": "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6",
+      "method": "POST",
+      "type": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "accept": "*/*"
+      },
+      "timestamp": "2026-03-28T22:46:33.344Z",
+      "postData": "{\"event\":\"EnrichIpv6\",\"event_id\":\"\",\"message_id\":\"messageId-1774737993337-6975497778140-CCM80A3C77U9QMO0Q980#source=2\",\"is_onsite\":false,\"timestamp\":\"2026-03-28T22:46:33.337Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KMVA1BKNBR2DSGCCBDTWH6SC_.tt.1\"},\"pixel\":{\"code\":\"CCM80A3C77U9QMO0Q980\",\"runtime\":\"1\"},\"page\":{\"url\":\"https://www.ledger.com/\",\"referrer\":\"\",\"load_progress\":\"1\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc::TeAY1gQP9HR20sp8dtjh-CCM80A3C77U9QMO0Q980\",\"pageview_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc-OzTbM.0.0::f81c6ee2-2af7-11f1-a7d3-020017046efc-CCM80A3C77U9QMO0Q980\",\"variation_id\":\"default\",\"csid\":\"1774737993336::SeOCvzxrWk29ojiA4wDs\",\"page_csid\":\"1774737993336::_WeEPUN8f819BO7g0pN1\",\"csct\":1,\"css\":1,\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36\"},\"_inspection\":{\"vids\":\"\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}},\"trigger_event\":\"Pageview\"}"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "method": "POST",
+      "type": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "accept": "*/*",
+        "cookie": "_ttp=3BarOv1P1xBIYzF2SYWWUx6PJZ2"
+      },
+      "timestamp": "2026-03-28T22:46:33.346Z",
+      "postData": "{\"event\":\"LandingPageView\",\"event_id\":\"\",\"message_id\":\"messageId-1774737993340-5450401771518-CCM80A3C77U9QMO0Q980\",\"is_onsite\":false,\"timestamp\":\"2026-03-28T22:46:33.340Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KMVA1BKNBR2DSGCCBDTWH6SC_.tt.1\"},\"pixel\":{\"code\":\"CCM80A3C77U9QMO0Q980\",\"runtime\":\"1\"},\"page\":{\"url\":\"https://www.ledger.com/\",\"referrer\":\"\",\"load_progress\":\"1\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc::TeAY1gQP9HR20sp8dtjh-CCM80A3C77U9QMO0Q980\",\"pageview_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc-OzTbM.0.0::f81c6ee2-2af7-11f1-a7d3-020017046efc-CCM80A3C77U9QMO0Q980\",\"variation_id\":\"default\",\"csid\":\"1774737993336::SeOCvzxrWk29ojiA4wDs\",\"page_csid\":\"1774737993336::_WeEPUN8f819BO7g0pN1\",\"csct\":1,\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36\"},\"_inspection\":{\"trigger_source\":\"pixel_self\",\"vids\":\"\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}}}"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "method": "POST",
+      "type": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "accept": "*/*",
+        "cookie": "_ttp=3BarOv1P1xBIYzF2SYWWUx6PJZ2"
+      },
+      "timestamp": "2026-03-28T22:46:33.346Z",
+      "postData": "{\"event\":\"Pageview\",\"event_id\":\"\",\"message_id\":\"messageId-1774737993337-6975497778140-CCM80A3C77U9QMO0Q980\",\"is_onsite\":false,\"timestamp\":\"2026-03-28T22:46:33.337Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KMVA1BKNBR2DSGCCBDTWH6SC_.tt.1\"},\"pixel\":{\"code\":\"CCM80A3C77U9QMO0Q980\",\"runtime\":\"1\"},\"page\":{\"url\":\"https://www.ledger.com/\",\"referrer\":\"\",\"load_progress\":\"1\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc::TeAY1gQP9HR20sp8dtjh-CCM80A3C77U9QMO0Q980\",\"pageview_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc-OzTbM.0.0::f81c6ee2-2af7-11f1-a7d3-020017046efc-CCM80A3C77U9QMO0Q980\",\"variation_id\":\"default\",\"csid\":\"1774737993336::SeOCvzxrWk29ojiA4wDs\",\"page_csid\":\"1774737993336::_WeEPUN8f819BO7g0pN1\",\"csct\":1,\"css\":1,\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36\"},\"_inspection\":{\"vids\":\"\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}}}"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+      "method": "POST",
+      "type": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "accept": "*/*",
+        "cookie": "_ttp=3BarOv1P1xBIYzF2SYWWUx6PJZ2"
+      },
+      "timestamp": "2026-03-28T22:46:33.559Z",
+      "postData": "{\"event_id\":\"\",\"message_id\":\"messageId-1774737993556-2735520918692\",\"is_onsite\":false,\"timestamp\":\"2026-03-28T22:46:33.556Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KMVA1BKNBR2DSGCCBDTWH6SC_.tt.1\"},\"pixel\":{\"code\":\"CCM80A3C77U9QMO0Q980\",\"runtime\":\"1\",\"codes\":\"CCM80A3C77U9QMO0Q980\"},\"page\":{\"url\":\"https://www.ledger.com/\",\"referrer\":\"\",\"load_progress\":\"1\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc::TeAY1gQP9HR20sp8dtjh\",\"pageview_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc-OzTbM.0.0::f81c6ee2-2af7-11f1-a7d3-020017046efc\",\"variation_id\":\"default\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36\",\"index\":0,\"sessions\":[{\"csid\":\"1774737993336::SeOCvzxrWk29ojiA4wDs\",\"page_csid\":\"1774737993336::_WeEPUN8f819BO7g0pN1\",\"csct\":1,\"pixel_code\":\"CCM80A3C77U9QMO0Q980\"}]},\"_inspection\":{\"vids\":\"\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}},\"action\":\"Metadata\",\"auto_collected_properties\":{\"page_trigger\":\"PageView\",\"content_data\":{\"open_graph\":\"{\\\"og:locale\\\":\\\"en_US\\\",\\\"og:type\\\":\\\"website\\\",\\\"og:title\\\":\\\"Ledger Crypto Wallet - Security for DeFi & Web3\\\",\\\"og:description\\\":\\\"Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe\\\",\\\"og:url\\\":\\\"https://www.ledger.com/\\\",\\\"og:site_name\\\":\\\"Ledger\\\",\\\"article:publisher\\\":\\\"https://www.facebook.com/Ledger/\\\",\\\"article:modified_time\\\":\\\"2026-03-24T13:40:33+00:00\\\",\\\"og:image\\\":\\\"https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/og_home.webp\\\",\\\"og:image:width\\\":\\\"1200\\\",\\\"og:image:height\\\":\\\"640\\\",\\\"og:image:type\\\":\\\"image/webp\\\",\\\"twitter:card\\\":\\\"summary_large_image\\\",\\\"twitter:site\\\":\\\"@ledger\\\"}\",\"microdata\":\"[{\\\"dimensions\\\":{\\\"h\\\":1071,\\\"w\\\":800},\\\"properties\\\":{},\\\"subscopes\\\":[{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":0},\\\"properties\\\":{\\\"name\\\":\\\"What is a crypto wallet?\\\"},\\\"subscopes\\\":[{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":0},\\\"properties\\\":{\\\"text\\\":\\\"Thinking about buying crypto or NFTs? You’ll need a crypto wallet.\\\\nWhen you create a wallet, two keys are generated: a private one and a public one. The wallet stores your keys and enables you to sign transactions, generate new addresses, initiate transfers, track portfolio balances, manage your crypto, and interact with dApps.\\\\nCrypto wallets come in many forms, from hardware wallets, like Ledger’s, to mobile apps that you can download on your phone or tablet.\\\"},\\\"subscopes\\\":[],\\\"type\\\":\\\"https://schema.org/Answer\\\"}],\\\"type\\\":\\\"https://schema.org/Question\\\"},{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":0},\\\"properties\\\":{\\\"name\\\":\\\"How do crypto wallets work?\\\"},\\\"subscopes\\\":[{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":0},\\\"properties\\\":{\\\"text\\\":\\\"When you buy crypto like Bitcoin and Ethereum, you’re issued two keys: one is public and the other is private.\\\\nThe public key can be compared to a bank account number that you can share with third parties to receive crypto without worrying that your assets will be compromised.\\\\nThe private key signs transactions and allows you to send and receive crypto. It’s crucial to keep your private keys secure and secret. If anyone has access to them, they will also have access to any crypto assets associat\\\"},\\\"subscopes\\\":[],\\\"type\\\":\\\"https://schema.org/Answer\\\"}],\\\"type\\\":\\\"https://schema.org/Question\\\"},{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":0},\\\"properties\\\":{\\\"name\\\":\\\"What are the different types of crypto wallets?\\\"},\\\"subscopes\\\":[{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":0},\\\"properties\\\":{\\\"text\\\":\\\"There are different types of crypto wallets, each with its own benefits and drawbacks.\\\\nHot wallets are connected to the internet and usually convenient to use, however, they are also vulnerable to online attacks. Examples include web-based, mobile, and desktop wallets. Cold wallets keep your private keys offline and out of reach of online threats. Examples include paper and hardware wallets.\\\\nWallets can also be categorized as custodial or non-custodial, depending on who holds the private keys. S\\\"},\\\"subscopes\\\":[],\\\"type\\\":\\\"https://schema.org/Answer\\\"}],\\\"type\\\":\\\"https://schema.org/Question\\\"},{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":0},\\\"properties\\\":{\\\"name\\\":\\\"Why do I need a hardware wallet?\\\"},\\\"subscopes\\\":[{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":0},\\\"properties\\\":{\\\"text\\\":\\\"Hot wallets store private keys on systems connected to the internet, which makes them susceptible to online attacks. Keeping your crypto on an exchange also means you have no true ownership or control over it. If the exchange files for bankruptcy or pauses withdrawals, you lose access to your funds.\\\\nHardware wallets store your private keys offline, giving you full control and enhanced security. Even if you misplace or lose your hardware wallet, you can get a new one and use your Secret Recovery \\\"},\\\"subscopes\\\":[],\\\"type\\\":\\\"https://schema.org/Answer\\\"}],\\\"type\\\":\\\"https://schema.org/Question\\\"},{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":0},\\\"properties\\\":{\\\"name\\\":\\\"How to get a crypto wallet?\\\"},\\\"subscopes\\\":[{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":0},\\\"properties\\\":{\\\"text\\\":\\\"Ready to get started? Here are the steps for getting your crypto wallet:\\\\n\\\\nGet a Ledger hardware wallet. It stores your private keys in a secure, offline environment giving you peace of mind and complete control over your assets. All Ledger crypto wallets are powered by an industry-leading Secure Element chip, together with Ledger’s proprietary OS that protects your crypto & NFTs from sophisticated hacks.\\\\nPair your Ledger crypto wallet with the Ledger Wallet app to easily manage your crypto, keep\\\"},\\\"subscopes\\\":[],\\\"type\\\":\\\"https://schema.org/Answer\\\"}],\\\"type\\\":\\\"https://schema.org/Question\\\"},{\\\"dimensions\\\":{\\\"h\\\":327,\\\"w\\\":623},\\\"properties\\\":{\\\"name\\\":\\\"What is a crypto wallet?\\\"},\\\"subscopes\\\":[{\\\"dimensions\\\":{\\\"h\\\":239,\\\"w\\\":623},\\\"properties\\\":{\\\"text\\\":\\\"Thinking about buying crypto or NFTs? You’ll need a crypto wallet.\\\\n\\\\nWhen you create a wallet, two keys are generated: a private one and a public one. The wallet stores your keys and enables you to sign transactions, generate new addresses, initiate transfers, track portfolio balances, manage your crypto, and interact with dApps.\\\\n\\\\nCrypto wallets come in many forms, from hardware wallets, like Ledger’s, to mobile apps that you can download on your phone or tablet.\\\"},\\\"subscopes\\\":[],\\\"type\\\":\\\"https://schema.org/Answer\\\"}],\\\"type\\\":\\\"https://schema.org/Question\\\"},{\\\"dimensions\\\":{\\\"h\\\":68,\\\"w\\\":623},\\\"properties\\\":{\\\"name\\\":\\\"How do crypto wallets work?\\\"},\\\"subscopes\\\":[{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":623},\\\"properties\\\":{\\\"text\\\":\\\"When you buy crypto like Bitcoin and Ethereum, you’re issued two keys: one is public and the other is private.\\\\n\\\\nThe public key can be compared to a bank account number that you can share with third parties to receive crypto without worrying that your assets will be compromised.\\\\n\\\\nThe private key signs transactions and allows you to send and receive crypto. It’s crucial to keep your private keys secure and secret. If anyone has access to them, they will also have access to any crypto assets associ\\\"},\\\"subscopes\\\":[],\\\"type\\\":\\\"https://schema.org/Answer\\\"}],\\\"type\\\":\\\"https://schema.org/Question\\\"},{\\\"dimensions\\\":{\\\"h\\\":68,\\\"w\\\":623},\\\"properties\\\":{\\\"name\\\":\\\"What are the different types of crypto wallets?\\\"},\\\"subscopes\\\":[{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":623},\\\"properties\\\":{\\\"text\\\":\\\"There are different types of crypto wallets, each with its own benefits and drawbacks.\\\\nHot wallets are connected to the internet and usually convenient to use, however, they are also vulnerable to online attacks. Examples include web-based, mobile, and desktop wallets. Cold wallets keep your private keys offline and out of reach of online threats. Examples include paper and hardware wallets.\\\\n\\\\nWallets can also be categorized as custodial or non-custodial, depending on who holds the private keys. \\\"},\\\"subscopes\\\":[],\\\"type\\\":\\\"https://schema.org/Answer\\\"}],\\\"type\\\":\\\"https://schema.org/Question\\\"},{\\\"dimensions\\\":{\\\"h\\\":68,\\\"w\\\":623},\\\"properties\\\":{\\\"name\\\":\\\"Why do I need a hardware wallet?\\\"},\\\"subscopes\\\":[{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":623},\\\"properties\\\":{\\\"text\\\":\\\"Hot wallets store private keys on systems connected to the internet, which makes them susceptible to online attacks. Keeping your crypto on an exchange also means you have no true ownership or control over it. If the exchange files for bankruptcy or pauses withdrawals, you lose access to your funds.\\\\n\\\\nHardware wallets store your private keys offline, giving you full control and enhanced security. Even if you misplace or lose your hardware wallet, you can get a new one and use your Secret Recovery\\\"},\\\"subscopes\\\":[],\\\"type\\\":\\\"https://schema.org/Answer\\\"}],\\\"type\\\":\\\"https://schema.org/Question\\\"},{\\\"dimensions\\\":{\\\"h\\\":68,\\\"w\\\":623},\\\"properties\\\":{\\\"name\\\":\\\"How to get a crypto wallet?\\\"},\\\"subscopes\\\":[{\\\"dimensions\\\":{\\\"h\\\":0,\\\"w\\\":623},\\\"properties\\\":{\\\"text\\\":\\\"Ready to get started? Here are the steps for getting your crypto wallet:\\\\n\\\\nGet a Ledger hardware wallet. It stores your private keys in a secure, offline environment giving you peace of mind and complete control over your assets. All Ledger crypto wallets are powered by an industry-leading Secure Element chip, together with Ledger’s proprietary OS that protects your crypto & NFTs from sophisticated hacks.\\\\nPair your Ledger crypto wallet with the Ledger Wallet app to easily manage your crypto, keep\\\"},\\\"subscope"
+    },
+    {
+      "url": "https://t.teads.tv/track?action=browser-topics&env=js-gtm&tag_version=8.8.2_3b95617&provider=tag&buyer_pixel_id=6887&referer=https%3A%2F%2Fwww.ledger.com%2F&user_session_id=fc762bfd-3818-4a0a-b1d1-0223270bd89c&hasConsent=true&cht=timeout",
+      "method": "GET",
+      "type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "sec-browsing-topics": "();p=P0000000000000000000000000000000"
+      },
+      "timestamp": "2026-03-28T22:46:33.817Z"
+    },
+    {
+      "url": "https://insight.adsrvr.org/track/cei?advertiser_id=ybd3fwz&cookie_sync=1&upv=3.0.0&upid=x70jfyp&ref=https://www.ledger.com/",
+      "method": "GET",
+      "type": "document",
+      "headers": {
+        "accept-language": "en-US,en;q=0.9",
+        "referer": "https://www.ledger.com/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+      },
+      "timestamp": "2026-03-28T22:46:35.875Z"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cei?advertiser_id=ybd3fwz&cookie_sync=1&upv=3.0.0&upid=x70jfyp&ref=https%3a%2f%2fwww.ledger.com&redirect=1",
+      "method": "GET",
+      "type": "document",
+      "headers": {
+        "accept-language": "en-US,en;q=0.9",
+        "referer": "https://www.ledger.com/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "cookie": "TDID=6bc1a194-c8b9-4ac4-8902-e4b27db7322b"
+      },
+      "timestamp": "2026-03-28T22:46:36.405Z"
+    },
+    {
+      "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=6bc1a194-c8b9-4ac4-8902-e4b27db7322b",
+      "method": "GET",
+      "type": "document",
+      "headers": {
+        "accept-language": "en-US,en;q=0.9",
+        "referer": "https://match.adsrvr.org/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+      },
+      "timestamp": "2026-03-28T22:46:36.516Z"
+    },
+    {
+      "url": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=6bc1a194-c8b9-4ac4-8902-e4b27db7322b&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon",
+      "method": "GET",
+      "type": "document",
+      "headers": {
+        "accept-language": "en-US,en;q=0.9",
+        "referer": "https://match.adsrvr.org/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+      },
+      "timestamp": "2026-03-28T22:46:36.517Z"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=NmJjMWExOTQtYzhiOS00YWM0LTg5MDItZTRiMjdkYjczMjJi&gdpr=0&gdpr_consent=&ttd_tdid=6bc1a194-c8b9-4ac4-8902-e4b27db7322b",
+      "method": "GET",
+      "type": "document",
+      "headers": {
+        "accept-language": "en-US,en;q=0.9",
+        "referer": "https://match.adsrvr.org/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "cookie": "test_cookie=CheckForPermission"
+      },
+      "timestamp": "2026-03-28T22:46:36.518Z"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/google?g_uuid=&gdpr=0&gdpr_consent=&ttd_tdid=6bc1a194-c8b9-4ac4-8902-e4b27db7322b&google_gid=CAESEPhzcZDUxTT7TyS9Ric-mWM&google_cver=1",
+      "method": "GET",
+      "type": "document",
+      "headers": {
+        "accept-language": "en-US,en;q=0.9",
+        "referer": "https://match.adsrvr.org/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "cookie": "TDID=6bc1a194-c8b9-4ac4-8902-e4b27db7322b; TDCPM=CAESFwoIYXBwbmV4dXMSCwjkiJPpvMmGPxAFEhYKB3J1Ymljb24SCwj6p5PpvMmGPxAFEhUKBmdvb2dsZRILCLrMk-m8yYY_EAUYBSgGMgsImOKVltPJhj8QBUIPIg0IARIJCgV0aWVyMRABWgd5YmQzZnd6YAE."
+      },
+      "timestamp": "2026-03-28T22:46:37.088Z"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/rubicon?gdpr=0",
+      "method": "GET",
+      "type": "document",
+      "headers": {
+        "accept-language": "en-US,en;q=0.9",
+        "referer": "https://match.adsrvr.org/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "cookie": "TDID=6bc1a194-c8b9-4ac4-8902-e4b27db7322b; TDCPM=CAESFwoIYXBwbmV4dXMSCwjkiJPpvMmGPxAFEhYKB3J1Ymljb24SCwj6p5PpvMmGPxAFEhUKBmdvb2dsZRILCOKXz--8yYY_EAUYBSABKAYyCwiY4pWW08mGPxAFQg8iDQgBEgkKBXRpZXIxEAFaB3liZDNmd3pgAQ.."
+      },
+      "timestamp": "2026-03-28T22:46:37.216Z"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel/inter",
+      "method": "POST",
+      "type": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "accept": "*/*",
+        "cookie": "_ttp=3BarOv1P1xBIYzF2SYWWUx6PJZ2"
+      },
+      "timestamp": "2026-03-28T22:46:43.346Z",
+      "postData": "{\"event_id\":\"\",\"message_id\":\"messageId-1774738003344-1101401509628\",\"is_onsite\":false,\"timestamp\":\"2026-03-28T22:46:43.344Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KMVA1BKNBR2DSGCCBDTWH6SC_.tt.1\"},\"pixel\":{\"code\":\"CCM80A3C77U9QMO0Q980\",\"runtime\":\"1\",\"codes\":\"CCM80A3C77U9QMO0Q980\"},\"page\":{\"url\":\"https://www.ledger.com/\",\"referrer\":\"\",\"load_progress\":\"2\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc::TeAY1gQP9HR20sp8dtjh\",\"pageview_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc-OzTbM.0.0::f81c6ee2-2af7-11f1-a7d3-020017046efc\",\"variation_id\":\"default\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36\",\"index\":0},\"_inspection\":{\"vids\":\"\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}},\"action\":\"Pf\",\"auto_collected_properties\":{\"action_event\":\"twt\",\"inter\":{\"ct\":0,\"st\":2},\"page_inter\":{\"metrics_type\":\"ct|st\",\"ct\":0,\"st\":2}}}"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "method": "POST",
+      "type": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "accept": "*/*",
+        "cookie": "_ttp=3BarOv1P1xBIYzF2SYWWUx6PJZ2"
+      },
+      "timestamp": "2026-03-28T22:46:43.346Z",
+      "postData": "{\"event\":\"EngagedSession\",\"event_id\":\"\",\"message_id\":\"messageId-1774738003345-5027351613614-CCM80A3C77U9QMO0Q980\",\"is_onsite\":false,\"timestamp\":\"2026-03-28T22:46:43.345Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KMVA1BKNBR2DSGCCBDTWH6SC_.tt.1\"},\"pixel\":{\"code\":\"CCM80A3C77U9QMO0Q980\",\"runtime\":\"1\"},\"page\":{\"url\":\"https://www.ledger.com/\",\"referrer\":\"\",\"load_progress\":\"2\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc::TeAY1gQP9HR20sp8dtjh-CCM80A3C77U9QMO0Q980\",\"pageview_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc-OzTbM.0.0::f81c6ee2-2af7-11f1-a7d3-020017046efc-CCM80A3C77U9QMO0Q980\",\"variation_id\":\"default\",\"csid\":\"1774737993336::SeOCvzxrWk29ojiA4wDs\",\"page_csid\":\"1774737993336::_WeEPUN8f819BO7g0pN1\",\"csct\":1,\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36\"},\"_inspection\":{\"trigger_source\":\"pixel_self\",\"vids\":\"\"},\"properties\":{\"lpv_trigger_type\":\"duration_10s\"},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}}}"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel/inter",
+      "method": "POST",
+      "type": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.ledger.com/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"24\", \"Chromium\";v=\"146\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+        "accept": "*/*",
+        "cookie": "_ttp=3BarOv1P1xBIYzF2SYWWUx6PJZ2"
+      },
+      "timestamp": "2026-03-28T22:46:53.338Z",
+      "postData": "{\"event_id\":\"\",\"message_id\":\"messageId-1774738013337-9413723288209\",\"is_onsite\":false,\"timestamp\":\"2026-03-28T22:46:53.337Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KMVA1BKNBR2DSGCCBDTWH6SC_.tt.1\"},\"pixel\":{\"code\":\"CCM80A3C77U9QMO0Q980\",\"runtime\":\"1\",\"codes\":\"CCM80A3C77U9QMO0Q980\"},\"page\":{\"url\":\"https://www.ledger.com/\",\"referrer\":\"\",\"load_progress\":\"2\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc::TeAY1gQP9HR20sp8dtjh\",\"pageview_id\":\"f81c81fe-2af7-11f1-a7d3-020017046efc-OzTbM.0.0::f81c6ee2-2af7-11f1-a7d3-020017046efc\",\"variation_id\":\"default\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36\",\"index\":0},\"_inspection\":{\"vids\":\"\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}},\"action\":\"Pf\",\"auto_collected_properties\":{\"action_event\":\"twt\",\"inter\":{\"ct\":0,\"st\":16},\"page_inter\":{\"metrics_type\":\"ct|st\",\"ct\":0,\"st\":16}}}"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "breakpoints": [
+    {
+      "name": "xs",
+      "range": "0-639px",
+      "layout": "mobile",
+      "screenshot": "mobile.png",
+      "recommendations": [
+        "Stack vertically",
+        "Full-width containers",
+        "Larger touch targets (44px min)",
+        "Single column layouts"
+      ]
+    },
+    {
+      "name": "sm",
+      "range": "640-767px",
+      "layout": "mobile-large",
+      "screenshot": "mobile.png",
+      "recommendations": [
+        "Single column, wider",
+        "Adjust font sizes",
+        "Consider 2-column for some elements"
+      ]
+    },
+    {
+      "name": "md",
+      "range": "768-1023px",
+      "layout": "tablet",
+      "screenshot": "tablet.png",
+      "recommendations": [
+        "2-column layouts possible",
+        "Sidebars visible",
+        "Adjust spacing"
+      ]
+    },
+    {
+      "name": "lg",
+      "range": "1024-1279px",
+      "layout": "desktop-small",
+      "screenshot": "desktop.png",
+      "recommendations": [
+        "Full navigation",
+        "3+ columns possible",
+        "Standard desktop spacing"
+      ]
+    },
+    {
+      "name": "xl",
+      "range": "1280-1535px",
+      "layout": "desktop",
+      "screenshot": "desktop.png",
+      "recommendations": [
+        "Max-width containers",
+        "Fixed navigation",
+        "Optimal for most content"
+      ]
+    },
+    {
+      "name": "2xl",
+      "range": "1536px+",
+      "layout": "desktop-large",
+      "screenshot": "desktop.png",
+      "recommendations": [
+        "Container max-width",
+        "Larger typography",
+        "More whitespace"
+      ]
+    }
+  ],
+  "patterns": {
+    "navigation": {
+      "mobile": "Hamburger menu or bottom navigation",
+      "tablet": "Compressed navigation or hamburger",
+      "desktop": "Full horizontal navigation"
+    },
+    "typography": {
+      "mobile": "Base size + 2-4px (larger for readability)",
+      "tablet": "Base size + 1-2px",
+      "desktop": "Base size"
+    },
+    "images": {
+      "mobile": "Full width, stacked",
+      "tablet": "Side-by-side or grid",
+      "desktop": "Grid with max-width"
+    },
+    "spacing": {
+      "mobile": "Reduced (16-24px)",
+      "tablet": "Standard (24-32px)",
+      "desktop": "Comfortable (32-48px)"
+    }
+  }
+}
