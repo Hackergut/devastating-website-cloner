@@ -36,15 +36,15 @@
 
 <div align="center">
 
-### Extracted Design System & Components
+### 🖥️ Full Homepage Clone
 
-<img src="assets/screenshots/hero-image.png" alt="Leadger Product Hero" width="80%">
+<img src="assets/screenshots/homepage-hero.png" alt="Homepage Hero Section" width="100%">
 
-**Auto-extract hero images, product photos, and real assets**
+**Automatic Puppeteer extraction of entire website design**
 
-<img src="assets/screenshots/product-demo.png" alt="Product Showcase" width="80%">
+<img src="assets/screenshots/homepage-full.png" alt="Full Homepage Screenshot" width="100%">
 
-**Production-ready components with exact CSS values**
+**116+ real images, 14,000+ exact CSS properties, design system, animations**
 
 </div>
 
