@@ -1,1 +1,160 @@
-[]
+[
+  {
+    "tag": "header",
+    "classes": [
+      "",
+      "transparent-white-font"
+    ],
+    "id": "header",
+    "position": {
+      "y": 60,
+      "height": 76
+    },
+    "childCount": 2
+  },
+  {
+    "tag": "main",
+    "classes": [
+      "ldg-container",
+      "changing-header",
+      "homepage"
+    ],
+    "id": "main",
+    "position": {
+      "y": 60,
+      "height": 9422.921875
+    },
+    "heading": "LEDGER CRYPTO WALLETS",
+    "childCount": 14
+  },
+  {
+    "tag": "a",
+    "classes": [
+      "cta",
+      "text-body-r"
+    ],
+    "id": "",
+    "position": {
+      "y": 0,
+      "height": 0
+    },
+    "childCount": 0
+  },
+  {
+    "tag": "a",
+    "classes": [
+      "cta",
+      "text-body-r"
+    ],
+    "id": "",
+    "position": {
+      "y": 4629.234375,
+      "height": 52
+    },
+    "childCount": 0
+  },
+  {
+    "tag": "section",
+    "classes": [
+      "bg",
+      "no-margin-mobile",
+      "faq-section-2"
+    ],
+    "id": "faq-section-2",
+    "position": {
+      "y": 7279.390625,
+      "height": 1151.53125
+    },
+    "heading": "FAQ",
+    "childCount": 1
+  },
+  {
+    "tag": "a",
+    "classes": [
+      "button",
+      "primary",
+      "cta"
+    ],
+    "id": "",
+    "position": {
+      "y": 8574.921875,
+      "height": 52
+    },
+    "childCount": 0
+  },
+  {
+    "tag": "section",
+    "classes": [
+      "bg-divider-dark"
+    ],
+    "id": "",
+    "position": {
+      "y": 8686.921875,
+      "height": 4
+    },
+    "childCount": 1
+  },
+  {
+    "tag": "section",
+    "classes": [
+      "bg-divider-dark"
+    ],
+    "id": "",
+    "position": {
+      "y": 9478.921875,
+      "height": 4
+    },
+    "childCount": 1
+  },
+  {
+    "tag": "footer",
+    "classes": [
+      "ldg-container"
+    ],
+    "id": "footer",
+    "position": {
+      "y": 9482.921875,
+      "height": 1217.59375
+    },
+    "childCount": 2
+  },
+  {
+    "tag": "section",
+    "classes": [
+      "ot-hide",
+      "ot-pc-scrollbar",
+      "ot-enbl-chr"
+    ],
+    "id": "ot-pc-lst",
+    "position": {
+      "y": 0,
+      "height": 0
+    },
+    "heading": "Vendors List",
+    "childCount": 3
+  },
+  {
+    "tag": "section",
+    "classes": [
+      "ot-pc-scrollbar"
+    ],
+    "id": "ot-lst-cnt",
+    "position": {
+      "y": 0,
+      "height": 0
+    },
+    "childCount": 1
+  },
+  {
+    "tag": "section",
+    "classes": [
+      ""
+    ],
+    "id": "ot-fltr-modal",
+    "position": {
+      "y": 0,
+      "height": 0
+    },
+    "childCount": 1
+  }
+]

@@ -7,15 +7,13 @@ import Footer from "@/components/sections/Footer";
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <main style={{ minHeight: '100vh' }}>
       <Header />
-      <main className="flex-1">
-        <Hero />
-        <Products />
-        <Features />
-        <FAQ />
-      </main>
+      <Hero />
+      <Products />
+      <Features />
+      <FAQ />
       <Footer />
-    </div>
+    </main>
   );
 }

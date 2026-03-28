@@ -1,4 +1,9 @@
 {
-  "title": "Example Domain",
-  "viewport": "width=device-width, initial-scale=1"
+  "title": "Ledger Crypto Wallet - Security for DeFi & Web3",
+  "description": "Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe",
+  "ogTitle": "Ledger Crypto Wallet - Security for DeFi & Web3",
+  "ogDescription": "Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe",
+  "ogImage": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/og_home.webp",
+  "favicon": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2021/11/Ledger_favicon.png",
+  "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1"
 }

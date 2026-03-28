@@ -1,0 +1,95 @@
+:root {
+  /* Colors - Primary */
+  --color-primary-100: rgba(0, 0, 0, 0);
+  --color-primary-200: rgb(0, 0, 0);
+  --color-primary-300: rgb(255, 255, 255);
+  --color-primary-400: rgb(148, 148, 148);
+  --color-primary-500: rgb(229, 229, 229);
+  --color-primary-600: rgba(255, 255, 255, 0.1);
+  --color-primary-700: rgba(255, 255, 255, 0.02);
+  --color-primary-800: rgb(10, 10, 10);
+  --color-primary-900: rgb(250, 250, 250);
+  --color-primary-1000: rgba(0, 0, 0, 0.5);
+  
+  /* Colors - Secondary */
+  --color-secondary-100: rgb(82, 82, 82);
+  --color-secondary-200: rgb(212, 160, 255);
+  --color-secondary-300: rgb(38, 38, 38);
+  --color-secondary-400: rgb(163, 163, 163);
+  --color-secondary-500: rgb(85, 85, 85);
+  --color-secondary-600: rgb(249, 255, 250);
+  --color-secondary-700: rgb(244, 244, 244);
+  --color-secondary-800: rgb(86, 86, 86);
+  
+  /* Typography */
+  --font-family-1: Inter, "Times New Roman", arial, sans-serif;
+  --font-size-16: 16px;
+  --font-size-13: 13px;
+  --font-size-20: 20px;
+  --font-size-28: 28px;
+  --font-size-32: 32px;
+  --font-size-8.5: 8.5px;
+  --font-size-22: 22px;
+  --font-size-11: 11px;
+  --font-size-14.4: 14.4px;
+  --font-size-50: 50px;
+  --font-size-21.92: 21.92px;
+  --font-size-12: 12px;
+  
+  /* Spacing */
+  --spacing--80 0px 80px: -80px 0px 80px;
+  --spacing--80: -80px;
+  --spacing--76: -76px;
+  --spacing--66 0px 0px: -66px 0px 0px;
+  --spacing--66: -66px;
+  --spacing--22 0px 0px 16px: -22px 0px 0px 16px;
+  --spacing--22: -22px;
+  --spacing--10 -10px 0px 0px: -10px -10px 0px 0px;
+  --spacing--10: -10px;
+  --spacing--1: -1px;
+  --spacing-0 16px: 0px 16px;
+  --spacing-0 0px -76px: 0px 0px -76px;
+  --spacing-0 24px: 0px 24px;
+  --spacing-0 32px 16px: 0px 32px 16px;
+  --spacing-0 32px: 0px 32px;
+  --spacing-0 29.4375px: 0px 29.4375px;
+  --spacing-0 0px 12px: 0px 0px 12px;
+  --spacing-0 0px 20px: 0px 0px 20px;
+  --spacing-0 29.4375px 24px: 0px 29.4375px 24px;
+  --spacing-0 29.4375px 40px: 0px 29.4375px 40px;
+  --spacing-0 0px 16px: 0px 0px 16px;
+  --spacing-0 0px 40px: 0px 0px 40px;
+  --spacing-0 29.4375px 80px: 0px 29.4375px 80px;
+  --spacing-0 0px 60px: 0px 0px 60px;
+  --spacing-0 29.4375px 0px 0px: 0px 29.4375px 0px 0px;
+  --spacing-0 0px 0px 10px: 0px 0px 0px 10px;
+  --spacing-0 21.92px 0px 0px: 0px 21.92px 0px 0px;
+  --spacing-0 5px 0px 0px: 0px 5px 0px 0px;
+  --spacing-0 auto 0px 0px: 0px auto 0px 0px;
+  --spacing-0 0px 0px 3%: 0px 0px 0px 3%;
+  
+  /* Border Radius */
+  --radius-0 0px 30px 30px: 0px 0px 30px 30px;
+  --radius-0 0px 2px 2px: 0px 0px 2px 2px;
+  --radius-2: 2px;
+  --radius-2.5: 2.5px;
+  --radius-3: 3px;
+  --radius-4: 4px;
+  --radius-72: 72px;
+  --radius-100: 100px;
+  --radius-100%: 100%;
+}
+
+.dark {
+  /* Dark mode colors - to be customized */
+  --color-primary-100: rgba(0, 0, 0, 0); /* Adjust for dark mode */
+  --color-primary-200: rgb(0, 0, 0); /* Adjust for dark mode */
+  --color-primary-300: rgb(255, 255, 255); /* Adjust for dark mode */
+  --color-primary-400: rgb(148, 148, 148); /* Adjust for dark mode */
+  --color-primary-500: rgb(229, 229, 229); /* Adjust for dark mode */
+  --color-primary-600: rgba(255, 255, 255, 0.1); /* Adjust for dark mode */
+  --color-primary-700: rgba(255, 255, 255, 0.02); /* Adjust for dark mode */
+  --color-primary-800: rgb(10, 10, 10); /* Adjust for dark mode */
+  --color-primary-900: rgb(250, 250, 250); /* Adjust for dark mode */
+  --color-primary-1000: rgba(0, 0, 0, 0.5); /* Adjust for dark mode */
+}

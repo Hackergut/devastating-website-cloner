@@ -1,8 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import { ChevronDown } from "lucide-react";
-import { cn } from "@/lib/utils";
 
 const faqs = [
   {
@@ -31,41 +29,68 @@ export default function FAQ() {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
   return (
-    <section className="py-20 bg-gray-50">
-      <div className="mx-auto max-w-3xl px-6 lg:px-8">
-        <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+    <section style={{ padding: '80px 0', backgroundColor: '#FAFAFA' }}>
+      <div style={{ maxWidth: '800px', margin: '0 auto', padding: '0 32px' }}>
+        {/* Header */}
+        <div style={{ textAlign: 'center', marginBottom: '48px' }}>
+          <h2 style={{
+            fontSize: '28px',
+            fontWeight: 700,
+            marginBottom: '16px',
+          }}>
             FAQ
           </h2>
-          <p className="mt-4 text-lg text-gray-600">
+          <p style={{ fontSize: '16px', color: 'rgb(85, 85, 85)' }}>
             Find answers to some of the most common questions.
           </p>
         </div>
-        
-        <div className="space-y-4">
+
+        {/* FAQ Items */}
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
           {faqs.map((faq, index) => (
             <div
               key={index}
-              className="overflow-hidden rounded-2xl bg-white shadow-sm"
+              style={{
+                background: '#fff',
+                borderRadius: '16px',
+                overflow: 'hidden',
+                boxShadow: '0 2px 8px rgba(0, 0, 0, 0.04)',
+              }}
             >
               <button
-                type="button"
-                className="flex w-full items-center justify-between px-6 py-5 text-left hover:bg-gray-50 transition-colors"
                 onClick={() => setOpenIndex(openIndex === index ? null : index)}
+                style={{
+                  width: '100%',
+                  padding: '20px 24px',
+                  background: 'transparent',
+                  border: 'none',
+                  textAlign: 'left',
+                  cursor: 'pointer',
+                  display: 'flex',
+                  justifyContent: 'space-between',
+                  alignItems: 'center',
+                  fontSize: '16px',
+                  fontWeight: 600,
+                  color: '#000',
+                }}
               >
-                <span className="text-base font-semibold text-gray-900">
-                  {faq.question}
+                {faq.question}
+                <span style={{
+                  display: 'inline-block',
+                  transition: 'transform 0.2s',
+                  transform: openIndex === index ? 'rotate(180deg)' : 'rotate(0)',
+                }}>
+                  ▼
                 </span>
-                <ChevronDown
-                  className={cn(
-                    "h-5 w-5 text-gray-500 transition-transform",
-                    openIndex === index && "rotate-180"
-                  )}
-                />
               </button>
+              
               {openIndex === index && (
-                <div className="px-6 pb-5">
-                  <p className="text-sm text-gray-600 leading-relaxed">
+                <div style={{ padding: '0 24px 20px' }}>
+                  <p style={{
+                    fontSize: '14px',
+                    color: 'rgb(85, 85, 85)',
+                    lineHeight: '1.7',
+                  }}>
                     {faq.answer}
                   </p>
                 </div>

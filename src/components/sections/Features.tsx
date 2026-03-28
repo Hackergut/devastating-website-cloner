@@ -1,9 +1,32 @@
-import { Button } from "@/components/ui/button";
+import Image from "next/image";
+
+const cryptoAssets = [
+  { name: "Bitcoin", logo: "/images/Bitcoin-Logo.webp" },
+  { name: "Ethereum", logo: "/images/Ethereum-logo.png" },
+  { name: "XRP", logo: "/images/XRP-logo.png" },
+  { name: "TRON", logo: "/images/Tron-Logo.png" },
+  { name: "Tether", logo: "/images/SizeXL-TypeCoin-AssetUSDT.png" },
+  { name: "BNB", logo: "/images/bnb-logo.webp" },
+  { name: "Solana", logo: "/images/Solana-logo.png" },
+  { name: "Cardano", logo: "/images/Cardano-logo.png" },
+  { name: "Dogecoin", logo: "/images/Doge-Logo.png" },
+  { name: "Chainlink", logo: "/images/Chainlink-logo.png" },
+  { name: "Polygon", logo: "/images/matic-token-icon.png" },
+  { name: "Polkadot", logo: "/images/Polkadot-logo.png" },
+  { name: "Wrapped Bitcoin", logo: "/images/Wrapped-Bitcoin-logo-1.png" },
+  { name: "Litecoin", logo: "/images/litecoin.png" },
+  { name: "Dai", logo: "/images/Dai-logo.png" },
+  { name: "Shiba Inu", logo: "/images/shiba.png" },
+  { name: "Uniswap", logo: "/images/Uniswap-logo.png" },
+  { name: "Optimism", logo: "/images/Optimism.png" },
+  { name: "Arbitrum", logo: "/images/Arbitrum-logo.png" },
+  { name: "USD Coin", logo: "/images/USD_Coin_icon.png" }
+];
 
 const features = [
   {
     icon: (
-      <svg className="h-12 w-12 text-blue-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="rgb(212, 160, 255)" strokeWidth="1.5">
         <path strokeLinecap="round" strokeLinejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
         <path strokeLinecap="round" strokeLinejoin="round" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/>
       </svg>
@@ -13,7 +36,7 @@ const features = [
   },
   {
     icon: (
-      <svg className="h-12 w-12 text-blue-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="rgb(212, 160, 255)" strokeWidth="1.5">
         <path strokeLinecap="round" strokeLinejoin="round" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"/>
       </svg>
     ),
@@ -22,7 +45,7 @@ const features = [
   },
   {
     icon: (
-      <svg className="h-12 w-12 text-blue-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="rgb(212, 160, 255)" strokeWidth="1.5">
         <path strokeLinecap="round" strokeLinejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z"/>
       </svg>
     ),
@@ -31,106 +54,169 @@ const features = [
   }
 ];
 
-const cryptoAssets = [
-  { name: "Bitcoin", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/Bitcoin-Logo.webp" },
-  { name: "Ethereum", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/Ethereum-logo.png" },
-  { name: "XRP", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/XRP-logo.png" },
-  { name: "TRON", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/Tron-Logo.png" },
-  { name: "Tether", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/SizeXL-TypeCoin-AssetUSDT.png" },
-  { name: "BNB", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/12/bnb-logo.webp" },
-  { name: "Solana", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Solana-logo.png" },
-  { name: "Cardano", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Cardano-logo.png" },
-  { name: "Dogecoin", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Doge-Logo.png" },
-  { name: "Chainlink", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Chainlink-logo.png" },
-  { name: "Polygon", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/matic-token-icon.png" },
-  { name: "Polkadot", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Polkadot-logo.png" },
-  { name: "Wrapped Bitcoin", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Wrapped-Bitcoin-logo-1.png" },
-  { name: "Litecoin", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/litecoin.png" },
-  { name: "Dai", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Dai-logo.png" },
-  { name: "Shiba Inu", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/shiba.png" },
-  { name: "Uniswap", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/Uniswap-logo.png" },
-  { name: "Optimism", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/05/Optimism.png" },
-  { name: "Arbitrum", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/05/Arbitrum-logo.png" },
-  { name: "USD Coin", logo: "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/11/USD_Coin_icon.png" }
-];
-
 export default function Features() {
   return (
     <>
-      <section className="py-20 bg-white">
-        <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div className="mx-auto max-w-2xl text-center mb-16">
-            <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+      {/* Manage Crypto */}
+      <section style={{ padding: '60px 0', backgroundColor: '#fff' }}>
+        <div style={{ maxWidth: '1400px', margin: '0 auto', padding: '0 32px' }}>
+          {/* Header */}
+          <div style={{ textAlign: 'center', marginBottom: '64px' }}>
+            <h2 style={{
+              fontSize: '28px',
+              fontWeight: 700,
+              marginBottom: '16px',
+            }}>
               Manage 15,000+ crypto daily
             </h2>
-            <p className="mt-4 text-lg text-gray-600">
+            <p style={{ fontSize: '16px', color: 'rgb(85, 85, 85)' }}>
               Bitcoin, Ethereum, Solana, XRP, stablecoins... you name it, it&apos;s here.
             </p>
           </div>
-          
-          <div className="grid grid-cols-1 gap-8 md:grid-cols-3">
+
+          {/* Features Grid */}
+          <div style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(3, 1fr)',
+            gap: '32px',
+            marginBottom: '48px',
+          }}>
             {features.map((feature, idx) => (
-              <div key={idx} className="flex flex-col items-center text-center p-8 rounded-3xl bg-gray-50 hover:bg-gray-100 transition-colors">
-                <div className="flex h-16 w-16 items-center justify-center">
+              <div
+                key={idx}
+                style={{
+                  textAlign: 'center',
+                  padding: '32px',
+                  borderRadius: '24px',
+                  background: 'rgb(250, 250, 250)',
+                  transition: 'background 0.2s',
+                }}
+              >
+                <div style={{
+                  width: '64px',
+                  height: '64px',
+                  margin: '0 auto 24px',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                }}>
                   {feature.icon}
                 </div>
-                <h3 className="mt-6 text-xl font-bold text-gray-900">{feature.title}</h3>
-                <p className="mt-2 text-sm text-gray-600">{feature.description}</p>
+                <h3 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '8px' }}>
+                  {feature.title}
+                </h3>
+                <p style={{ fontSize: '14px', color: 'rgb(85, 85, 85)', lineHeight: '1.5' }}>
+                  {feature.description}
+                </p>
               </div>
             ))}
           </div>
-        </div>
-      </section>
-      
-      <section className="py-20 bg-gray-50">
-        <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <h3 className="text-lg font-semibold text-gray-500 mb-4">Supports</h3>
-          </div>
-          
-          <div className="grid grid-cols-4 gap-8 sm:grid-cols-5 md:grid-cols-10">
-            {cryptoAssets.map((asset) => (
-              <div key={asset.name} className="flex flex-col items-center">
-                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md hover:shadow-lg transition-shadow">
-                  <img
+
+          {/* Crypto Logos */}
+          <div style={{ textAlign: 'center', marginBottom: '32px' }}>
+            <p style={{ fontSize: '14px', color: 'rgb(148, 148, 148)', marginBottom: '24px' }}>
+              Supports
+            </p>
+            <div style={{
+              display: 'grid',
+              gridTemplateColumns: 'repeat(10, 1fr)',
+              gap: '24px',
+              justifyItems: 'center',
+            }}>
+              {cryptoAssets.map((asset) => (
+                <div
+                  key={asset.name}
+                  style={{
+                    width: '48px',
+                    height: '48px',
+                    background: '#fff',
+                    borderRadius: '50%',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    boxShadow: '0 2px 8px rgba(0, 0, 0, 0.08)',
+                  }}
+                >
+                  <Image
                     src={asset.logo}
                     alt={asset.name}
-                    className="h-8 w-8 object-contain"
+                    width={32}
+                    height={32}
+                    style={{ objectFit: 'contain' }}
                   />
                 </div>
-              </div>
-            ))}
+              ))}
+            </div>
           </div>
-          
-          <div className="mt-12 flex justify-center">
-            <Button variant="outline">
+
+          <div style={{ textAlign: 'center' }}>
+            <a
+              href="#"
+              style={{
+                display: 'inline-block',
+                padding: '12px 24px',
+                border: '1px solid #000',
+                borderRadius: '100px',
+                fontSize: '14px',
+                fontWeight: 500,
+              }}
+            >
               See all supported cryptos
-            </Button>
+            </a>
           </div>
         </div>
       </section>
-      
-      <section className="py-20 bg-white">
-        <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div className="grid grid-cols-1 gap-12 lg:grid-cols-2 lg:gap-8">
+
+      {/* Card Section */}
+      <section style={{ padding: '80px 0', backgroundColor: 'rgb(250, 250, 250)' }}>
+        <div style={{ maxWidth: '1400px', margin: '0 auto', padding: '0 32px' }}>
+          <div style={{
+            display: 'grid',
+            gridTemplateColumns: '1fr 1fr',
+            gap: '64px',
+            alignItems: 'center',
+          }}>
+            {/* Left - Content */}
             <div>
-              <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              <h2 style={{
+                fontSize: '32px',
+                fontWeight: 700,
+                marginBottom: '24px',
+                lineHeight: '1.2',
+              }}>
                 Get cashback. Use crypto daily
               </h2>
-              <p className="mt-6 text-lg text-gray-600">
+              <p style={{
+                fontSize: '16px',
+                color: 'rgb(85, 85, 85)',
+                lineHeight: '1.6',
+                marginBottom: '32px',
+              }}>
                 Pay everywhere you go with a simple tap. Collect rewards in stablecoins or BTC.
               </p>
-              <div className="mt-8">
-                <Button variant="outline" size="lg">
-                  Free crypto card
-                </Button>
-              </div>
+              <a
+                href="#"
+                style={{
+                  display: 'inline-block',
+                  padding: '16px 32px',
+                  border: '1px solid #000',
+                  borderRadius: '100px',
+                  fontSize: '14px',
+                  fontWeight: 500,
+                }}
+              >
+                Free crypto card
+              </a>
             </div>
+
+            {/* Right - Image */}
             <div>
-              <img
-                src="https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/top_up_desktop.webp"
+              <Image
+                src="/images/top_up_desktop.webp"
                 alt="Ledger Wallet Features"
-                className="w-full rounded-3xl shadow-xl"
+                width={600}
+                height={400}
+                style={{ borderRadius: '24px', width: '100%', height: 'auto' }}
               />
             </div>
           </div>

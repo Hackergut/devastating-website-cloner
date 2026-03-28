@@ -1,205 +1,252 @@
 "use client";
 
 import { useState } from "react";
-import { Button } from "@/components/ui/button";
-import { ChevronDown, Menu, X } from "lucide-react";
+import Image from "next/image";
 
 const navigation = [
   {
     name: "Products",
-    href: "#products",
     items: [
       {
         name: "Ledger Stax",
         description: "Premium from every angle",
-        href: "#",
-        image: "https://cdn.shopify.com/s/files/1/2974/4858/files/ledger-stax-face.webp?v=1738140795"
+        image: "/images/ledger-stax-face.webp"
       },
       {
         name: "Ledger Flex",
         description: "The new standard",
-        href: "#",
         badge: "New Colors",
-        image: "https://cdn.shopify.com/s/files/1/2974/4858/files/flex_magenta_front_desktop.webp?v=1760980832"
+        image: "/images/flex_magenta_front_desktop.webp"
       },
       {
         name: "Ledger Nano Gen5",
         description: "As unique as you are",
-        href: "#",
         badge: "New",
-        image: "https://cdn.shopify.com/s/files/1/2974/4858/files/lng5_desktop.webp?v=1760980866"
+        image: "/images/lng5_desktop.webp"
       },
       {
         name: "Ledger Nano Classics",
         description: "Reliable backup protection",
-        href: "#",
         badge: "New Colors",
-        image: "https://cdn.shopify.com/s/files/1/2974/4858/files/classic_nanos_desktop.webp?v=1760980844"
+        image: "/images/classic_nanos_desktop.webp"
       }
     ]
   },
   {
     name: "Apps and Services",
-    href: "#apps",
     items: [
       {
         name: "Ledger Wallet",
         description: "Our crypto wallet app and web3 gateway",
-        href: "#",
-        image: "https://cdn.shopify.com/s/files/1/2974/4858/files/ledger-live-app-face.webp?v=1738140795"
+        image: "/images/ledger-live-app-face.webp"
       },
       {
         name: "Recovery Solutions",
         description: "Stay safe with a combination of backups",
-        href: "#",
-        image: "https://cdn.shopify.com/s/files/1/2974/4858/files/recovery_solutions_desktop.webp?v=1760980844"
+        image: "/images/recovery_solutions_desktop.webp"
       },
       {
         name: "Ledger Multisig",
         description: "The new standard for Multisig Security",
-        href: "#",
-        image: "https://cdn.shopify.com/s/files/1/2974/4858/files/multisig_desktop.webp?v=1760980696"
+        image: "/images/multisig_desktop.webp"
       },
       {
         name: "Card",
         description: "Spend crypto or use it as collateral",
-        href: "#",
-        image: "https://cdn.shopify.com/s/files/1/2974/4858/files/ledger-card-face.webp?v=1738140795"
+        image: "/images/ledger-card-face.webp"
       }
     ]
   },
-  { name: "Learn", href: "#learn" },
-  { name: "For Business", href: "#business" }
+  { name: "Learn", href: "#" },
+  { name: "For Business", href: "#" }
 ];
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const [openDropdown, setOpenDropdown] = useState<string | null>(null);
+  const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60">
-      <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8">
-        <div className="flex lg:flex-1">
-          <a href="#" className="-m-1.5 p-1.5 flex items-center gap-2">
-            <svg viewBox="0 0 100 100" className="h-8 w-8" fill="currentColor">
-              <circle cx="50" cy="50" r="45" fill="currentColor"/>
-              <text x="50" y="65" textAnchor="middle" fill="white" fontSize="40" fontWeight="bold">L</text>
-            </svg>
-            <span className="text-xl font-bold">Ledger</span>
+    <>
+      {/* Banner */}
+      <a 
+        href="#" 
+        style={{
+          display: 'block',
+          background: 'linear-gradient(90deg, rgba(212, 212, 212, 0.5), rgba(212, 212, 212, 0.1) 75.8%, rgba(212, 212, 212, 0.3))',
+          backgroundColor: '#000',
+          color: '#fff',
+          padding: '16px 24px',
+          textAlign: 'center',
+          fontSize: '16px',
+          fontWeight: 400,
+          transition: 'opacity 0.2s',
+        }}
+      >
+        Get up to $100 of BTC to swap, stake, spend and more via Ledger Wallet™
+        <span style={{ 
+          marginLeft: '8px',
+          background: 'rgba(255, 255, 255, 0.1)',
+          padding: '4px 12px',
+          borderRadius: '4px',
+          fontSize: '13px'
+        }}>
+          Bitcoin bonus
+        </span>
+      </a>
+
+      {/* Header */}
+      <header style={{
+        background: 'linear-gradient(123deg, rgb(10, 10, 10), rgb(38, 38, 38))',
+        position: 'sticky',
+        top: 0,
+        zIndex: 999,
+        width: '100%',
+      }}>
+        <nav style={{
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'space-between',
+          padding: '24px 32px',
+          maxWidth: '1400px',
+          margin: '0 auto',
+        }}>
+          {/* Logo */}
+          <a href="#" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            <Image
+              src="/images/ledger-logo-long.svg"
+              alt="Ledger"
+              width={100}
+              height={20}
+              style={{ filter: 'brightness(0) invert(1)' }}
+            />
           </a>
-        </div>
-        
-        <div className="flex lg:hidden">
-          <button
-            type="button"
-            className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700"
-            onClick={() => setMobileMenuOpen(true)}
-          >
-            <span className="sr-only">Open main menu</span>
-            <Menu className="h-6 w-6" aria-hidden="true" />
-          </button>
-        </div>
-        
-        <div className="hidden lg:flex lg:gap-x-8">
-          {navigation.map((item) => (
-            <div key={item.name} className="relative"
-              onMouseEnter={() => item.items && setOpenDropdown(item.name)}
-              onMouseLeave={() => setOpenDropdown(null)}
-            >
-              <a
-                href={item.href}
-                className="flex items-center gap-1 text-sm font-semibold leading-6 text-gray-900 hover:text-gray-600"
+
+          {/* Desktop Navigation */}
+          <div style={{ display: 'flex', gap: '32px', alignItems: 'center' }}>
+            {navigation.map((item) => (
+              <div
+                key={item.name}
+                style={{ position: 'relative' }}
+                onMouseEnter={() => item.items && setActiveDropdown(item.name)}
+                onMouseLeave={() => setActiveDropdown(null)}
               >
-                {item.name}
-                {item.items && <ChevronDown className="h-4 w-4" />}
-              </a>
-              
-              {item.items && openDropdown === item.name && (
-                <div className="absolute top-full left-0 mt-2 w-screen max-w-md overflow-hidden rounded-3xl bg-white shadow-lg ring-1 ring-gray-900/5">
-                  <div className="p-4">
-                    {item.items.map((subItem) => (
-                      <div
-                        key={subItem.name}
-                        className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm leading-6 hover:bg-gray-50"
-                      >
-                        <img
-                          src={subItem.image}
-                          alt={subItem.name}
-                          className="h-12 w-12 flex-none rounded-lg"
-                        />
-                        <div className="flex-auto">
-                          <div className="flex items-center gap-2">
-                            <a href={subItem.href} className="block font-semibold text-gray-900">
-                              {subItem.name}
-                            </a>
-                            {subItem.badge && (
-                              <span className="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">
-                                {subItem.badge}
-                              </span>
-                            )}
+                <button
+                  style={{
+                    background: 'transparent',
+                    border: 'none',
+                    color: '#fff',
+                    fontSize: '14px',
+                    fontWeight: 500,
+                    cursor: 'pointer',
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '4px',
+                    opacity: 0.9,
+                    transition: 'opacity 0.2s',
+                  }}
+                >
+                  {item.name}
+                  {item.items && <span style={{ fontSize: '10px' }}>▼</span>}
+                </button>
+
+                {/* Dropdown */}
+                {item.items && activeDropdown === item.name && (
+                  <div style={{
+                    position: 'absolute',
+                    top: '100%',
+                    left: '50%',
+                    transform: 'translateX(-50%)',
+                    background: 'linear-gradient(90deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.04) 14.9%, rgba(255, 255, 255, 0.04) 85.37%, rgba(255, 255, 255, 0))',
+                    backgroundColor: 'rgb(38, 38, 38)',
+                    padding: '24px',
+                    borderRadius: '0 0 24px 24px',
+                    minWidth: '600px',
+                    marginTop: '24px',
+                    boxShadow: '0 20px 40px rgba(0, 0, 0, 0.3)',
+                  }}>
+                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '16px' }}>
+                      {item.items.map((subItem) => (
+                        <a
+                          key={subItem.name}
+                          href="#"
+                          style={{
+                            display: 'flex',
+                            alignItems: 'center',
+                            gap: '16px',
+                            padding: '16px',
+                            borderRadius: '8px',
+                            background: 'rgba(255, 255, 255, 0.05)',
+                            border: '1px solid rgba(255, 255, 255, 0.1)',
+                            transition: 'background 0.2s',
+                          }}
+                        >
+                          <Image
+                            src={subItem.image}
+                            alt={subItem.name}
+                            width={64}
+                            height={64}
+                            style={{ borderRadius: '8px' }}
+                          />
+                          <div>
+                            <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                              <span style={{ color: '#fff', fontWeight: 500 }}>{subItem.name}</span>
+                              {subItem.badge && (
+                                <span style={{
+                                  background: 'rgb(212, 160, 255)',
+                                  color: '#000',
+                                  fontSize: '11px',
+                                  padding: '2px 8px',
+                                  borderRadius: '4px',
+                                  fontWeight: 500,
+                                }}>
+                                  {subItem.badge}
+                                </span>
+                              )}
+                            </div>
+                            <p style={{ color: 'rgb(148, 148, 148)', fontSize: '13px', marginTop: '4px' }}>
+                              {subItem.description}
+                            </p>
                           </div>
-                          <p className="mt-1 text-gray-600">{subItem.description}</p>
-                        </div>
-                      </div>
-                    ))}
+                        </a>
+                      ))}
+                    </div>
                   </div>
-                </div>
-              )}
-            </div>
-          ))}
-        </div>
-        
-        <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-          <Button variant="default" className="bg-black text-white hover:bg-gray-800">
-            Buy Now
-          </Button>
-        </div>
-      </nav>
-      
-      {mobileMenuOpen && (
-        <div className="lg:hidden">
-          <div className="fixed inset-0 z-50" />
-          <div className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-3xl sm:ring-1 sm:ring-gray-900/10">
-            <div className="flex items-center justify-between">
-              <a href="#" className="-m-1.5 p-1.5 flex items-center gap-2">
-                <svg viewBox="0 0 100 100" className="h-8 w-8" fill="currentColor">
-                  <circle cx="50" cy="50" r="45" fill="currentColor"/>
-                  <text x="50" y="65" textAnchor="middle" fill="white" fontSize="40" fontWeight="bold">L</text>
-                </svg>
-                <span className="text-xl font-bold">Ledger</span>
-              </a>
-              <button
-                type="button"
-                className="-m-2.5 rounded-md p-2.5 text-gray-700"
-                onClick={() => setMobileMenuOpen(false)}
-              >
-                <span className="sr-only">Close menu</span>
-                <X className="h-6 w-6" aria-hidden="true" />
-              </button>
-            </div>
-            <div className="mt-6 flow-root">
-              <div className="-my-6 divide-y divide-gray-500/10">
-                <div className="space-y-2 py-6">
-                  {navigation.map((item) => (
-                    <a
-                      key={item.name}
-                      href={item.href}
-                      className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
-                    >
-                      {item.name}
-                    </a>
-                  ))}
-                </div>
-                <div className="py-6">
-                  <Button variant="default" className="w-full bg-black text-white hover:bg-gray-800">
-                    Buy Now
-                  </Button>
-                </div>
+                )}
               </div>
-            </div>
+            ))}
           </div>
-        </div>
-      )}
-    </header>
+
+          {/* CTA */}
+          <a
+            href="#"
+            style={{
+              background: '#fff',
+              color: '#000',
+              padding: '14px 28px',
+              borderRadius: '100px',
+              fontSize: '14px',
+              fontWeight: 600,
+              transition: 'background 0.2s',
+            }}
+          >
+            Buy Now
+          </a>
+
+          {/* Mobile menu button */}
+          <button
+            style={{
+              display: 'none',
+              background: 'transparent',
+              border: 'none',
+              color: '#fff',
+              cursor: 'pointer',
+            }}
+            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+          >
+            Menu
+          </button>
+        </nav>
+      </header>
+    </>
   );
 }

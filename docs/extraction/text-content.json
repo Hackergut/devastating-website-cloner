@@ -1,14 +1,56 @@
 [
   {
-    "text": "Example Domain",
-    "parent": "h1",
+    "text": "Get up to $100 of BTC to swap, stake, spend and more via Ledger Wallet™",
+    "parent": "p",
     "classes": [
       ""
     ],
-    "depth": 3
+    "depth": 6
   },
   {
-    "text": "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+    "text": "Bitcoin bonus",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Do you want to change language to",
+    "parent": "p",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 4
+  },
+  {
+    "text": "?",
+    "parent": "p",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 4
+  },
+  {
+    "text": "Yes, please",
+    "parent": "button",
+    "classes": [
+      "text-caption",
+      "white"
+    ],
+    "depth": 4
+  },
+  {
+    "text": "No, thanks",
+    "parent": "button",
+    "classes": [
+      "text-caption",
+      "black"
+    ],
+    "depth": 4
+  },
+  {
+    "text": "Beware of phishing attacks, Ledger will never ask for the 24 words of your recovery phrase. Never share them.",
     "parent": "p",
     "classes": [
       ""
@@ -19,8 +61,4922 @@
     "text": "Learn more",
     "parent": "a",
     "classes": [
-      ""
+      "read-more"
     ],
     "depth": 4
+  },
+  {
+    "text": "/*\n  @media screen and (min-width: 993px) {\n    #main.no-top-spacing {\n      margin-top: 135px;\n    }\n  }\n  */",
+    "parent": "style",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "Products",
+    "parent": "button",
+    "classes": [
+      "navigation__item__trigger",
+      "navigation-button"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Discover our devices",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Ledger Stax",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Ledger Flex",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "New Colors",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 15
+  },
+  {
+    "text": "Ledger Nano",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Gen5",
+    "parent": "span",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 15
+  },
+  {
+    "text": "New",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 15
+  },
+  {
+    "text": "Ledger Nano",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Classics",
+    "parent": "span",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 15
+  },
+  {
+    "text": "New Colors",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 15
+  },
+  {
+    "text": "Shop all",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 12
+  },
+  {
+    "text": "Hardware Wallets",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Bundles & Packs",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Accessories",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Recovery Solutions",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Limited Editions",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "See all products",
+    "parent": "a",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Compare Ledger signers",
+    "parent": "p",
+    "classes": [
+      "section-title"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Apps and Services",
+    "parent": "button",
+    "classes": [
+      "navigation__item__trigger",
+      "navigation-button"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Ledger ecosystem",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Ledger Wallet",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Our crypto wallet app and web3 gateway",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Recovery Solutions",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Stay safe with a combination of backups",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Ledger Multisig",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "The new standard for Multisig Security",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Card",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Spend crypto or use it as collateral",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Securely manage crypto",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 12
+  },
+  {
+    "text": "Bitcoin wallet",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Ethereum wallet",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Solana wallet",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Buy crypto",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Swap crypto",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Stake crypto",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "All supported crypto",
+    "parent": "p",
+    "classes": [
+      "section-title"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Learn",
+    "parent": "button",
+    "classes": [
+      "navigation__item__trigger",
+      "navigation-button"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Learn Web3",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Ledger Academy",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Learn about crypto and web3 safely",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Ledger Quest",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Take web3 quests and get NFTs",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Blog",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "All web3 and Ledger news",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Useful resources",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 12
+  },
+  {
+    "text": "What happens if I lose my Ledger?",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Not your keys, not your coins",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "What is a cold wallet?",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "What is a private key?",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "What is a Crypto Wallet?",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "For Business",
+    "parent": "button",
+    "classes": [
+      "navigation__item__trigger",
+      "navigation-button"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Work with Ledger",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Ledger Enterprise",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "All-in-one Digital Asset Platform for Institutions",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Ledger Partners",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Become a Ledger reseller or affiliate",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Ledger Co-branded Partnership",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Device customization opportunities",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "For Developers",
+    "parent": "a",
+    "classes": [
+      "navigation__item__link",
+      "navigation-button",
+      "text-caption"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Support",
+    "parent": "a",
+    "classes": [
+      "navigation__item__link",
+      "navigation-button",
+      "text-caption"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Products",
+    "parent": "button",
+    "classes": [
+      "navigation__tabs__trigger",
+      "navigation-button",
+      "active"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Apps and Services",
+    "parent": "button",
+    "classes": [
+      "navigation__tabs__trigger",
+      "navigation-button"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Learn",
+    "parent": "button",
+    "classes": [
+      "navigation__tabs__trigger",
+      "navigation-button"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "For Business",
+    "parent": "button",
+    "classes": [
+      "navigation__tabs__trigger",
+      "navigation-button"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "For Developers",
+    "parent": "a",
+    "classes": [
+      "navigation__tabs__link",
+      "navigation-button"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Support",
+    "parent": "a",
+    "classes": [
+      "navigation__tabs__link",
+      "navigation-button"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Discover our devices",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Ledger Stax",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Flex",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "New Colors",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Ledger Nano",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Gen5",
+    "parent": "span",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "New",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Ledger Nano",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Classics",
+    "parent": "span",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "New Colors",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Ledger Stax",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Premium from every angle",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Flex",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "The new standard",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "New Colors",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Ledger Nano",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Gen5",
+    "parent": "span",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "As unique as you are",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "New",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Ledger Nano",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Classics",
+    "parent": "span",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Reliable backup protection",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "New Colors",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Shop all",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Hardware Wallets",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Bundles & Packs",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Accessories",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Recovery Solutions",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Limited Editions",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "See all products",
+    "parent": "a",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Compare Ledger signers",
+    "parent": "p",
+    "classes": [
+      "section-title"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "en",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "English",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__generic"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Français",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Türkçe",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Deutsch",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Português",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Español",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Русский",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "简体中文",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "日本語",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "한국어",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "العربية",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "English",
+    "parent": "option",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Français",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Türkçe",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Deutsch",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Português",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Español",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Русский",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "简体中文",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "日本語",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "한국어",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "العربية",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger ecosystem",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Ledger Wallet",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Our crypto wallet app and web3 gateway",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Recovery Solutions",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Stay safe with a combination of backups",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Multisig",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "The new standard for Multisig Security",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Card",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Spend crypto or use it as collateral",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Wallet",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Our crypto wallet app and web3 gateway",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Recovery Solutions",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Stay safe with a combination of backups",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Multisig",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "The new standard for Multisig Security",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Card",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Spend crypto or use it as collateral",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Securely manage crypto",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Bitcoin wallet",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ethereum wallet",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Solana wallet",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Buy crypto",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Swap crypto",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Stake crypto",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "All supported crypto",
+    "parent": "p",
+    "classes": [
+      "section-title"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "en",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "English",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__generic"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Français",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Türkçe",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Deutsch",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Português",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Español",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Русский",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "简体中文",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "日本語",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "한국어",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "العربية",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "English",
+    "parent": "option",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Français",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Türkçe",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Deutsch",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Português",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Español",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Русский",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "简体中文",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "日本語",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "한국어",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "العربية",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Learn Web3",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Ledger Academy",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Learn about crypto and web3 safely",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Quest",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Take web3 quests and get NFTs",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Blog",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "All web3 and Ledger news",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Academy",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Learn about crypto and web3 safely",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Quest",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Take web3 quests and get NFTs",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Blog",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "All web3 and Ledger news",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Useful resources",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "What happens if I lose my Ledger?",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Not your keys, not your coins",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "What is a cold wallet?",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "What is a private key?",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "What is a Crypto Wallet?",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "en",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "English",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__generic"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Français",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Türkçe",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Deutsch",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Português",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Español",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Русский",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "简体中文",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "日本語",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "한국어",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "العربية",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "English",
+    "parent": "option",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Français",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Türkçe",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Deutsch",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Português",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Español",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Русский",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "简体中文",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "日本語",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "한국어",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "العربية",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Work with Ledger",
+    "parent": "p",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Ledger Enterprise",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "All-in-one Digital Asset Platform for Institutions",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Partners",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Become a Ledger reseller or affiliate",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Co-branded Partnership",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Device customization opportunities",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Enterprise",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "All-in-one Digital Asset Platform for Institutions",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Partners",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Become a Ledger reseller or affiliate",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Co-branded Partnership",
+    "parent": "p",
+    "classes": [
+      "text-body-highlight"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Device customization opportunities",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "en",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "English",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__generic"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Français",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Türkçe",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Deutsch",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Português",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Español",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Русский",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "简体中文",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "日本語",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "한국어",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "العربية",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "English",
+    "parent": "option",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Français",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Türkçe",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Deutsch",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Português",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Español",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Русский",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "简体中文",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "日本語",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "한국어",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "العربية",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "en",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "English",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__generic"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Français",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Türkçe",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Deutsch",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Português",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Español",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Русский",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "简体中文",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "日本語",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "한국어",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "العربية",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "English",
+    "parent": "option",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Français",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Türkçe",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Deutsch",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Português",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Español",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Русский",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "简体中文",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "日本語",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "한국어",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "العربية",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "LEDGER CRYPTO WALLETS",
+    "parent": "h1",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Now’s the best time to take control of your crypto",
+    "parent": "h2",
+    "classes": [
+      "heading-3"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Get up to $100 of BTC to swap, stake, spend... via Ledger Wallet™ with a new Ledger signer",
+    "parent": "p",
+    "classes": [
+      "heading-7"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Discover Ledger Nano™ Gen5",
+    "parent": "a",
+    "classes": [
+      "button",
+      "secondary"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Compare signers",
+    "parent": "a",
+    "classes": [
+      "read-more",
+      "second-cta"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Industry-leading",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "security",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Absolute",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "ease of use",
+    "parent": "p",
+    "classes": [
+      "text-caption"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "const copyButton = jQuery(\".copy-button\")\n\tjQuery(document).ready(function () {\n\t\tcopyButton.click(function () {\n\t\t\tconst button = jQuery(this);\n\t\t\t// Remove the content of the span tag inside the anchor\n\t\t\tconst textToCopy = button.clone().children().remove().end().text().trim();;\n\t\t\tnavigator.clipboard.writeText(textToCopy).then(function () {\n\t\t\t\tbutton.addClass(\"copied\");\n\t\t\t}).catch(function (error) {\n\t\t\t\tconsole.error(\"Error copying text:\");\n\t\t\t})\n\t\t});\n\t\t// Event listener for clicks outside of the copyButton\n\t\tjQuery(document).on('click', function (event) {\n\t\t\tif (!copyButton.is(event.target) && !copyButton.has(event.target).length) {\n\t\t\t\tcopyButton.removeClass('copied');\n\t\t\t}\n\t\t});\n\t});",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 3
+  },
+  {
+    "text": "More clarity",
+    "parent": "h3",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Faster trades with real time market and portfolio insights.",
+    "parent": "p",
+    "classes": [
+      "emphasis"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "More choice",
+    "parent": "h3",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Navigate dApps with ease. Compare top service providers across chains.",
+    "parent": "p",
+    "classes": [
+      "emphasis"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "More control",
+    "parent": "h3",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Swap smarter. Earn more simply. Spend daily.",
+    "parent": "p",
+    "classes": [
+      "emphasis"
+    ],
+    "depth": 7
+  },
+  {
+    "text": ".generic-banner .bg-1 {\n        background-image: url(https://ledger-wp-website-s3-prd.ledger.com/uploads/2026/03/banner_desktop.webp);\n    }\n\n    @media screen and (max-width: 480px) {\n        .generic-banner .bg-1 {\n            background-image: url(https://ledger-wp-website-s3-prd.ledger.com/uploads/2026/03/banner_mobile.webp);\n        }\n    }",
+    "parent": "style",
+    "classes": [
+      ""
+    ],
+    "depth": 3
+  },
+  {
+    "text": "Get cashback. Use crypto daily",
+    "parent": "h2",
+    "classes": [
+      "heading-4",
+      "margin-xxs",
+      "color-white"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Pay everywhere you go with a simple tap. Collect rewards in stablecoins or BTC.",
+    "parent": "p",
+    "classes": [
+      "heading-6",
+      "margin-xs"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Free crypto card",
+    "parent": "a",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Your phone alone isn’t secure",
+    "parent": "h2",
+    "classes": [
+      "heading-3"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Only Ledger signers keep you safe. Don’t be a victim of identity theft or wallet drains.",
+    "parent": "h2",
+    "classes": [
+      "emphasis"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Compare Ledger signers",
+    "parent": "a",
+    "classes": [
+      "button",
+      "primary",
+      "text-caption"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Ledger Stax™",
+    "parent": "h3",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "3.7“ curved screen",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Premium from every angle, the elegant way to diversify your wealth and explore DeFi.",
+    "parent": "p",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "4.5/5",
+    "parent": "p",
+    "classes": [
+      "caption"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Learn more",
+    "parent": "p",
+    "classes": [
+      "read-more",
+      "text-body-highlight"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Ledger Flex™",
+    "parent": "h3",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "2.8“ GORILLA GLASS screen",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "The new standard to buy, swap, stake and build your portfolio with ease.",
+    "parent": "p",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "4.3/5",
+    "parent": "p",
+    "classes": [
+      "caption"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Learn more",
+    "parent": "p",
+    "classes": [
+      "read-more",
+      "text-body-highlight"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "New",
+    "parent": "span",
+    "classes": [
+      "purple"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Ledger Nano™",
+    "parent": "h3",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Gen5",
+    "parent": "span",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "2.8“ Lightweight screen",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "The fun, accessible way to manage your money, logins and digital life with clarity.",
+    "parent": "p",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "4/5",
+    "parent": "p",
+    "classes": [
+      "caption"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Learn more",
+    "parent": "p",
+    "classes": [
+      "read-more",
+      "text-body-highlight"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Ledger Nano™",
+    "parent": "h3",
+    "classes": [
+      "heading-6"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Classics",
+    "parent": "span",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "1.1” screen",
+    "parent": "span",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Reliable backup signers to swap, stake and HODL at home or on the go.",
+    "parent": "p",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "4.5/5",
+    "parent": "p",
+    "classes": [
+      "caption"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Discover now",
+    "parent": "p",
+    "classes": [
+      "read-more",
+      "text-body-highlight"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Compare Ledger signers",
+    "parent": "a",
+    "classes": [
+      "button",
+      "primary",
+      "text-caption"
+    ],
+    "depth": 5
+  },
+  {
+    "text": "Manage 15,000+ crypto daily",
+    "parent": "h2",
+    "classes": [
+      "heading-3"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Bitcoin, Ethereum, Solana, XRP, stablecoins... you name it, it’s here.",
+    "parent": "h3",
+    "classes": [
+      "emphasis"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "See all supported cryptos",
+    "parent": "a",
+    "classes": [
+      "cta",
+      "text-body-r"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "See all supported cryptos",
+    "parent": "a",
+    "classes": [
+      "cta",
+      "text-body-r"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Ledger Wallet™",
+    "parent": "h2",
+    "classes": [
+      "heading-3",
+      "color-white"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "the all-in-one crypto app",
+    "parent": "h2",
+    "classes": [
+      "heading-3",
+      "color-white"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Your assets. Your rules. Your future.",
+    "parent": "p",
+    "classes": [
+      "emphasis",
+      "color-neutral-200"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Available on Mobile & Desktop",
+    "parent": "span",
+    "classes": [
+      "purple"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Top up with ease",
+    "parent": "h3",
+    "classes": [
+      "heading-6",
+      "color-white"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Choose how you want to fund your accounts: Buy, Sell, Send, Receive.",
+    "parent": "p",
+    "classes": [
+      "text-body",
+      "color-neutral-200"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Connect to dApps",
+    "parent": "h3",
+    "classes": [
+      "heading-6",
+      "color-white"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Confidently navigate the DeFi landscape from a single secure space.",
+    "parent": "p",
+    "classes": [
+      "text-body",
+      "color-neutral-200"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Diversify your assets",
+    "parent": "h3",
+    "classes": [
+      "heading-6",
+      "color-white"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Swap securely across chains, CEX, DEX. Compare providers with clarity.",
+    "parent": "p",
+    "classes": [
+      "text-body",
+      "color-neutral-200"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Grow your portfolio",
+    "parent": "h3",
+    "classes": [
+      "heading-6",
+      "color-white"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Put your crypto to work for you by staking. Earn cashback by shopping worldwide.",
+    "parent": "p",
+    "classes": [
+      "text-body",
+      "color-neutral-200"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Countless happy customers",
+    "parent": "h2",
+    "classes": [
+      "h2",
+      "margin-s"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "“Ledger = peace of mind. I'm sure some of us know that unsettling feeling when you know you need a Ledger but haven't quite organized yourself to get it sorted. If I did it all again, I'd start with having a Ledger.”",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Janet Onagah",
+    "parent": "strong",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "@Janet_Oganah",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "\"I got hacked in January and lost 1000s worth of NFTs. I felt disgusted, lost, and willing to quit. Until my friend told me he's ordering a Ledger. So, we bought the duo deal. Since then, I've been sleeping.\"",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "PrimeNic.eth",
+    "parent": "strong",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "@primenic_eth",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "“I use multiple Ledgers. Different colours = different uses.Public Wallet. Never touch long term storage. Day to day fund holdings. A back up just in case.”",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "winny.eth",
+    "parent": "strong",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "@winnyeth",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "\"I have 3 Ledgers. Hot Wallet: minting/drawings etc. Main wallet: store most NFTs. Vault wallet: cold storage of crypto.\"",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "2160",
+    "parent": "strong",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "@rekt2160",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "“I have 5 Ledger total. My personal NFT bag. 1 for testing. And 1 for each of my 3 daughters.”",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Fanzo",
+    "parent": "strong",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "11.11.22",
+    "parent": "strong",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "@iSocialFanz",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "\"If I could, I would name my Ledger Hagrid. Cause it's the keeper of my keys.\"",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Petrica Butusina",
+    "parent": "strong",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "@PetricaButusina",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "\"My Ledger is already called \"Stew\". As it is the steward who looks after my crypto & NFTs, so I can sleep at night.\"",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Lkmland Crypto",
+    "parent": "strong",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "@LkmlandCrypto",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "\"Ledger makes cold storage downright easy. My NFTs land infinitely safer and I don’t have to feel as paranoid about connecting to new smart contracts.\"",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Matt Oney",
+    "parent": "strong",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "@MattOney93",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "FAQ",
+    "parent": "h2",
+    "classes": [
+      "heading-3",
+      "no-margin-mobile",
+      "margin-xs",
+      "align-left",
+      "color-white"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Find answers to some of the most common questions.",
+    "parent": "p",
+    "classes": [
+      "emphasis",
+      "align-left",
+      "margin-s",
+      "color-white"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "What is a crypto wallet?",
+    "parent": "label",
+    "classes": [
+      "h6",
+      "title"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Thinking about buying crypto or NFTs? You’ll need a",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "crypto wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 14
+  },
+  {
+    "text": ".",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "When you create a wallet, two keys are generated: a private one and a public one. The wallet stores your keys and enables you to sign transactions, generate new addresses, initiate transfers, track portfolio balances, manage your crypto, and interact with dApps.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "Crypto wallets come in many forms, from hardware wallets, like Ledger’s, to mobile apps that you can download on your phone or tablet.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "How do crypto wallets work?",
+    "parent": "label",
+    "classes": [
+      "h6",
+      "title"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "When you buy crypto like Bitcoin and Ethereum, you’re issued two keys:",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "one is public and the other is private",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 14
+  },
+  {
+    "text": ".",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "The public key can be compared to a bank account number that you can share with third parties to receive crypto without worrying that your assets will be compromised.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "The private key signs transactions and allows you to send and receive crypto. It’s crucial to keep your private keys secure and secret. If anyone has access to them, they will also have access to any crypto assets associated with those keys.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "A crypto wallet stores your private keys and gives you access to your assets.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "What are the different types of crypto wallets?",
+    "parent": "label",
+    "classes": [
+      "h6",
+      "title"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "There are different types of crypto wallets, each with its own benefits and drawbacks.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "Hot wallets",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 14
+  },
+  {
+    "text": "are connected to the internet and usually convenient to use, however, they are also vulnerable to online attacks. Examples include web-based, mobile, and desktop wallets. Cold wallets keep your private keys offline and out of reach of online threats. Examples include paper and hardware wallets.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "Wallets can also be categorized as custodial or non-custodial, depending on who holds the private keys. Storing your crypto in a custodial wallet means that a third party controls your private keys and, therefore, your assets. In contrast, non-custodial wallets, like Ledger’s, enable you to fully own and control your crypto.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "Why do I need a hardware wallet?",
+    "parent": "label",
+    "classes": [
+      "h6",
+      "title"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Hot wallets store private keys on systems connected to the internet, which makes them susceptible to online attacks. Keeping your crypto on an exchange also means you have no true ownership or control over it. If the exchange files for bankruptcy or pauses withdrawals, you lose access to your funds.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "Hardware wallets store your private keys offline, giving you full control and enhanced security. Even if you misplace or lose your hardware wallet, you can get a new one and use your Secret Recovery Phrase to access your assets.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "How to get a crypto wallet?",
+    "parent": "label",
+    "classes": [
+      "h6",
+      "title"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Ready to get started? Here are the steps for getting your crypto wallet:",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "Get a",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Ledger hardware wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 15
+  },
+  {
+    "text": ". It stores your private keys in a secure, offline environment giving you peace of mind and complete control over your assets. All Ledger crypto wallets are powered by an industry-leading Secure Element chip, together with Ledger’s proprietary OS that protects your crypto & NFTs from sophisticated hacks.",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Pair your Ledger crypto wallet with the",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Ledger Wallet app",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 15
+  },
+  {
+    "text": "to easily manage your crypto, keep track of your portfolio, and securely access a wide range of dApps and Web3 services. All in one convenient place!",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Add crypto to your Ledger wallet. Ledger has integrated leading third-party providers to make it possible to buy, swap, stake, and manage crypto through the Ledger Wallet app. Your crypto will be sent to the safety of your Ledger hardware wallet.",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 14
+  },
+  {
+    "text": "What is a crypto wallet?",
+    "parent": "label",
+    "classes": [
+      "h6",
+      "title"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Thinking about buying crypto or NFTs? You’ll need a",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "crypto wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": ".",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "When you create a wallet, two keys are generated: a private one and a public one. The wallet stores your keys and enables you to sign transactions, generate new addresses, initiate transfers, track portfolio balances, manage your crypto, and interact with dApps.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Crypto wallets come in many forms, from hardware wallets, like Ledger’s, to mobile apps that you can download on your phone or tablet.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "How do crypto wallets work?",
+    "parent": "label",
+    "classes": [
+      "h6",
+      "title"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "When you buy crypto like Bitcoin and Ethereum, you’re issued two keys:",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "one is public and the other is private",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": ".",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "The public key can be compared to a bank account number that you can share with third parties to receive crypto without worrying that your assets will be compromised.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "The private key signs transactions and allows you to send and receive crypto. It’s crucial to keep your private keys secure and secret. If anyone has access to them, they will also have access to any crypto assets associated with those keys.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "A crypto wallet stores your private keys and gives you access to your assets.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "What are the different types of crypto wallets?",
+    "parent": "label",
+    "classes": [
+      "h6",
+      "title"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "There are different types of crypto wallets, each with its own benefits and drawbacks.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Hot wallets",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "are connected to the internet and usually convenient to use, however, they are also vulnerable to online attacks. Examples include web-based, mobile, and desktop wallets. Cold wallets keep your private keys offline and out of reach of online threats. Examples include paper and hardware wallets.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Wallets can also be categorized as custodial or non-custodial, depending on who holds the private keys. Storing your crypto in a custodial wallet means that a third party controls your private keys and, therefore, your assets. In contrast, non-custodial wallets, like Ledger’s, enable you to fully own and control your crypto.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Why do I need a hardware wallet?",
+    "parent": "label",
+    "classes": [
+      "h6",
+      "title"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Hot wallets store private keys on systems connected to the internet, which makes them susceptible to online attacks. Keeping your crypto on an exchange also means you have no true ownership or control over it. If the exchange files for bankruptcy or pauses withdrawals, you lose access to your funds.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Hardware wallets store your private keys offline, giving you full control and enhanced security. Even if you misplace or lose your hardware wallet, you can get a new one and use your Secret Recovery Phrase to access your assets.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "How to get a crypto wallet?",
+    "parent": "label",
+    "classes": [
+      "h6",
+      "title"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Ready to get started? Here are the steps for getting your crypto wallet:",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Get a",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "Ledger hardware wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": ". It stores your private keys in a secure, offline environment giving you peace of mind and complete control over your assets. All Ledger crypto wallets are powered by an industry-leading Secure Element chip, together with Ledger’s proprietary OS that protects your crypto & NFTs from sophisticated hacks.",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "Pair your Ledger crypto wallet with the",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "Ledger Wallet app",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 13
+  },
+  {
+    "text": "to easily manage your crypto, keep track of your portfolio, and securely access a wide range of dApps and Web3 services. All in one convenient place!",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "Add crypto to your Ledger wallet. Ledger has integrated leading third-party providers to make it possible to buy, swap, stake, and manage crypto through the Ledger Wallet app. Your crypto will be sent to the safety of your Ledger hardware wallet.",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 12
+  },
+  {
+    "text": "*Crypto transaction services are provided by third-party providers. Ledger provides no advice or recommendations on use of these third-party services.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Discover what",
+    "parent": "h3",
+    "classes": [
+      "h3",
+      "margin-s"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "security feels like",
+    "parent": "h3",
+    "classes": [
+      "h3",
+      "margin-s"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Choose your signer",
+    "parent": "a",
+    "classes": [
+      "button",
+      "primary",
+      "cta"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Stay in touch",
+    "parent": "h3",
+    "classes": [
+      "heading-4",
+      "margin-xxs"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Announcements can be found in our blog. Press contact:",
+    "parent": "p",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "media@ledger.com",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Subscribe to our",
+    "parent": "h3",
+    "classes": [
+      "heading-4",
+      "margin-xxs"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "newsletter",
+    "parent": "h3",
+    "classes": [
+      "heading-4",
+      "margin-xxs"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "New coins supported, blog updates and exclusive offers directly in your inbox",
+    "parent": "p",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Enter your email",
+    "parent": "label",
+    "classes": [
+      "text-body-r"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Subscribe to newsletter",
+    "parent": "button",
+    "classes": [
+      "button",
+      "outline"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Your email address will only be used to send you our newsletter, as well as updates and offers. You can unsubscribe at any time using the link included in the newsletter.",
+    "parent": "p",
+    "classes": [
+      "text-small-caption",
+      "margin-xs"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Learn more about how we manage your data and your rights.",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 9
+  },
+  {
+    "text": "en",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "English",
+    "parent": "span",
+    "classes": [
+      "activeLanguage__generic"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Français",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Türkçe",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Deutsch",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Português",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Español",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Русский",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "简体中文",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "日本語",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "한국어",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "العربية",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "a",
+    "classes": [
+      "localeItem"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "English",
+    "parent": "option",
+    "classes": [
+      "activeLanguage__header"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Français",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Türkçe",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Deutsch",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Português",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Español",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Русский",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "简体中文",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "日本語",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "한국어",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "العربية",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "ภาษาไทย",
+    "parent": "option",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Copyright © Ledger SAS. All rights reserved. Ledger, Ledger Stax, Ledger Flex, Ledger Nano, Ledger Nano S, Ledger OS, Ledger Wallet, [LEDGER] (logo), and [L] (logo) are trademarks owned by Ledger SAS.",
+    "parent": "p",
+    "classes": [
+      "text-caption",
+      "margin-xs"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "106 rue du Temple, 75003 Paris, France",
+    "parent": "p",
+    "classes": [
+      "text-caption",
+      "margin-xs"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Payment methods",
+    "parent": "p",
+    "classes": [
+      "text-caption",
+      "margin-xxs"
+    ],
+    "depth": 6
+  },
+  {
+    "text": "Products",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Secure touchscreen signers",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Hardware Wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Nano Gen5",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Stax",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Flex",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Nano Classics",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Compare our devices",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Bundles",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Accessories",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "All products",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Downloads",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Crypto Assets",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Bitcoin wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ethereum wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Solana wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Cardano wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "XRP wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Monero wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "USDT wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "See all assets",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Crypto Wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Crypto Services",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Crypto Prices",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Buying crypto",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Staking crypto",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Swapping crypto",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "For Business",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Ledger Enterprise Solutions",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "For Startups",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Funding from Ledger Cathay Capital",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "For Developers",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "The Developer Portal",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Get started",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Start using your Ledger device",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Compatible wallets and services",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "How to buy Bitcoin",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Bitcoin Hardware Wallet",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "See also",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Support",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Bounty program",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Resellers",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Press Kit",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Affiliates",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Status",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Developers",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Partners",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Careers",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Join us",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "All jobs",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "About",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Our vision",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Ledger Academy",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "The company",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Blog",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Legal",
+    "parent": "li",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Legal Center",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Sales Terms and Conditions",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Privacy Policy",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Cookie Policy",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Disclaimers",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/ledger-v2/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]}",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "window.dataLayer = window.dataLayer || []\n      dataLayer.push({\n        'event': 'page_view',\n        'site_language': 'en',\n        'user_country': 'en',\n        'page_title': 'Homepage',\n        'page_type': 'page'\n      })",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "function onRecaptchaEnterpriseApiLoaded() {\n            document.dispatchEvent(new Event('recaptchaApiReady'));\n        }",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "/* <![CDATA[ */\nfunction heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!=\"function\") {window.onload=e}else{window.onload=function() {t();e()}}};\tvar heateorSssSharingAjaxUrl = 'https://www.ledger.com/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.ledger.com/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.ledger.com/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = \"Link copied.\";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,\"popUpWindow\",\"height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status\")}\n//# sourceURL=heateor_sss_sharing_js-js-before\n/* ]]> */",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "/* <![CDATA[ */\nvar phpVariables = {\"userCountry\":\"AE\"};\n//# sourceURL=globals-js-extra\n/* ]]> */",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "/* <![CDATA[ */\nvar ParamsDataMain = {\"url_affiliate\":\"https://affiliate.ledger.com\"};\n//# sourceURL=ledger-js-extra\n/* ]]> */",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "/* <![CDATA[ */\nvar ParamsDataNewsletterForm = {\"wp_ajax_url\":\"https://www.ledger.com/wp-admin/admin-ajax.php\",\"current_language_code\":\"en\",\"siteKey\":\"6Ld5wAUrAAAAAPxTES7LrOw7W8VBA5s4W6e8PtfJ\",\"recaptcha_loaded\":\"\",\"recaptcha_url\":\"https://www.google.com/recaptcha/enterprise.js?onload=onRecaptchaEnterpriseApiLoaded&render=6Ld5wAUrAAAAAPxTES7LrOw7W8VBA5s4W6e8PtfJ&hl=en\",\"loading_text\":\"Processing\"};\n//# sourceURL=newsletter-form-js-js-extra\n/* ]]> */",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "{\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.ledger.com/wp-includes/js/wp-emoji-release.min.js\"}}",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "/* <![CDATA[ */\n/*! This file is auto-generated */\nconst a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});\n//# sourceURL=https://www.ledger.com/wp-includes/js/wp-emoji-loader.min.js\n/* ]]> */",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "window.optimizely=window.optimizely||[];window.optimizely.push({type:\"event\",eventName:\"page_view\",properties:{site_language:google_tag_manager[\"rm\"][\"9346581\"](39),user_country:google_tag_manager[\"rm\"][\"9346581\"](40),page_type:google_tag_manager[\"rm\"][\"9346581\"](41),item_category:google_tag_manager[\"rm\"][\"9346581\"](42),URL:window.location.href}});",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "(function(){window._uxa=window._uxa||[];window._uxa.push([\"afterPageView\",function(f){if(1==f.pageNumber){f=document.referrer;\"\"==f&&(f=\"Direct\");window._uxa.push([\"trackDynamicVariable\",{key:\"Referrer\",value:f}]);if(\"\"!=document.location.search){var c=\"utm_medium\";var d=\"utm_campaign\";var e=\"utm_source\";var b=\"\\x3d([a-zA-Z0-9-_]+)\";c=new RegExp(c+b);c=c.exec(document.location.search);d=new RegExp(d+b);d=d.exec(document.location.search);e=new RegExp(e+b);e=e.exec(document.location.search);b=RegExp(\"gclid\\x3d([a-zA-Z0-9-_]+)\");\nb=b.exec(document.location.search);var g=RegExp(\"fbclid\\x3d([a-zA-Z0-9-_]+)\");g=g.exec(document.location.search);var h=RegExp(\"dclid\\x3d([a-zA-Z0-9-_]+)\");h=h.exec(document.location.search)}try{null!==c&&\"undefined\"!==typeof c?\"undefined\"!==typeof c[1]&&window._uxa.push([\"trackDynamicVariable\",{key:\"Medium\",value:c[1].toLowerCase()}]):window._uxa.push([\"trackDynamicVariable\",{key:\"Medium\",value:\"false\"}]),null!==d&&\"undefined\"!==typeof d?\"undefined\"!==typeof d[1]&&window._uxa.push([\"trackDynamicVariable\",\n{key:\"Campaign\",value:d[1].toLowerCase()}]):window._uxa.push([\"trackDynamicVariable\",{key:\"Campaign\",value:\"false\"}]),null!==e&&\"undefined\"!==typeof e?\"undefined\"!==typeof e[1]&&window._uxa.push([\"trackDynamicVariable\",{key:\"Source\",value:e[1].toLowerCase()}]):window._uxa.push([\"trackDynamicVariable\",{key:\"Source\",value:\"false\"}]),null!==b&&\"undefined\"!==typeof b?\"undefined\"!==typeof b[1]&&window._uxa.push([\"trackDynamicVariable\",{key:\"Gclid\",value:\"true\"}]):window._uxa.push([\"trackDynamicVariable\",\n{key:\"Gclid\",value:\"false\"}]),null!==g&&\"undefined\"!==typeof g?\"undefined\"!==typeof g[1]&&window._uxa.push([\"trackDynamicVariable\",{key:\"Fbclid\",value:\"true\"}]):window._uxa.push([\"trackDynamicVariable\",{key:\"Fbclid\",value:\"false\"}]),null!==h&&\"undefined\"!==typeof h?\"undefined\"!==typeof h[1]&&window._uxa.push([\"trackDynamicVariable\",{key:\"Dclid\",value:\"true\"}]):window._uxa.push([\"trackDynamicVariable\",{key:\"Dclid\",value:\"false\"}])}catch(l){}}}]);try{if(\"undefined\"!==typeof dataLayer)for(var a=0;a<\ndataLayer.length;a++)for(var k=0;k<dataLayer[a].length;k++)window._uxa.push([\"setCustomVariable\",1,\"ecomm_pagetype\",dataLayer[a][k].ecomm_pagetype,3]),window._uxa.push([\"setCustomVariable\",2,\"site_language\",dataLayer[a][k].site_language,3])}catch(f){}\"undefined\"===typeof CS_CONF?(window._uxa.push([\"setPath\",window.location.pathname+window.location.hash.replace(\"#\",\"?__\")]),a=document.createElement(\"script\"),a.type=\"text/javascript\",a.async=!0,a.src=\"//t.contentsquare.net/uxa/632f3a9f096b5.js\",document.getElementsByTagName(\"head\")[0].appendChild(a)):\nwindow._uxa.push([\"trackPageview\",window.location.pathname+window.location.hash.replace(\"#\",\"?__\")])})();",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version=\"2.0\",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,\"script\",\"https://connect.facebook.net/en_US/fbevents.js\");fbq(\"init\",\"237213137153741\");fbq(\"set\",\"agent\",\"tmgoogletagmanager\",\"237213137153741\");fbq(\"track\",\"PageView\",{},{eventID:google_tag_manager[\"rm\"][\"9346581\"](49)});",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "<img height=\"1\" width=\"1\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=237213137153741&amp;ev=PageView&amp;noscript=1\">",
+    "parent": "noscript",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "(function(a,c,e,k,b){a[b]=a[b]||[];a[b].push({projectId:\"10000\",properties:{pixelId:\"10159916\",userEmail:\"\\x3cemail_address\\x3e\"}});var d=c.createElement(e);d.src=k;d.async=!0;d.onload=d.onreadystatechange=function(){var f=this.readyState,l=a[b];if(!f||\"complete\"==f||\"loaded\"==f)try{var g=YAHOO.ywa.I13N.fireBeacon;a[b]=[];a[b].push=function(h){g([h])};g(l)}catch(h){}};c=c.getElementsByTagName(e)[0];e=c.parentNode;e.insertBefore(d,c)})(window,document,\"script\",\"https://s.yimg.com/wi/ytc.js\",\"dotq\");",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "google_tag_manager[\"rm\"][\"9346581\"](50)();google_tag_manager[\"rm\"][\"9346581\"](51)();",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "!function(a,b){var e=\"59051\";if(a.zemApi)b=function(d){return\"[object Array]\"===Object.prototype.toString.call(d)?d:[d]},a.zemApi.marketerId=b(a.zemApi.marketerId).concat(b(e));else{var c=a.zemApi=function(){c.dispatch?c.dispatch.apply(c,arguments):c.queue.push(arguments)};c.version=\"1.0\";c.loaded=!0;c.marketerId=e;c.queue=[];a=b.createElement(\"script\");a.async=!0;a.src=\"//js-tag.zemanta.com/zcpt.js\";a.type=\"text/javascript\";b=b.getElementsByTagName(\"script\")[0];b.parentNode.insertBefore(a,b)}}(window,\ndocument);zemApi(\"track\",\"PAGE_VIEW\");",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods=\"page track identify instances debug on off once ready alias group enableCookie disableCookie\".split(\" \");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f=\"https://analytics.tiktok.com/i18n/pixel/events.js\";\na._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement(\"script\");c.type=\"text/javascript\";c.async=!0;c.src=f+\"?sdkid\\x3d\"+b+\"\\x26lib\\x3d\"+e;b=document.getElementsByTagName(\"script\")[0];b.parentNode.insertBefore(c,b)};a.load(\"CCM80A3C77U9QMO0Q980\");a.page({},{event_id:\"1774737127467.336544.0\"})}(window,document,\"ttq\");",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "window.optimizely=window.optimizely||[];window.optimizely.push({type:\"sendEvents\"});",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "(function(b,c,e,a,f,d){b[a]=b[a]||[];b[a].push({\"tag.start\":(new Date).getTime(),event:\"tag.js\",id:d,ad:f});b=c.getElementsByTagName(e)[0];c=c.createElement(e);a=a!=\"cibleclic_pt\"?\"\\x26l\\x3d\"+a:\"\";c.async=!0;c.src=\"https://\"+d+\".userly.net/cl.js?id\\x3d\"+d+\"\\x26ad\\x3d\"+f+a;b.parentNode.insertBefore(c,b)})(window,document,\"script\",\"cibleclic_pta\",541,2632);",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "window._tfa=window._tfa||[];window._tfa.push({notify:\"event\",name:\"page_view\",id:1893020});!function(a,b,d,c){document.getElementById(c)||(a.async=1,a.src=d,a.id=c,b.parentNode.insertBefore(a,b))}(document.createElement(\"script\"),document.getElementsByTagName(\"script\")[0],\"//cdn.taboola.com/libtrc/unip/1893020/tfa.js\",\"tb_tfa_script\");",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",
+    "parent": "div",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Cookies Settings",
+    "parent": "button",
+    "classes": [
+      "cookie-setting-link"
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Accept All Cookies",
+    "parent": "button",
+    "classes": [
+      ""
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Privacy Preference Center",
+    "parent": "h2",
+    "classes": [
+      ""
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Privacy Preference Center",
+    "parent": "h2",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "Your Privacy",
+    "parent": "h3",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Strictly Necessary Cookies",
+    "parent": "h3",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Performance Cookies",
+    "parent": "h3",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Functional Cookies",
+    "parent": "h3",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Targeting Cookies",
+    "parent": "h3",
+    "classes": [
+      ""
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Your Privacy",
+    "parent": "h4",
+    "classes": [
+      ""
+    ],
+    "depth": 9
+  },
+  {
+    "text": "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.",
+    "parent": "p",
+    "classes": [
+      "ot-grp-desc"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "More information",
+    "parent": "a",
+    "classes": [
+      "privacy-notice-link"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Strictly Necessary Cookies",
+    "parent": "h4",
+    "classes": [
+      "ot-cat-header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Always Active",
+    "parent": "div",
+    "classes": [
+      "ot-always-active"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",
+    "parent": "p",
+    "classes": [
+      "ot-grp-desc",
+      "ot-category-desc"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "View Vendor Details",
+    "parent": "button",
+    "classes": [
+      "ot-link-btn",
+      "category-host-list-handler"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Performance Cookies",
+    "parent": "h4",
+    "classes": [
+      "ot-cat-header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Performance Cookies",
+    "parent": "span",
+    "classes": [
+      "ot-label-txt"
+    ],
+    "depth": 12
+  },
+  {
+    "text": "These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",
+    "parent": "p",
+    "classes": [
+      "ot-grp-desc",
+      "ot-category-desc"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "View Vendor Details",
+    "parent": "button",
+    "classes": [
+      "ot-link-btn",
+      "category-host-list-handler"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Functional Cookies",
+    "parent": "h4",
+    "classes": [
+      "ot-cat-header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Functional Cookies",
+    "parent": "span",
+    "classes": [
+      "ot-label-txt"
+    ],
+    "depth": 12
+  },
+  {
+    "text": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.",
+    "parent": "p",
+    "classes": [
+      "ot-grp-desc",
+      "ot-category-desc"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "View Vendor Details",
+    "parent": "button",
+    "classes": [
+      "ot-link-btn",
+      "category-host-list-handler"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Targeting Cookies",
+    "parent": "h4",
+    "classes": [
+      "ot-cat-header"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Targeting Cookies",
+    "parent": "span",
+    "classes": [
+      "ot-label-txt"
+    ],
+    "depth": 12
+  },
+  {
+    "text": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",
+    "parent": "p",
+    "classes": [
+      "ot-grp-desc",
+      "ot-category-desc"
+    ],
+    "depth": 9
+  },
+  {
+    "text": "View Vendor Details",
+    "parent": "button",
+    "classes": [
+      "ot-link-btn",
+      "category-host-list-handler"
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Back Button",
+    "parent": "title",
+    "classes": [
+      "[object",
+      "SVGAnimatedString]"
+    ],
+    "depth": 11
+  },
+  {
+    "text": "Vendors List",
+    "parent": "h3",
+    "classes": [
+      ""
+    ],
+    "depth": 9
+  },
+  {
+    "text": "Filter Button",
+    "parent": "title",
+    "classes": [
+      "[object",
+      "SVGAnimatedString]"
+    ],
+    "depth": 12
+  },
+  {
+    "text": "Consent",
+    "parent": "span",
+    "classes": [
+      "ot-consent-hdr"
+    ],
+    "depth": 13
+  },
+  {
+    "text": "Leg.Interest",
+    "parent": "span",
+    "classes": [
+      "ot-li-hdr"
+    ],
+    "depth": 13
+  },
+  {
+    "text": "checkbox label",
+    "parent": "span",
+    "classes": [
+      "ot-label-txt"
+    ],
+    "depth": 15
+  },
+  {
+    "text": "label",
+    "parent": "span",
+    "classes": [
+      "ot-label-status"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "checkbox label",
+    "parent": "span",
+    "classes": [
+      "ot-label-txt"
+    ],
+    "depth": 15
+  },
+  {
+    "text": "label",
+    "parent": "span",
+    "classes": [
+      "ot-label-status"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "checkbox label",
+    "parent": "span",
+    "classes": [
+      "ot-label-txt"
+    ],
+    "depth": 15
+  },
+  {
+    "text": "label",
+    "parent": "span",
+    "classes": [
+      "ot-label-status"
+    ],
+    "depth": 14
+  },
+  {
+    "text": "Clear",
+    "parent": "button",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "checkbox label",
+    "parent": "span",
+    "classes": [
+      "ot-label-txt"
+    ],
+    "depth": 13
+  },
+  {
+    "text": "label",
+    "parent": "span",
+    "classes": [
+      "ot-label-status"
+    ],
+    "depth": 12
+  },
+  {
+    "text": "Apply",
+    "parent": "button",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Cancel",
+    "parent": "button",
+    "classes": [
+      ""
+    ],
+    "depth": 10
+  },
+  {
+    "text": "Confirm My Choices",
+    "parent": "button",
+    "classes": [
+      "save-preference-btn-handler",
+      "onetrust-close-btn-handler"
+    ],
+    "depth": 7
+  },
+  {
+    "text": "Allow All",
+    "parent": "button",
+    "classes": [
+      ""
+    ],
+    "depth": 8
+  },
+  {
+    "text": "ttd_dom_ready(function(){if(\"function\"===typeof TTDUniversalPixelApi){var a=new TTDUniversalPixelApi;a.init(\"ybd3fwz\",[\"x70jfyp\"],\"https://insight.adsrvr.org/track/up\",{td1:google_tag_manager[\"rm\"][\"9346581\"](52),td2:google_tag_manager[\"rm\"][\"9346581\"](53),v:google_tag_manager[\"rm\"][\"9346581\"](54)})}});",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
+  },
+  {
+    "text": "var cibleclic_pt=[{page:\"homepage\"}];",
+    "parent": "script",
+    "classes": [
+      ""
+    ],
+    "depth": 2
   }
 ]

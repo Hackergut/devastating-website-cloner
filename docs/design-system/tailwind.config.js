@@ -1,0 +1,75 @@
+/** @type {import('tailwindcss').Config */
+export default {
+  content: ['./src/**/*.{js,ts,jsx,tsx}'],
+  theme: {
+    extend: {
+      colors: {
+        // Primary colors
+        primary: {
+          100: 'rgba(0, 0, 0, 0)',
+          200: 'rgb(0, 0, 0)',
+          300: 'rgb(255, 255, 255)',
+          400: 'rgb(148, 148, 148)',
+          500: 'rgb(229, 229, 229)',
+        },
+        // Secondary colors
+        secondary: {
+          100: 'rgb(82, 82, 82)',
+          200: 'rgb(212, 160, 255)',
+          300: 'rgb(38, 38, 38)',
+          400: 'rgb(163, 163, 163)',
+          500: 'rgb(85, 85, 85)',
+        },
+      },
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+      },
+      fontSize: {
+        '16px': '16px',
+        '13px': '13px',
+        '20px': '20px',
+        '28px': '28px',
+        '32px': '32px',
+        '8.5px': '8.5px',
+        '22px': '22px',
+        '11px': '11px',
+        '14.4px': '14.4px',
+        '50px': '50px',
+      },
+      spacing: {
+        '-80 0px 80px': '-80px 0px 80px',
+        '-80': '-80px',
+        '-76': '-76px',
+        '-66 0px 0px': '-66px 0px 0px',
+        '-66': '-66px',
+        '-22 0px 0px 16px': '-22px 0px 0px 16px',
+        '-22': '-22px',
+        '-10 -10px 0px 0px': '-10px -10px 0px 0px',
+        '-10': '-10px',
+        '-1': '-1px',
+        '0 16px': '0px 16px',
+        '0 0px -76px': '0px 0px -76px',
+        '0 24px': '0px 24px',
+        '0 32px 16px': '0px 32px 16px',
+        '0 32px': '0px 32px',
+        '0 29.4375px': '0px 29.4375px',
+        '0 0px 12px': '0px 0px 12px',
+        '0 0px 20px': '0px 0px 20px',
+        '0 29.4375px 24px': '0px 29.4375px 24px',
+        '0 29.4375px 40px': '0px 29.4375px 40px',
+      },
+      borderRadius: {
+        '0 0px 30px 30px': '0px 0px 30px 30px',
+        '0 0px 2px 2px': '0px 0px 2px 2px',
+        '2': '2px',
+        '2.5': '2.5px',
+        '3': '3px',
+        '4': '4px',
+        '72': '72px',
+        '100': '100px',
+        '100%': '100%',
+      },
+    },
+  },
+  plugins: [],
+}

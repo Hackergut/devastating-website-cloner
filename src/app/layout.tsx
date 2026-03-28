@@ -4,13 +4,14 @@ import { Inter } from 'next/font/google'
 
 const inter = Inter({ 
   subsets: ['latin'],
-  variable: '--font-inter',
-  weight: ['400', '500', '600', '700', '800']
+  weight: ['400', '500', '600', '700'],
+  display: 'swap',
 })
 
 export const metadata: Metadata = {
-  title: 'Ledger - Secure Crypto Wallet',
+  title: 'Ledger - Hardware Wallet & Security Solutions',
   description: 'Ledger is the smartest way to secure, buy, exchange and grow your crypto assets.',
+  keywords: 'ledger, hardware wallet, crypto, bitcoin, ethereum, security, blockchain',
 }
 
 export default function RootLayout({
@@ -19,8 +20,10 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={inter.variable}>
-      <body className={inter.className}>{children}</body>
+    <html lang="en">
+      <body className={inter.className}>
+        {children}
+      </body>
     </html>
   )
 }

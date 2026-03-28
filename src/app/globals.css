@@ -1,60 +1,49 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 @import "tw-animate-css";
-@import "shadcn/tailwind.css";
+
+@theme {
+  --color-ledger-black: #000000;
+  --color-ledger-white: #FFFFFF;
+  --color-ledger-gray-100: rgb(229, 229, 229);
+  --color-ledger-gray-200: rgb(148, 148, 148);
+  --color-ledger-gray-dark: rgb(38, 38, 38);
+  --color-ledger-gray-darker: rgb(10, 10, 10);
+  
+  --color-background: #FFFFFF;
+  --color-foreground: #000000;
+  
+  --font-inter: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
 
 @layer base {
   :root {
-    /* Ledger Brand Colors - EXTRACTED FROM REAL SITE */
-    --ledger-primary: #0055FF;
-    --ledger-primary-hover: #0044DD;
-    --ledger-black: #000000;
-    --ledger-white: #FFFFFF;
-    
-    /* Grayscale palette */
-    --ledger-gray-50: #F7F8FA;
-    --ledger-gray-100: #E5E7EB;
-    --ledger-gray-200: #D1D5DB;
-    --ledger-gray-900: #111827;
-    
-    /* Shadcn compatibility */
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
-    --primary: 220 90% 56%;
-    --primary-foreground: 210 40% 98%;
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 220 90% 56%;
-    --radius: 0.5rem;
+    --ledger-gradient-hero: linear-gradient(123deg, rgb(10, 10, 10), rgb(38, 38, 38));
+    --ledger-gradient-banner: linear-gradient(90deg, rgba(212, 212, 212, 0.5), rgba(212, 212, 212, 0.1) 75.8%, rgba(212, 212, 212, 0.3));
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
   }
   
   body {
-    @apply bg-background text-foreground;
-    font-family: var(--font-inter), -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    color: var(--ledger-black);
+    font-family: 'Inter', 'Times New Roman', arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    background: #FFFFFF;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
   
-  /* Ledger-specific styles */
-  .ledger-blue {
-    color: var(--ledger-primary);
+  img {
+    max-width: 100%;
+    height: auto;
   }
   
-  .ledger-bg-blue {
-    background-color: var(--ledger-primary);
-  }
-  
-  .ledger-border {
-    border-color: var(--border);
-  }
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+  a {
+    color: inherit;
+    text-decoration: none;
   }
 }
