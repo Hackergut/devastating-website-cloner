@@ -1,153 +1,306 @@
 ---
 name: clone-website
-description: Complete website cloning with automatic extraction, analysis, and code generation. Extracts design system, animations, accessibility, performance, and generates production-ready code. Use whenever you need to clone, replicate, or rebuild any website.
+description: DEVASTATING website cloning with DEEP extraction. Extracts source code, APIs, network calls, framework data, animations, design system, accessibility, performance. Reverse-engineers React/Vue/Next components. Use whenever you need to clone ANY website with maximum precision.
 argument-hint: "<url>"
 user-invocable: true
 ---
 
-# Clone Website Skill - Complete Integration
+# Clone Website Skill - DEVASTATING Deep Extraction
 
 You are about to reverse-engineer and rebuild **$ARGUMENTS** with DEVASTATING completeness.
 
-This skill uses Puppeteer automation to extract EVERYTHING: design tokens, animations, accessibility, performance, and generates production-ready code.
+This skill uses Puppeteer to extract EVERYTHING:
+- **DEEP**: Raw HTML, CSS, JavaScript source code
+- **NETWORK**: API endpoints, XHR, Fetch, WebSocket connections  
+- **FRAMEWORK**: React, Vue, Next, Nuxt, Angular detection
+- **DATA**: `__NEXT_DATA__`, `__NUXT__`, embedded JSON, window globals
+- **VISUAL**: Design tokens, animations, responsive breakpoints
+- **SEO**: Meta tags, JSON-LD structured data
+- **STORAGE**: LocalStorage, SessionStorage
 
-## 🚀 How This Works
+## 🚀 Deep Extraction Pipeline
 
-When invoked, this skill will:
-
-1. **Check Prerequisites** - Verify scripts exist, create if needed
-2. **Run Complete Extraction Pipeline** - All 8 scripts automatically
-3. **Use Extracted Data** - Build components with exact values
-4. **Verify Build** - Ensure everything compiles
-5. **Report Results** - Show what was created
-
-## ⚡ Immediate Actions
-
-### Step 1: Check/Create Scripts
-
-First, verify the extraction scripts exist. If not, create them:
-
-```javascript
-// Check if scripts exist
-const scriptsDir = 'scripts/';
-const requiredScripts = [
-  'extract-website.mjs',
-  'download-assets.mjs',
-  'generate-specs.mjs',
-  'extract-design-system.mjs',
-  'analyze-responsive.mjs',
-  'extract-animations.mjs',
-  'check-accessibility.mjs',
-  'analyze-performance.mjs',
-  'clone-complete.mjs'
-];
-```
-
-If scripts don't exist, STOP and create them first using the code from the script files.
-
-### Step 2: Run Complete Pipeline
-
-Execute the master script:
+When invoked, run ALL 10 scripts:
 
 ```bash
-node scripts/clone-complete.mjs $ARGUMENTS
+npm run clone $ARGUMENTS
 ```
 
-This runs ALL extraction scripts automatically:
-- Extract HTML/CSS/assets
-- Download and optimize images to WebP
-- Generate component specifications
-- Extract design system (colors, fonts, spacing)
-- Analyze responsive breakpoints
-- Extract animations as Framer Motion
-- Check accessibility (WCAG 2.1)
-- Analyze performance (Core Web Vitals)
+This executes:
+1. **Website Extraction** - DOM structure, computed styles, text
+2. **Download Assets** - Images, videos, icons (WebP optimized)
+3. **Generate Specs** - Component specifications
+4. **Extract Design System** - Colors, fonts, spacing
+5. **Analyze Responsive** - Breakpoints, responsive utils
+6. **Extract Animations** - Keyframes, transitions, Framer Motion code
+7. **Check Accessibility** - WCAG 2.1 violations with fixes
+8. **Analyze Performance** - Core Web Vitals scores
+9. **Extract Source Code** - Raw HTML/CSS/JS, framework detection, event handlers
+10. **Extract Network** - API calls, endpoints, responses, GraphQL
 
-### Step 3: Wait for Completion
+## ⚡ Step-by-Step Execution
 
-The pipeline takes 1-5 minutes depending on site complexity. Monitor output:
+### Step 1: Run Full Pipeline
 
+```bash
+node scripts/clone-complete.mjs $ARGUMENTS [timeout]
+```
+
+Default timeout is 120000ms (2 minutes). For heavy sites use longer timeout:
+```bash
+node scripts/clone-complete.mjs https://target.com 300000
+```
+
+### Step 2: Wait for Deep Extraction
+
+Pipeline extracts:
 ```
 📡 Navigating to https://site.com...
-⏱️  Timeout: 120000ms
+⏱️  Timeout: 300000ms
 🔍 Extracting page structure...
 📸 Taking screenshots...
 🎮 Testing interactions...
 🎨 Extracting design system...
 ♿ Checking accessibility...
 ⚡ Analyzing performance...
+🔧 Extracting source code...
+📡 Intercepting network calls...
+⚛️ Detecting framework...
 ```
 
-### Step 4: Read Extracted Data
+### Step 3: Read ALL Extracted Data
 
-Once complete, read key files:
+Extraction produces 25+ files:
+
+**Primary Extraction:**
+- `computed-styles.json` - 14,000+ exact CSS properties
+- `assets.json` - All image/video references  
+- `text-content.json` - All visible text
+- `css-variables.json` - Design tokens
+
+**Deep Source Code:**
+- `raw.html` - Complete HTML (3000+ lines)
+- `stylesheets.json` - All CSS (inline + external)
+- `scripts.json` - All JS (inline + external)
+- `framework-data.json` - React/Vue/Next detected
+- `event-handlers.json` - All onclick/onhover/etc
+- `data-attributes.json` - data-* attributes
+
+**Network Deep:**
+- `requests.json` - All HTTP requests
+- `responses.json` - API responses captured
+- `api-endpoints.json` - REST/GraphQL endpoints
+- `graphql.json` - GraphQL queries
+
+**Design System:**
+- `design-system.json` - Colors, fonts, spacing
+- `tailwind.config.js` - Auto-generated config
+- `framer-motion-components.tsx` - Animation code
+
+**Other:**
+- `animations.json` - All keyframes & transitions
+- `accessibility-issues.json` - WCAG violations
+- `performance-metrics.json` - Core Web Vitals
+- `seo-meta.json` - Meta tags, JSON-LD
+
+### Step 4: Use DEEP Data for Pixel-Perfect Clone
 
 ```javascript
-// Read primary extraction
-const computedStyles = Read('docs/extraction/computed-styles.json');
-const assets = Read('docs/extraction/assets.json');
-const textContent = Read('docs/extraction/text-content.json');
-const cssVariables = Read('docs/extraction/css-variables.json');
+// Read deep extraction
+const sourceCode = Read('docs/extraction/source/raw.html');
+const framework = Read('docs/extraction/source/framework-data.json');
+const network = Read('docs/extraction/network/api-endpoints.json');
+const stylesheets = Read('docs/extraction/source/stylesheets.json');
+const eventHandlers = Read('docs/extraction/source/event-handlers.json');
 
-// Read design system
+// Use EXACT values from source
 const designSystem = Read('docs/design-system/design-system.json');
-const tailwindConfig = Read('docs/design-system/tailwind.config.js');
-
-// Read accessibility
-const accessibilityReport = Read('docs/extraction/accessibility-report.md');
-
-// Read performance
-const performanceReport = Read('docs/extraction/performance-report.md');
+const animations = Read('docs/extraction/animations.json');
+const cssVariables = Read('docs/extraction/source/css-variables.json');
 ```
 
-### Step 5: Update Project Foundation
+## 📊 Deep Extraction Capabilities
 
-Use extracted design system to update project files:
+| Feature | Depth | What It Extracts |
+|---------|-------|------------------|
+| **Raw HTML** | 🔴 DEEP | Complete DOM (3000+ lines) |
+| **All CSS** | 🔴 DEEP | Inline + external stylesheets |
+| **All JS** | 🔴 DEEP | Inline + external scripts |
+| **Framework Data** | 🔴 DEEP | `__NEXT_DATA__`, `__NUXT__`, globals |
+| **API Calls** | 🔴 DEEP | Endpoints, payloads, responses |
+| **Network** | 🔴 DEEP | XHR, Fetch, WebSocket |
+| **Event Handlers** | 🔴 DEEP | onclick onhover onfocus etc |
+| **Data Attributes** | 🔴 DEEP | All data-* props |
+| **Web Storage** | 🔴 DEEP | localStorage, sessionStorage |
+| **SEO** | 🔴 DEEP | Meta tags, JSON-LD |
+| **Design System** | 🟡 SURFACE | Colors, fonts, spacing |
+| **Animations** | 🟡 SURFACE | Keyframes, transitions |
+| **Accessibility** | 🟡 SURFACE | WCAG violations |
+| **Performance** | 🟡 SURFACE | Core Web Vitals |
 
-**5.1 Update `globals.css`** with extracted colors:
-```css
-:root {
-  /* From css-variables.json */
-  --color-primary: oklch(extracted color);
-  --color-secondary: oklch(extracted color);
-  --font-sans: 'Extracted Font', sans-serif;
-  /* ... all extracted variables */
-}
-```
+## 🔧 Framework Detection
 
-**5.2 Update `tailwind.config.js`** with extracted tokens:
-```javascript
-// From docs/design-system/tailwind.config.js
-module.exports = {
-  theme: {
-    extend: {
-      colors: {
-        primary: { /* extracted palette */ },
-      },
-      fontFamily: {
-        sans: ['Extracted Font', 'sans-serif'],
-      },
-      spacing: { /* extracted values */ },
-    }
-  }
-}
-```
+Automatically detects:
+- ✅ Next.js (with `__NEXT_DATA__`)
+- ✅ Nuxt.js (with `__NUXT__`)
+- ✅ React (Fiber)
+- ✅ Vue (data-v- attributes)
+- ✅ Angular (ng-version)
+- ✅ Svelte (svelte attributes)
+- ✅ Gatsby
+- ✅ Remix
 
-**5.3 Download images** (already done by script):
-```
-public/images/*   - All downloaded and WebP optimized
-public/icons/*    - All SVGs converted to React components
-```
+## 🎯 Component Generation Strategy
 
-### Step 6: Build Components
-
-Use extracted CSS values to build pixel-perfect components:
+### Option A: If Framework Detected (React/Next)
 
 ```typescript
-// Example: Header component
-// Use EXACT values from computed-styles.json
+// Use extracted __NEXT_DATA__ to understand data flow
+// Use extracted CSS for exact styles
+// Use extracted animations for Framer Motion
+// Use API endpoints for backend integration
 
-export function Header() {
+import { motion } from 'framer-motion';
+
+export function Component() {
+  // Use EXACT values from extraction
+  const styles = {
+    background: 'linear-gradient(123deg, rgb(10, 10, 10), rgb(38, 38, 38))',
+    // From docs/extraction/computed-styles.json
+  };
+  
+  return (
+    <motion.div 
+      initial={{ opacity: 0, y: 80 }}
+      animate={{ opacity: 1, y: 0 }}
+      // From docs/extraction/animations.json - revealAnimation
+    >
+      {/* From docs/extraction/text-content.json */}
+      <h1>LEDGER CRYPTO WALLETS</h1>
+    </motion.div>
+  );
+}
+```
+
+### Option B: If Vanilla HTML/CSS
+
+```html
+<!-- Use raw.html as reference -->
+<!-- Copy exact CSS from stylesheets.json -->
+<!-- Inline keyframes from animations.json -->
+```
+
+### Option C: If Complex Framework (Vue/Angular)
+
+```javascript
+// Convert to React using extracted data:
+// 1. Use computed-styles.json for styling
+// 2. Use assets.json for images
+// 3. Use text-content.json for content
+// 4. Use animations.json for interactions
+```
+
+## 🚨 Critical Values to Extract
+
+When building components, ALWAYS use these EXACT extracted values:
+
+### Colors (from css-variables.json)
+```css
+--color-primary: /* extracted value */
+--color-secondary: /* extracted value */
+```
+
+### Gradients (from computed-styles.json)
+```css
+background: linear-gradient(/* exact degree, colors */);
+/* Example: linear-gradient(123deg, rgb(10, 10, 10), rgb(38, 38, 38)) */
+```
+
+### Typography (from design-system.json)
+```css
+font-family: /* extracted font stack */
+font-size: /* extracted sizes */
+```
+
+### Spacing (from design-system.json)
+```css
+padding: /* extracted values */
+margin: /* extracted values */
+gap: /* extracted values */
+```
+
+### Animations (from animations.json)
+```typescript
+// Use EXACT keyframes
+// Example extracted:
+const fadeInUp = {
+  initial: { opacity: 0, y: 80 },
+  animate: { opacity: 1, y: 0 }
+};
+```
+
+### Shadows (from computed-styles.json)
+```css
+box-shadow: /* extracted exact value */
+```
+
+## 🔥 Anti-Failure Checklist
+
+Before finishing, VERIFY:
+
+- [ ] All images downloaded to `public/images/`
+- [ ] All CSS variables applied
+- [ ] All gradients exact
+- [ ] All animations implemented
+- [ ] All fonts loaded
+- [ ] All text content accurate
+- [ ] All component styles extracted
+- [ ] Mobile/tablet/desk breakpoints responsive
+- [ ] Accessibility issues fixed
+- [ ] Performance optimized
+- [ ] API endpoints documented
+- [ ] Event handlers working
+- [ ] Framework data analyzed
+
+## 📝 Final Output Structure
+
+```
+website-clone/
+├── docs/
+│   ├── extraction/
+│   │   ├── computed-styles.json     # 14,000+ CSS values
+│   │   ├── assets.json              # All image refs
+│   │   ├── text-content.json        # All text
+│   │   ├── css-variables.json       # Design tokens
+│   │   ├── animations.json           # All animations
+│   │   ├── accessibility-issues.json
+│   │   ├── performance-metrics.json
+│   │   ├── source/
+│   │   │   ├── raw.html             # Complete HTML
+│   │   │   ├── stylesheets.json      # All CSS
+│   │   │   ├── scripts.json          # All JS
+│   │   │   ├── framework-data.json   # React/Vue/etc
+│   │   │   ├── event-handlers.json   # All events
+│   │   │   └── css-variables.json    # Custom props
+│   │   └── network/
+│   │       ├── requests.json        # All HTTP requests
+│   │       ├── responses.json         # API responses
+│   │       └── api-endpoints.json    # REST/GraphQL
+│   └── design-system/
+│       ├── design-system.json        # Complete system
+│       ├── tailwind.config.js         # Auto-generated
+│       └── framer-motion-components.tsx
+├── public/
+│   ├── images/                       # Downloaded + WebP
+│   ├── icons/                        # SVG → React
+│   └── videos/
+└── src/
+    ├── components/                   # Built components
+    ├── lib/
+    │   └── animations.tsx           # Animation utils
+    └── app/
+        └── page.tsx                  # Main page
+```
   return (
     <header style={{
       // From extracted data

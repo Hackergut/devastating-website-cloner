@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "clone": "node scripts/clone-complete.mjs",
+    "clone": "node scripts/master-pipeline.mjs",
     "clone:extract": "node scripts/extract-website.mjs",
     "clone:assets": "node scripts/download-assets.mjs",
     "clone:specs": "node scripts/generate-specs.mjs",
@@ -17,7 +17,11 @@
     "clone:a11y": "node scripts/check-accessibility.mjs",
     "clone:perf": "node scripts/analyze-performance.mjs",
     "clone:source": "node scripts/extract-source-code.mjs",
-    "clone:network": "node scripts/extract-network.mjs"
+    "clone:network": "node scripts/extract-network.mjs",
+    "clone:structure": "node scripts/analyze-html-structure.mjs",
+    "clone:css": "node scripts/process-css.mjs",
+    "clone:build-animations": "node scripts/build-animations.mjs",
+    "clone:components": "node scripts/generate-components.mjs"
   },
   "dependencies": {
     "axios": "^1.14.0",
