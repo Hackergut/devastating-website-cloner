@@ -1,12 +1,64 @@
-# 🔥 DEVASTATING Website Cloning Template
+<div align="center">
+  
+  <img src="assets/logo.svg" alt="DEVASTATING Website Cloner Logo" width="200">
+  
+  <h1>🔥 DEVASTATING Website Cloner</h1>
+  
+  <p><strong>The most powerful automated website cloning template with Puppeteer extraction</strong></p>
+  
+  <p>
+    <a href="#-quick-start">Quick Start</a> •
+    <a href="#-what-you-get">Features</a> •
+    <a href="#-comparison">Comparison</a> •
+    <a href="https://github.com/Hackergut/devastating-website-cloner/issues">Support</a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/Hackergut/devastating-website-cloner/stargazers">
+      <img src="https://img.shields.io/github/stars/Hackergut/devastating-website-cloner?style=social" alt="GitHub stars">
+    </a>
+    <a href="https://github.com/Hackergut/devastating-website-cloner/network/members">
+      <img src="https://img.shields.io/github/forks/Hackergut/devastating-website-cloner?style=social" alt="GitHub forks">
+    </a>
+    <a href="https://opensource.org/licenses/MIT">
+      <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+    </a>
+    <a href="https://nodejs.org/">
+      <img src="https://img.shields.io/badge/Node.js-%3E%3D20.0.0-brightgreen" alt="Node.js Version">
+    </a>
+  </p>
+  
+</div>
 
-**The most powerful automated website cloning template with Puppeteer extraction.**
+---
 
-[![GitHub stars](https://img.shields.io/github/stars/Hackergut/devastating-website-cloner?style=social)](https://github.com/Hackergut/devastating-website-cloner)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)](https://nodejs.org/)
+## 📸 Demo
 
-> **Extract complete websites in 2 minutes**: design system, animations, accessibility, performance metrics, and production-ready code.
+<div align="center">
+<img src="assets/screenshots/ledger-clone-demo.png" alt="Ledger.com Clone Demo" width="100%">
+
+**Extract complete websites in 2 minutes with ONE command** ⚡
+</div>
+
+---
+
+## 🎯 What You Get
+
+<div align="center">
+
+| Before | After |
+|--------|-------|
+| ❌ Estimate CSS values | ✅ **14,000+ exact values from browser** |
+| ❌ Copy/paste images manually | ✅ **116+ auto-downloaded (WebP optimized)** |
+| ❌ Guess design tokens | ✅ **Tailwind config auto-generated** |
+| ❌ No animations | ✅ **Framer Motion components created** |
+| ❌ No accessibility check | ✅ **WCAG 2.1 full audit with fixes** |
+| ❌ No performance audit | ✅ **Core Web Vitals measured** |
+| ❌ Manual work: **3-5 days** | ✅ **Automated: 2 minutes** |
+
+</div>
+
+---
 
 ---
 
