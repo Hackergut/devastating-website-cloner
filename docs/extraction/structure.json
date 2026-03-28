@@ -1,0 +1,1058 @@
+{
+  "head": {
+    "title": "Ledger Crypto Wallet - Security for DeFi & Web3Back ButtonFilter Button",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width,initial-scale=1.0,maximum-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "description",
+        "content": "Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe"
+      },
+      {
+        "name": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "name": "og:type",
+        "content": "website"
+      },
+      {
+        "name": "og:title",
+        "content": "Ledger Crypto Wallet - Security for DeFi & Web3"
+      },
+      {
+        "name": "og:description",
+        "content": "Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe"
+      },
+      {
+        "name": "og:url",
+        "content": "https://www.ledger.com/"
+      },
+      {
+        "name": "og:site_name",
+        "content": "Ledger"
+      },
+      {
+        "name": "article:publisher",
+        "content": "https://www.facebook.com/Ledger/"
+      },
+      {
+        "name": "article:modified_time",
+        "content": "2026-03-24T13:40:33+00:00"
+      },
+      {
+        "name": "og:image",
+        "content": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2025/10/og_home.webp"
+      },
+      {
+        "name": "og:image:width",
+        "content": "1200"
+      },
+      {
+        "name": "og:image:height",
+        "content": "640"
+      },
+      {
+        "name": "og:image:type",
+        "content": "image/webp"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@ledger"
+      },
+      {
+        "name": "generator",
+        "content": "WPML ver:4.9.2 stt:5,59,1,4,3,28,29,42,45,2,52,53;"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2021/11/Ledger_favicon.png"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.0/swiper-bundle.min.css?ver=9.2.0",
+        "id": "swiper-css-css"
+      },
+      {
+        "href": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/main.css?ver=14540",
+        "id": "main-css"
+      },
+      {
+        "href": "https://www.ledger.com/wp-content/themes/ledger-v2/public/css/homepage.css?ver=14540",
+        "id": "homepage-css"
+      },
+      {
+        "href": "https://www.ledger.com/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.79",
+        "id": "heateor_sss_frontend_css-css"
+      }
+    ],
+    "scripts": [
+      {
+        "src": "https://2632.userly.net/trk/index.php?script_source=homepage&u=541,884a 5284-c826-69a0-358b- a753 9068,1774741595,",
+        "id": "uz_rt"
+      },
+      {
+        "src": "https://analytics.tiktok.com/i18n/pixel/static/identify_5cff1caf.js"
+      },
+      {
+        "src": "https://analytics.tiktok.com/i18n/pixel/static/main.MTJlMjhkNzMyMQ.js"
+      },
+      {
+        "src": "https://www.googletagmanager.com/gtag/js?id=G-Y38HP2KGC3&cx=c&gtm=4e63p1h1"
+      },
+      {
+        "src": "//cdn.taboola.com/libtrc/unip/1893020/tfa.js",
+        "id": "tb_tfa_script"
+      },
+      {
+        "src": "https://2632.userly.net/cl.js?id=2632&ad=541&l=cibleclic_pta"
+      },
+      {
+        "src": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CCM80A3C77U9QMO0Q980&lib=ttq"
+      },
+      {
+        "src": "//js-tag.zemanta.com/zcpt.js"
+      },
+      {
+        "src": "https://s.yimg.com/wi/ytc.js"
+      },
+      {
+        "src": "https://connect.facebook.net/signals/config/237213137153741?v=2.9.285&r=stable&domain=www.ledger.com&hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157"
+      },
+      {
+        "src": "https://connect.facebook.net/en_US/fbevents.js"
+      },
+      {
+        "src": "https://p.teads.tv/teads-fellow.js"
+      },
+      {
+        "src": "https://static.ads-twitter.com/uwt.js"
+      },
+      {
+        "src": "https://www.redditstatic.com/ads/pixel.js"
+      },
+      {
+        "src": "https://bat.bing.com/bat.js"
+      },
+      {
+        "src": "https://www.googletagmanager.com/gtm.js?id=GTM-W5FKZ2N"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=491900",
+        "id": "wpml-cookie-js"
+      },
+      {
+        "src": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js?ver=1",
+        "id": "onetrust-js"
+      },
+      {
+        "src": "https://cdn.optimizely.com/js/30433690750.js?ver=1",
+        "id": "optimizely-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "id": "jquery-core-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "id": "jquery-migrate-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-includes/js/wp-emoji-release.min.js"
+      },
+      {
+        "src": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/otBannerSdk.js"
+      },
+      {
+        "src": "//t.contentsquare.net/uxa/632f3a9f096b5.js"
+      },
+      {
+        "src": "https://bat.bing.com/p/action/134633242.js"
+      },
+      {
+        "src": "https://2632.userly.net/p/live_ov.js",
+        "id": "cc_uz_demo"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.79",
+        "id": "heateor_sss_sharing_js-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/iosCookieDisable.js",
+        "id": "globals-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/main.js?ver=14540",
+        "id": "ledger-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/language.js",
+        "id": "language-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/globalisation-bar.js",
+        "id": "globalisation-bar-js"
+      },
+      {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.0/swiper-bundle.min.js",
+        "id": "swiper-js-js"
+      },
+      {
+        "src": "https://kit.fontawesome.com/f8a71d88c0.js",
+        "id": "fontawesome-js-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/newsletter-form.js?ver=14540",
+        "id": "newsletter-form-js-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/popin.js?ver=14540",
+        "id": "popin-js-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/new-navigation.js?ver=14540",
+        "id": "new-navigation-js-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/script-load-fifty-crypto-assets.js?ver=14540",
+        "id": "script-load-fifty-crypto-assets-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/homepage.js?ver=14540",
+        "id": "ledger-homepage-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/testimonials.js?ver=14540",
+        "id": "testimonials-js-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/faq-2.js?ver=14540",
+        "id": "faq-2-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/supported-cryptos-swiper.js?ver=14540",
+        "id": "script-scw-js"
+      },
+      {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/js/recover-block.js?ver=14540",
+        "id": "recover-block-js"
+      },
+      {
+        "src": "https://js.adsrvr.org/up_loader.1.1.0.js",
+        "id": ""
+      },
+      {
+        "src": "https://try.abtasty.com/2f64c37290a95967d11de606157a17ac.js",
+        "id": "abtasty-js-js"
+      }
+    ]
+  },
+  "body": {
+    "classes": [
+      "home",
+      "wp-singular",
+      "page-template",
+      "page-template-page-home",
+      "page-template-page-home-php",
+      "page",
+      "page-id-123",
+      "wp-theme-ledger-v2"
+    ],
+    "sections": [
+      {
+        "type": "FAQ",
+        "id": "faq-section-2",
+        "classes": [
+          "bg",
+          "no-margin-mobile",
+          "faq-section-2"
+        ],
+        "index": 0,
+        "html": "\n        <div class=\"row\">\n            <div class=\"row margin-md no-margin-mobile\">\n                                    <h2 class=\"heading-3 no-margin-mobile margin-xs align-left color-white\">FAQ</h2>\n                                                    <p class=\"emphasis align-left margin-s color-white\">Find answers to some of the most common questions.</p>\n                                                    <div class=\"faq-2 flexbox no-margin-mobile\" data-faq=\"\">\n                                                <div>\n                            <div class=\"row margin-xs toggle-list\">\n                                                                    <div class=\"1 questions-by-category \">\n                                                                                                                                    <div class=\"fields-container-options\" itemscope=\"\" itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n                                                    <input data-question=\"\" type=\"radio\" name=\"nanos-1\" id=\"block-11\" checked=\"\">\n                                                    <label class=\"h6 title\" itemprop=\"name\" for=\"block-11\">\n                                                        What is a crypto wallet?\n                                                        <div class=\"chevron\"><svg width=\"25\" height=\"25\" viewBox=\"0 0 48 48\" fill=\"none\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"stroke-neutral-400\"><path d=\"M16 20L24 28L32 20\"></path></svg></div>\n                                                    </label>\n                                                    <div data-answer=\"\" itemscope=\"\" itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n                                                        <div class=\"wysiwyg\" itemprop=\"text\">\n                                                            <p>Thinking about buying crypto or NFTs? You’ll need a <a hr"
+      },
+      {
+        "type": "Unknown",
+        "classes": [
+          "bg-divider-dark"
+        ],
+        "index": 1,
+        "html": "\n  <div class=\"row\">\n    <div></div>\n  </div>\n"
+      },
+      {
+        "type": "Unknown",
+        "classes": [
+          "bg-divider-dark"
+        ],
+        "index": 2,
+        "html": "\n  <div class=\"row\">\n    <div></div>\n  </div>\n"
+      }
+    ]
+  },
+  "navigation": {
+    "menu": []
+  },
+  "components": [
+    {
+      "type": "Banner",
+      "name": "header-top-banner",
+      "selector": ".header-top-banner",
+      "text": "Get up to $100 of BTC to swap, stake, spend and more via Ledger Wallet™",
+      "buttonText": "Bitcoin bonus",
+      "href": "https://shop.ledger.com/pages/march-2026-added-value-promo",
+      "classes": [
+        "header-top-banner"
+      ],
+      "containerClasses": [
+        "header-top-banner--container"
+      ],
+      "styles": {}
+    },
+    {
+      "type": "Header",
+      "name": "main-header",
+      "selector": "#header",
+      "classes": [
+        "",
+        "transparent-white-font"
+      ],
+      "logo": {
+        "src": "https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg",
+        "alt": "Ledger",
+        "link": "https://www.ledger.com"
+      },
+      "navigation": [
+        {
+          "text": "Ledger Stax",
+          "href": "https://shop.ledger.com/pages/ledger-stax",
+          "hasDropdown": false
+        },
+        {
+          "text": "Hardware Wallets",
+          "href": "https://shop.ledger.com/pages/hardware-wallet",
+          "hasDropdown": false
+        },
+        {
+          "text": "Bundles & Packs",
+          "href": "https://shop.ledger.com/#category-bundle",
+          "hasDropdown": false
+        },
+        {
+          "text": "Accessories",
+          "href": "https://shop.ledger.com/#category-accessories",
+          "hasDropdown": false
+        },
+        {
+          "text": "Recovery Solutions",
+          "href": "https://shop.ledger.com/pages/recovery-solutions",
+          "hasDropdown": false
+        },
+        {
+          "text": "Limited Editions",
+          "href": "https://shop.ledger.com/#collaborations",
+          "hasDropdown": false
+        },
+        {
+          "text": "See all products",
+          "href": "https://shop.ledger.com",
+          "hasDropdown": false
+        },
+        {
+          "text": "Compare Ledger signers",
+          "href": "https://shop.ledger.com/pages/hardware-wallets-comparison",
+          "hasDropdown": false
+        },
+        {
+          "text": "Bitcoin wallet",
+          "href": "/coin/wallet/bitcoin",
+          "hasDropdown": false
+        },
+        {
+          "text": "Ethereum wallet",
+          "href": "/coin/wallet/ethereum",
+          "hasDropdown": false
+        },
+        {
+          "text": "Solana wallet",
+          "href": "/coin/wallet/solana",
+          "hasDropdown": false
+        },
+        {
+          "text": "Buy crypto",
+          "href": "/buy",
+          "hasDropdown": false
+        },
+        {
+          "text": "Swap crypto",
+          "href": "/swap",
+          "hasDropdown": false
+        },
+        {
+          "text": "Stake crypto",
+          "href": "/staking",
+          "hasDropdown": false
+        },
+        {
+          "text": "All supported crypto",
+          "href": "/supported-crypto-assets",
+          "hasDropdown": false
+        },
+        {
+          "text": "What happens if I lose my Ledger?",
+          "href": "/academy/what-happens-if-i-lose-my-ledger",
+          "hasDropdown": false
+        },
+        {
+          "text": "Not your keys, not your coins",
+          "href": "/academy/not-your-keys-not-your-coins-why-it-matters",
+          "hasDropdown": false
+        },
+        {
+          "text": "What is a cold wallet?",
+          "href": "/academy/topics/security/what-is-a-cold-wallet",
+          "hasDropdown": false
+        },
+        {
+          "text": "What is a private key?",
+          "href": "/academy/whats-a-private-key",
+          "hasDropdown": false
+        },
+        {
+          "text": "What is a Crypto Wallet?",
+          "href": "/what-is-a-crypto-wallet",
+          "hasDropdown": false
+        },
+        {
+          "text": "For Developers",
+          "href": " https://developers.ledger.com",
+          "hasDropdown": false
+        },
+        {
+          "text": "For Developers",
+          "href": " https://developers.ledger.com",
+          "hasDropdown": false
+        },
+        {
+          "text": "Support",
+          "href": " https://support.ledger.com/",
+          "hasDropdown": false
+        },
+        {
+          "text": "Support",
+          "href": " https://support.ledger.com/",
+          "hasDropdown": false
+        }
+      ],
+      "cta": {
+        "text": "Products",
+        "classes": [
+          "navigation__item__trigger",
+          "navigation-button"
+        ]
+      }
+    },
+    {
+      "type": "Hero",
+      "name": "hero-section",
+      "selector": ".hero-manager",
+      "classes": [
+        "hero-manager"
+      ],
+      "title": "LEDGER CRYPTO WALLETS",
+      "subtitle": "Get up to $100 of BTC to swap, stake, spend... via Ledger Wallet™ with a new Ledger signer",
+      "backgroundImage": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2026/02/visual-23.webp",
+      "cta": "Discover Ledger Nano™ Gen5"
+    },
+    {
+      "type": "Footer",
+      "name": "main-footer",
+      "selector": "#footer",
+      "classes": [
+        "ldg-container"
+      ],
+      "links": [
+        {
+          "text": "en\n            English",
+          "href": "#"
+        },
+        {
+          "text": "Français",
+          "href": "https://www.ledger.com/fr"
+        },
+        {
+          "text": "Türkçe",
+          "href": "https://www.ledger.com/tr"
+        },
+        {
+          "text": "Deutsch",
+          "href": "https://www.ledger.com/de"
+        },
+        {
+          "text": "Português",
+          "href": "https://www.ledger.com/pt-br"
+        },
+        {
+          "text": "Español",
+          "href": "https://www.ledger.com/es"
+        },
+        {
+          "text": "Русский",
+          "href": "https://www.ledger.com/ru"
+        },
+        {
+          "text": "简体中文",
+          "href": "https://www.ledger.com/zh-hans"
+        },
+        {
+          "text": "日本語",
+          "href": "https://www.ledger.com/ja"
+        },
+        {
+          "text": "한국어",
+          "href": "https://www.ledger.com/ko"
+        },
+        {
+          "text": "العربية",
+          "href": "https://www.ledger.com/ar"
+        },
+        {
+          "text": "ภาษาไทย",
+          "href": "https://www.ledger.com/th"
+        },
+        {
+          "text": "Secure touchscreen signers",
+          "href": "https://shop.ledger.com/pages/secure-touchscreen-signers"
+        },
+        {
+          "text": "Hardware Wallet",
+          "href": "https://shop.ledger.com/pages/hardware-wallet"
+        },
+        {
+          "text": "Ledger Nano Gen5",
+          "href": "https://shop.ledger.com/products/ledger-nano-gen5"
+        },
+        {
+          "text": "Ledger Stax",
+          "href": "https://shop.ledger.com/pages/ledger-stax"
+        },
+        {
+          "text": "Ledger Flex",
+          "href": "https://shop.ledger.com/pages/ledger-flex"
+        },
+        {
+          "text": "Ledger Nano Classics",
+          "href": "https://shop.ledger.com/pages/classic-ledger-nano-signers"
+        },
+        {
+          "text": "Compare our devices",
+          "href": "https://shop.ledger.com/pages/hardware-wallets-comparison"
+        },
+        {
+          "text": "Bundles",
+          "href": "https://shop.ledger.com/#category-bundle"
+        },
+        {
+          "text": "Accessories",
+          "href": "https://shop.ledger.com/#category-accessories"
+        },
+        {
+          "text": "All products",
+          "href": "https://shop.ledger.com/"
+        },
+        {
+          "text": "Downloads",
+          "href": "https://shop.ledger.com/pages/ledger-wallet"
+        },
+        {
+          "text": "Bitcoin wallet",
+          "href": "https://www.ledger.com/coin/wallet/bitcoin"
+        },
+        {
+          "text": "Ethereum wallet",
+          "href": "https://www.ledger.com/coin/wallet/ethereum"
+        },
+        {
+          "text": "Solana wallet",
+          "href": "https://www.ledger.com/coin/wallet/solana"
+        },
+        {
+          "text": "Cardano wallet",
+          "href": "https://www.ledger.com/coin/wallet/cardano"
+        },
+        {
+          "text": "XRP wallet",
+          "href": "https://www.ledger.com/coin/wallet/ripple"
+        },
+        {
+          "text": "Monero wallet",
+          "href": "https://www.ledger.com/coin/wallet/monero"
+        },
+        {
+          "text": "USDT wallet",
+          "href": "https://www.ledger.com/coin/wallet/tether"
+        },
+        {
+          "text": "See all assets",
+          "href": "https://www.ledger.com/supported-crypto-assets"
+        },
+        {
+          "text": "Crypto Wallet",
+          "href": "https://www.ledger.com/what-is-a-crypto-wallet"
+        },
+        {
+          "text": "Crypto Prices",
+          "href": "https://www.ledger.com/coin/price"
+        },
+        {
+          "text": "Buying crypto",
+          "href": "https://www.ledger.com/buy"
+        },
+        {
+          "text": "Staking crypto",
+          "href": "https://www.ledger.com/staking"
+        },
+        {
+          "text": "Swapping crypto",
+          "href": "https://www.ledger.com/swap"
+        },
+        {
+          "text": "Ledger Enterprise Solutions",
+          "href": "https://enterprise.ledger.com/"
+        },
+        {
+          "text": "Funding from Ledger Cathay Capital",
+          "href": "https://www.ledger.com/cathay-ledger-fund"
+        },
+        {
+          "text": "The Developer Portal",
+          "href": "https://developers.ledger.com/"
+        },
+        {
+          "text": "Start using your Ledger device",
+          "href": "https://www.ledger.com/start"
+        },
+        {
+          "text": "Compatible wallets and services",
+          "href": "https://www.ledger.com/ledger-wallets-and-services"
+        },
+        {
+          "text": "How to buy Bitcoin",
+          "href": "https://www.ledger.com/buy-bitcoin"
+        },
+        {
+          "text": "Bitcoin Hardware Wallet",
+          "href": "https://shop.ledger.com/pages/bitcoin-hardware-wallet"
+        },
+        {
+          "text": "Support",
+          "href": "https://support.ledger.com/hc"
+        },
+        {
+          "text": "Bounty program",
+          "href": "https://donjon.ledger.com/bounty/"
+        },
+        {
+          "text": "Resellers",
+          "href": "/reseller"
+        },
+        {
+          "text": "Ledger Press Kit",
+          "href": "https://www.ledger.com/press"
+        },
+        {
+          "text": "Affiliates",
+          "href": "https://www.ledgerwallet.com/affiliates/"
+        },
+        {
+          "text": "Status",
+          "href": "https://status.ledger.com/"
+        },
+        {
+          "text": "Developers",
+          "href": "https://developers.ledger.com/"
+        }
+      ]
+    }
+  ],
+  "allClasses": [
+    "yoast-schema-graph",
+    "home",
+    "wp-singular",
+    "page-template",
+    "page-template-page-home",
+    "page-template-page-home-php",
+    "page",
+    "page-id-123",
+    "wp-theme-ledger-v2",
+    "header-top-banner",
+    "header-top-banner--container",
+    "row",
+    "header-top-banner--text",
+    "header-top-banner--button",
+    "switch-language-banner",
+    "is-hidden",
+    "title",
+    "text-body-r",
+    "text-body-highlight",
+    "buttons",
+    "text-caption",
+    "white",
+    "black",
+    "pick-up-news",
+    "read-more",
+    "transparent-white-font",
+    "flexbox",
+    "logo",
+    "navigation",
+    "navigation--desktop",
+    "animate",
+    "navigation__item",
+    "navigation__item--trigger",
+    "navigation__item__trigger",
+    "navigation-button",
+    "navigation__item__content",
+    "navigation__item__content__container",
+    "navigation-sections",
+    "navigation-sections__primary",
+    "heading-6",
+    "navigation-sections__primary__items",
+    "visual-container",
+    "visual",
+    "shadow",
+    "large",
+    "texts",
+    "tag",
+    "purple-light",
+    "small",
+    "navigation-sections__secondary",
+    "navigation-sections__secondary__container",
+    "navigation-sections__secondary__items",
+    "container",
+    "icon",
+    "navigation-sections__secondary__dynamic",
+    "bg-image",
+    "bg-overlay",
+    "text",
+    "section-title",
+    "product-image",
+    "stroke-current",
+    "has-fixed-shadow",
+    "fixed",
+    "navigation__item__link",
+    "navigation--mobile",
+    "navigation__tabs",
+    "navigation__tabs__trigger",
+    "active",
+    "navigation__tabs__link",
+    "navigation__tabs__content",
+    "navigation-sections--tablet",
+    "navigation-sections--mobile",
+    "primary-section-mobile",
+    "primary-section-mobile__link",
+    "primary-section-mobile__image-container",
+    "primary-section-mobile__image",
+    "primary-section-mobile__img",
+    "primary-section-mobile__content",
+    "primary-section-mobile__icon",
+    "navigation-sections-mobile__secondary",
+    "divider",
+    "header-language-selector",
+    "header-language-selector__mobile",
+    "has-children",
+    "language-switcher",
+    "language-list",
+    "activeLanguage",
+    "activeLanguage__header",
+    "activeLanguage__generic",
+    "submenu",
+    "localeItem",
+    "language-select",
+    "language-dropdown",
+    "header-end-container",
+    "header-language-selector__desktop",
+    "cart",
+    "burger-menu",
+    "hamburger",
+    "line",
+    "top",
+    "middle",
+    "bottom",
+    "header-divider",
+    "header-overlay",
+    "ldg-container",
+    "changing-header",
+    "homepage",
+    "hero-manager",
+    "bg-black",
+    "introduction",
+    "no-margin-mobile",
+    "content",
+    "text-container",
+    "purple",
+    "heading-3",
+    "heading-7",
+    "cta-section",
+    "no-info",
+    "button",
+    "secondary",
+    "second-cta",
+    "icons-container",
+    "icon-lock",
+    "separator",
+    "icon-user-check",
+    "illustration-block",
+    "illustration",
+    "illustration-desktop",
+    "illustration-mobile",
+    "blur",
+    "infos-section",
+    "infos-section-container",
+    "infos-section-bloc",
+    "infos-section-title",
+    "infos-section-icon",
+    "emphasis",
+    "infos-section-divider",
+    "generic-banner",
+    "bg-1",
+    "gradient",
+    "heading-4",
+    "margin-xxs",
+    "color-white",
+    "margin-xs",
+    "product-comparison-block",
+    "title-container",
+    "title-sub-container",
+    "primary",
+    "products-container",
+    "product-card",
+    "image-container",
+    "tags-container",
+    "rating-review-container",
+    "rating-container",
+    "caption",
+    "button-container",
+    "white-square",
+    "left",
+    "right",
+    "new",
+    "mobile-button-container",
+    "supported-cryptos-block",
+    "cta",
+    "cryptos-container",
+    "cryptos-slide",
+    "ledger-wallet-info",
+    "text-white",
+    "header-section",
+    "header-content",
+    "color-neutral-200",
+    "tag-container",
+    "main-content",
+    "content-grid",
+    "content-block",
+    "small-block",
+    "block-image",
+    "small-image",
+    "block-content",
+    "text-body",
+    "side-image-container",
+    "side-image",
+    "testimonials-block",
+    "margin-s",
+    "align-right",
+    "swiper-controls",
+    "swiper-button-prev",
+    "swiper-testimonials-button-prev",
+    "swiper-button-disabled",
+    "icon-chevron-left",
+    "swiper-button-next",
+    "swiper-testimonials-button-next",
+    "icon-chevron-right",
+    "swiper-container",
+    "swiper-testimonials-container",
+    "swiper-initialized",
+    "swiper-horizontal",
+    "swiper-backface-hidden",
+    "swiper-wrapper",
+    "swiper-slide",
+    "swiper-slide-active",
+    "author",
+    "swiper-slide-next",
+    "emoji",
+    "swiper-notification",
+    "faq-section-2",
+    "margin-md",
+    "align-left",
+    "faq-2",
+    "toggle-list",
+    "questions-by-category",
+    "fields-container-options",
+    "chevron",
+    "stroke-neutral-400",
+    "wysiwyg",
+    "faq-mobile",
+    "legal-text",
+    "text-small-caption",
+    "final-callback",
+    "heading",
+    "bg-divider-dark",
+    "prefooter-blocks",
+    "is-hidden-mobile",
+    "no-bullet",
+    "social-icons",
+    "footer__newsletter__email-container",
+    "inline-form",
+    "fields-container",
+    "outline",
+    "prefooter-disclaimer",
+    "language-container",
+    "credit-container",
+    "footer-navigation",
+    "menu",
+    "menu-item",
+    "menu-item-type-custom",
+    "menu-item-object-custom",
+    "menu-item-317100",
+    "menu-item-317096",
+    "menu-item-317099",
+    "menu-item-317097",
+    "menu-item-317098",
+    "menu-item-317120",
+    "menu-item-317121",
+    "menu-item-317122",
+    "menu-item-317123",
+    "menu-item-317124",
+    "menu-item-317125",
+    "menu-item-9935",
+    "menu-item-4498",
+    "menu-item-296381",
+    "menu-item-268807",
+    "menu-item-4497",
+    "menu-item-268808",
+    "menu-item-268809",
+    "menu-item-4496",
+    "menu-item-type-post_type",
+    "menu-item-object-page",
+    "menu-item-308522",
+    "menu-item-268810",
+    "menu-item-260972",
+    "menu-item-260974",
+    "menu-item-260973",
+    "menu-item-4490",
+    "menu-item-260597",
+    "menu-item-79929",
+    "menu-item-10242",
+    "menu-item-11525",
+    "menu-item-11520",
+    "menu-item-290639",
+    "menu-item-4505",
+    "menu-item-4507",
+    "menu-item-9937",
+    "menu-item-79931",
+    "menu-item-9938",
+    "menu-item-9939",
+    "menu-item-293932",
+    "menu-item-14258",
+    "menu-item-293912",
+    "menu-item-293913",
+    "menu-item-12382",
+    "menu-item-11491",
+    "menu-item-4501",
+    "menu-item-10246",
+    "menu-item-293092",
+    "menu-item-4509",
+    "menu-item-4511",
+    "menu-item-296726",
+    "menu-item-289786",
+    "onetrust-pc-dark-filter",
+    "ot-hide",
+    "ot-fade-in",
+    "otFloatingRounded",
+    "ot-bottom-left",
+    "ot-wo-title",
+    "vertical-align-content",
+    "ot-sdk-container",
+    "ot-sdk-row",
+    "ot-sdk-twelve",
+    "ot-sdk-columns",
+    "banner_logo",
+    "cookie-setting-link",
+    "onetrust-banner-options",
+    "onetrust-close-btn-handler",
+    "onetrust-close-btn-ui",
+    "banner-close-button",
+    "ot-close-icon",
+    "otPcTab",
+    "ot-addtl-vendors",
+    "ot-pc-header",
+    "ot-pc-logo",
+    "ot-title-cntr",
+    "ot-close-cntr",
+    "ot-pc-scrollbar",
+    "ot-optout-signal",
+    "ot-optout-icon",
+    "ot-floating-button__svg-fill",
+    "ot-grps-cntr",
+    "ot-sdk-column",
+    "ot-sdk-four",
+    "ot-tab-list",
+    "ot-cat-grp",
+    "ot-abt-tab",
+    "ot-active-menu",
+    "category-menu-switch-handler",
+    "ot-cat-item",
+    "ot-always-active-group",
+    "ot-vs-config",
+    "ot-tab-desc",
+    "ot-sdk-eight",
+    "ot-desc-cntr",
+    "ot-grp-desc",
+    "privacy-notice-link",
+    "ot-grp-hdr1",
+    "ot-cat-header",
+    "ot-tgl-cntr",
+    "ot-always-active",
+    "ot-category-desc",
+    "ot-hlst-cntr",
+    "ot-link-btn",
+    "category-host-list-handler",
+    "ot-tgl",
+    "category-switch-handler",
+    "ot-switch",
+    "ot-switch-nob",
+    "ot-label-txt",
+    "ot-enbl-chr",
+    "ot-lst-cntr",
+    "back-btn-handler",
+    "ot-lst-subhdr",
+    "ot-scrn-rdr",
+    "ot-sel-all",
+    "ot-sel-all-hdr",
+    "ot-consent-hdr",
+    "ot-li-hdr",
+    "ot-sel-all-chkbox",
+    "ot-chkbox",
+    "ot-label-status",
+    "ot-fltr-scrlcnt",
+    "ot-fltr-opts",
+    "ot-fltr-opt",
+    "category-filter-handler",
+    "ot-fltr-btns",
+    "ot-pc-footer",
+    "ot-btn-container",
+    "save-preference-btn-handler",
+    "ot-btn-subcntr",
+    "ot-pc-footer-logo",
+    "ot-text-resize",
+    "ywa-10000"
+  ]
+}

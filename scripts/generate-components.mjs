@@ -647,12 +647,12 @@ async function generatePlaceholderComponents() {
   
   for (const name of components) {
     const code = generatePlaceholderComponent(name, {}, {}, {});
-    await fs.writeFile(path.join(OUTPUT_DIR, \`\${name}.tsx\`), code);
+    await fs.writeFile(path.join(OUTPUT_DIR, `${name}.tsx`), code);
   }
   
   const indexContent = components
-    .map(c => \`export { default as \${c} } from './\${c}';\`)
-    .join('\\n');
+    .map(c => `export { default as ${c} } from './${c}';`)
+    .join('\n');
   
   await fs.writeFile(path.join(OUTPUT_DIR, 'index.ts'), indexContent);
 }
