@@ -1,0 +1,2424 @@
+[
+  {
+    "family": "Times",
+    "weight": "400",
+    "size": "10px",
+    "lineHeight": "normal",
+    "element": "HTML."
+  },
+  {
+    "family": "Times",
+    "weight": "400",
+    "size": "10px",
+    "lineHeight": "normal",
+    "element": "HEAD."
+  },
+  {
+    "family": "Times",
+    "weight": "400",
+    "size": "10px",
+    "lineHeight": "normal",
+    "element": "META."
+  },
+  {
+    "family": "Times",
+    "weight": "400",
+    "size": "10px",
+    "lineHeight": "normal",
+    "element": "SCRIPT."
+  },
+  {
+    "family": "Times",
+    "weight": "400",
+    "size": "10px",
+    "lineHeight": "normal",
+    "element": "LINK."
+  },
+  {
+    "family": "Times",
+    "weight": "400",
+    "size": "10px",
+    "lineHeight": "normal",
+    "element": "TITLE."
+  },
+  {
+    "family": "Times",
+    "weight": "400",
+    "size": "10px",
+    "lineHeight": "normal",
+    "element": "SCRIPT.yoast-schema-graph"
+  },
+  {
+    "family": "Times",
+    "weight": "400",
+    "size": "10px",
+    "lineHeight": "normal",
+    "element": "STYLE."
+  },
+  {
+    "family": "Times",
+    "weight": "400",
+    "size": "10px",
+    "lineHeight": "normal",
+    "element": "IMG."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "BODY.home"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "A.header-top-banner"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.header-top-banner--container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.row"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.header-top-banner--text"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "P."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.header-top-banner--button"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "SPAN."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.switch-language-banner"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.title"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "P.text-body-r"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "SPAN.text-body-highlight"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.buttons"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "13px",
+    "lineHeight": "22px",
+    "element": "BUTTON.text-caption"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.pick-up-news"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13px",
+    "lineHeight": "19.5px",
+    "element": "P."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "13px",
+    "lineHeight": "19.5px",
+    "element": "A.read-more"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "STYLE."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "HEADER."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.flexbox"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "20px",
+    "lineHeight": "30px",
+    "element": "A.logo"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "20px",
+    "lineHeight": "30px",
+    "element": "PICTURE.flexbox"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "20px",
+    "lineHeight": "30px",
+    "element": "SOURCE."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "20px",
+    "lineHeight": "30px",
+    "element": "IMG."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "NAV.navigation"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation__item"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "13px",
+    "lineHeight": "22px",
+    "element": "BUTTON.navigation__item__trigger"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation__item__content"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation__item__content__container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation-sections"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation-sections__primary"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "24px",
+    "lineHeight": "32px",
+    "element": "P.heading-6"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation-sections__primary__items"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "A."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.visual-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.visual"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "IMG."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.shadow"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.texts"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "P.text-body-highlight"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.tag"
+  },
+  {
+    "family": "HMAlphaMono, \"Open sans\", arial, sans-serif",
+    "weight": "500",
+    "size": "12px",
+    "lineHeight": "16px",
+    "element": "SPAN."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "13px",
+    "lineHeight": "22px",
+    "element": "SPAN.text-caption"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation-sections__secondary"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation-sections__secondary__container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation-sections__secondary__items"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.icon"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "svg."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "path."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "A.text-body-r"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "A.text-body-highlight"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "A.navigation-sections__secondary__dynamic"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "IMG.bg-image"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.bg-overlay"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.text"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "P.section-title"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "IMG.product-image"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "svg.stroke-current"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "A.has-fixed-shadow"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "13px",
+    "lineHeight": "22px",
+    "element": "P.text-caption"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "13px",
+    "lineHeight": "22px",
+    "element": "A.navigation__item__link"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation__tabs"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "13px",
+    "lineHeight": "22px",
+    "element": "BUTTON.navigation__tabs__trigger"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "13px",
+    "lineHeight": "22px",
+    "element": "A.navigation__tabs__link"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation__tabs__content"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.primary-section-mobile"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "A.primary-section-mobile__link"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.primary-section-mobile__image-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.primary-section-mobile__image"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "IMG.primary-section-mobile__img"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.primary-section-mobile__content"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.primary-section-mobile__icon"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "g."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.navigation-sections-mobile__secondary"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.divider"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.header-language-selector"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "LI.has-children"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "A.activeLanguage"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "SPAN.activeLanguage__header"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "SPAN.activeLanguage__generic"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "UL.submenu"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "LI."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "A.localeItem"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.language-select"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "SELECT.activeLanguage"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "OPTION.activeLanguage__header"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "OPTION."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.header-end-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "20px",
+    "lineHeight": "30px",
+    "element": "DIV.cart"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "20px",
+    "lineHeight": "30px",
+    "element": "A."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "20px",
+    "lineHeight": "30px",
+    "element": "svg."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "20px",
+    "lineHeight": "30px",
+    "element": "path."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.burger-menu"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "svg.hamburger"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "path.line"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.header-divider"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.header-overlay"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "MAIN.ldg-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.hero-manager"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.bg"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.content"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.text-container"
+  },
+  {
+    "family": "HMAlphaMono, \"Open sans\", arial, sans-serif",
+    "weight": "500",
+    "size": "14px",
+    "lineHeight": "18px",
+    "element": "H1."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "50px",
+    "lineHeight": "56px",
+    "element": "H2.heading-3"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "18px",
+    "lineHeight": "25.2px",
+    "element": "P.heading-7"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.cta-section"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "A.button"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "A.read-more"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "UL.icons-container"
+  },
+  {
+    "family": "ledger-icons-font",
+    "weight": "400",
+    "size": "32px",
+    "lineHeight": "32px",
+    "element": "I.icon-lock"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "13px",
+    "lineHeight": "22px",
+    "element": "BR."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.separator"
+  },
+  {
+    "family": "ledger-icons-font",
+    "weight": "400",
+    "size": "32px",
+    "lineHeight": "32px",
+    "element": "I.icon-user-check"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.illustration-block"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "IMG.illustration"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.blur"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "SCRIPT."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.infos-section-bloc"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.infos-section-title"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "IMG.infos-section-icon"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "24px",
+    "lineHeight": "32px",
+    "element": "H3.heading-6"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "20px",
+    "lineHeight": "28px",
+    "element": "P.emphasis"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.infos-section-divider"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.gradient"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "38px",
+    "lineHeight": "42px",
+    "element": "H2.heading-4"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.title-sub-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "20px",
+    "lineHeight": "28px",
+    "element": "H2.emphasis"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "13px",
+    "lineHeight": "22px",
+    "element": "A.button"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "A.product-card"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.image-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "UL.tags-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.rating-review-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.rating-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "13px",
+    "lineHeight": "18.2px",
+    "element": "P.caption"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.button-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "P.read-more"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.white-square"
+  },
+  {
+    "family": "HMAlphaMono, \"Open sans\", arial, sans-serif",
+    "weight": "500",
+    "size": "14px",
+    "lineHeight": "18px",
+    "element": "SPAN.purple"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "SPAN.text-body-r"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.mobile-button-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.left"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "20px",
+    "lineHeight": "28px",
+    "element": "H3.emphasis"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.right"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "A.cta"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.cryptos-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.cryptos-slide"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.ledger-wallet-info"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.header-content"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "50px",
+    "lineHeight": "56px",
+    "element": "BR."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.tag-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.content-grid"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.content-block"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.block-image"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.block-content"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "P.text-body"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.side-image-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "IMG.side-image"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "50px",
+    "lineHeight": "60px",
+    "element": "H2.h2"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.align-right"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "22px",
+    "lineHeight": "48px",
+    "element": "SPAN.swiper-button-prev"
+  },
+  {
+    "family": "ledger-icons-font",
+    "weight": "400",
+    "size": "22px",
+    "lineHeight": "22px",
+    "element": "I.icon-chevron-left"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "22px",
+    "lineHeight": "48px",
+    "element": "SPAN.swiper-button-next"
+  },
+  {
+    "family": "ledger-icons-font",
+    "weight": "400",
+    "size": "22px",
+    "lineHeight": "22px",
+    "element": "I.icon-chevron-right"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.swiper-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.swiper-wrapper"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.swiper-slide"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.author"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.illustration"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "14px",
+    "lineHeight": "19.6px",
+    "element": "P."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "18px",
+    "lineHeight": "25.2px",
+    "element": "STRONG."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "18px",
+    "lineHeight": "25.2px",
+    "element": "IMG.emoji"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "SPAN.swiper-notification"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "SECTION.bg"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.faq-2"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.1"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.fields-container-options"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "INPUT."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "LABEL.h6"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "DIV.chevron"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "svg.stroke-neutral-400"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "path."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "DIV."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "DIV.wysiwyg"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "25.6px",
+    "element": "P."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "25.6px",
+    "element": "A."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "25.6px",
+    "element": "BR."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "OL."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "LI."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "A."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.faq-mobile"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.margin-xs"
+  },
+  {
+    "family": "Arial",
+    "weight": "400",
+    "size": "13.3333px",
+    "lineHeight": "normal",
+    "element": "INPUT."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "11px",
+    "lineHeight": "16px",
+    "element": "DIV.legal-text"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "11px",
+    "lineHeight": "16px",
+    "element": "P."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.heading"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "50px",
+    "lineHeight": "56px",
+    "element": "H3.h3"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13px",
+    "lineHeight": "19.5px",
+    "element": "A.button"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "SECTION.bg-divider-dark"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "38px",
+    "lineHeight": "42px",
+    "element": "H3.heading-4"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "BR.is-hidden-mobile"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "UL.no-bullet"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "38px",
+    "lineHeight": "42px",
+    "element": "BR."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "BR."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "FORM.footer__newsletter__email-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.fields-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "LABEL.text-body-r"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "28px",
+    "element": "BUTTON.button"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13px",
+    "lineHeight": "19.5px",
+    "element": "DIV.prefooter-disclaimer"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "11px",
+    "lineHeight": "16px",
+    "element": "P.text-small-caption"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "11px",
+    "lineHeight": "16px",
+    "element": "A."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "FOOTER.ldg-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "A.logo"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "UL.language-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "22.4px",
+    "element": "A.activeLanguage"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "22.4px",
+    "element": "SPAN.activeLanguage__header"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "22.4px",
+    "element": "SPAN.activeLanguage__generic"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "13px",
+    "lineHeight": "18.2px",
+    "element": "UL.submenu"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "13px",
+    "lineHeight": "18.2px",
+    "element": "LI."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "22.4px",
+    "element": "A.localeItem"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "500",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "SELECT.activeLanguage"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.credit-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "NAV.flexbox"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "UL."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "LI."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "UL.menu"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13px",
+    "lineHeight": "19.5px",
+    "element": "LI."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13px",
+    "lineHeight": "19.5px",
+    "element": "A."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.onetrust-pc-dark-filter"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.otFloatingRounded"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-sdk-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-sdk-row"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-sdk-twelve"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.banner_logo"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13.008px",
+    "lineHeight": "19.512px",
+    "element": "DIV."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "13.008px",
+    "lineHeight": "15.6096px",
+    "element": "BUTTON.cookie-setting-link"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.onetrust-banner-options"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "13.008px",
+    "lineHeight": "15.6096px",
+    "element": "BUTTON."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "14.4px",
+    "lineHeight": "38px",
+    "element": "BUTTON.onetrust-close-btn-handler"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "DIV.otPcTab"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-pc-header"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-pc-logo"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "IMG."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-title-cntr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "21.92px",
+    "lineHeight": "26.304px",
+    "element": "H2."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-close-cntr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "14.4px",
+    "lineHeight": "38px",
+    "element": "BUTTON.ot-close-icon"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-pc-scrollbar"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "8.5px",
+    "lineHeight": "17px",
+    "element": "DIV.ot-optout-signal"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "8.5px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-optout-icon"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "8.5px",
+    "lineHeight": "normal",
+    "element": "svg."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "8.5px",
+    "lineHeight": "normal",
+    "element": "path.ot-floating-button__svg-fill"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "8.5px",
+    "lineHeight": "normal",
+    "element": "SPAN."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-sdk-four"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "15px",
+    "lineHeight": "18.75px",
+    "element": "H2."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "UL.ot-cat-grp"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "LI.ot-abt-tab"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-active-menu"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "700",
+    "size": "14px",
+    "lineHeight": "19.6px",
+    "element": "H3."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "LI.ot-cat-item"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.category-menu-switch-handler"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "14px",
+    "lineHeight": "19.6px",
+    "element": "H3."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-tab-desc"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-desc-cntr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "700",
+    "size": "14px",
+    "lineHeight": "18.2px",
+    "element": "H4."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13.008px",
+    "lineHeight": "normal",
+    "element": "P.ot-grp-desc"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13.008px",
+    "lineHeight": "normal",
+    "element": "BR."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13.008px",
+    "lineHeight": "normal",
+    "element": "A.privacy-notice-link"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-grp-hdr1"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "700",
+    "size": "14px",
+    "lineHeight": "18.2px",
+    "element": "H4.ot-cat-header"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-tgl-cntr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "700",
+    "size": "13.008px",
+    "lineHeight": "19.512px",
+    "element": "DIV.ot-always-active"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-hlst-cntr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13.008px",
+    "lineHeight": "14.3088px",
+    "element": "BUTTON.ot-link-btn"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-tgl"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13.3333px",
+    "lineHeight": "normal",
+    "element": "INPUT.category-switch-handler"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "LABEL.ot-switch"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "SPAN.ot-switch-nob"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "SPAN.ot-label-txt"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "SECTION.ot-hide"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-lst-cntr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "14.4px",
+    "lineHeight": "normal",
+    "element": "BUTTON.ot-link-btn"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "14.4px",
+    "lineHeight": "normal",
+    "element": "svg."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "14.4px",
+    "lineHeight": "normal",
+    "element": "title."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "14.4px",
+    "lineHeight": "normal",
+    "element": "g."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "14.4px",
+    "lineHeight": "normal",
+    "element": "path."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "700",
+    "size": "16px",
+    "lineHeight": "20.8px",
+    "element": "H3."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-lst-subhdr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "P.ot-scrn-rdr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "12.8px",
+    "lineHeight": "normal",
+    "element": "INPUT."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "16px",
+    "element": "svg."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "16px",
+    "element": "path."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "0px",
+    "lineHeight": "normal",
+    "element": "DIV."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "0px",
+    "lineHeight": "38px",
+    "element": "BUTTON."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "0px",
+    "lineHeight": "normal",
+    "element": "svg."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "0px",
+    "lineHeight": "normal",
+    "element": "title."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "0px",
+    "lineHeight": "normal",
+    "element": "g."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "0px",
+    "lineHeight": "normal",
+    "element": "path."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "SECTION.ot-pc-scrollbar"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-sdk-column"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-sel-all"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-sel-all-hdr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13.008px",
+    "lineHeight": "normal",
+    "element": "SPAN.ot-consent-hdr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13.008px",
+    "lineHeight": "normal",
+    "element": "SPAN.ot-li-hdr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-sel-all-chkbox"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-chkbox"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13.3333px",
+    "lineHeight": "normal",
+    "element": "INPUT."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "LABEL."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "12px",
+    "lineHeight": "normal",
+    "element": "SPAN.ot-label-status"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "UL."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "SECTION."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "700",
+    "size": "14.4px",
+    "lineHeight": "normal",
+    "element": "DIV."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "700",
+    "size": "14.4px",
+    "lineHeight": "14.4px",
+    "element": "BUTTON."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-fltr-scrlcnt"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "UL.ot-fltr-opts"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "LI.ot-fltr-opt"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "13.3333px",
+    "lineHeight": "normal",
+    "element": "INPUT.category-filter-handler"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "12.8px",
+    "lineHeight": "14.08px",
+    "element": "SPAN.ot-label-txt"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "12.8px",
+    "lineHeight": "14.08px",
+    "element": "SPAN.ot-label-status"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-fltr-btns"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-pc-footer"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-btn-container"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "14.4px",
+    "lineHeight": "normal",
+    "element": "BUTTON.save-preference-btn-handler"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-btn-subcntr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "600",
+    "size": "14.4px",
+    "lineHeight": "normal",
+    "element": "BUTTON."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "DIV.ot-pc-footer-logo"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "12px",
+    "lineHeight": "normal",
+    "element": "A."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "12px",
+    "lineHeight": "normal",
+    "element": "IMG."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "normal",
+    "element": "SPAN.ot-scrn-rdr"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "IFRAME.ot-text-resize"
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "NOSCRIPT."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "IFRAME."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "CS-NATIVE-FRAME-HOLDER."
+  },
+  {
+    "family": "Inter, \"Times New Roman\", arial, sans-serif",
+    "weight": "400",
+    "size": "16px",
+    "lineHeight": "24px",
+    "element": "IMG.ywa-10000"
+  }
+]

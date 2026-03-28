@@ -1,0 +1,242 @@
+[
+  {
+    "element": "BODY.home",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.header-top-banner",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.read-more",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(255, 255, 255)"
+  },
+  {
+    "element": "HEADER.",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.logo",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "NAV.navigation",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.text-body-r",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.text-body-highlight",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.navigation-sections__secondary__dynamic",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.has-fixed-shadow",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.navigation__item__link",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(255, 255, 255)"
+  },
+  {
+    "element": "A.navigation__tabs__link",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(229, 229, 229) rgb(229, 229, 229) rgb(229, 229, 229) rgb(255, 255, 255)"
+  },
+  {
+    "element": "A.primary-section-mobile__link",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(229, 229, 229)"
+  },
+  {
+    "element": "A.primary-section-mobile__link",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.activeLanguage",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(255, 255, 255)"
+  },
+  {
+    "element": "A.localeItem",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(245, 245, 245)"
+  },
+  {
+    "element": "MAIN.ldg-container",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.button",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgb(255, 83, 0)",
+    "borderColor": "rgb(255, 255, 255)"
+  },
+  {
+    "element": "A.",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(255, 255, 255)"
+  },
+  {
+    "element": "A.text-body-r",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgba(255, 255, 255, 0.1)",
+    "borderColor": "rgb(255, 255, 255)"
+  },
+  {
+    "element": "A.button",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.product-card",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgba(255, 255, 255, 0.02)",
+    "borderColor": "rgb(82, 82, 82)"
+  },
+  {
+    "element": "A.cta",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgba(255, 255, 255, 0.1)",
+    "borderColor": "rgb(255, 255, 255)"
+  },
+  {
+    "element": "SECTION.bg",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "SECTION.bg-divider-dark",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.",
+    "color": "rgb(229, 229, 229)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(229, 229, 229)"
+  },
+  {
+    "element": "A.",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(255, 255, 255, 0.05)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "BUTTON.button",
+    "color": "rgba(16, 16, 16, 0.3)",
+    "backgroundColor": "rgba(239, 239, 239, 0.3)",
+    "borderColor": "rgba(16, 16, 16, 0.3)"
+  },
+  {
+    "element": "A.",
+    "color": "rgb(163, 163, 163)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(163, 163, 163)"
+  },
+  {
+    "element": "FOOTER.ldg-container",
+    "color": "rgb(148, 148, 148)",
+    "backgroundColor": "rgb(0, 0, 0)",
+    "borderColor": "rgb(148, 148, 148)"
+  },
+  {
+    "element": "A.logo",
+    "color": "rgb(148, 148, 148)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(148, 148, 148)"
+  },
+  {
+    "element": "A.localeItem",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(255, 255, 255)"
+  },
+  {
+    "element": "NAV.flexbox",
+    "color": "rgb(148, 148, 148)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(148, 148, 148)"
+  },
+  {
+    "element": "A.",
+    "color": "rgb(148, 148, 148)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(148, 148, 148)"
+  },
+  {
+    "element": "A.privacy-notice-link",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "SECTION.ot-hide",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "SECTION.ot-pc-scrollbar",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "SECTION.",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(0, 0, 0)"
+  },
+  {
+    "element": "A.",
+    "color": "rgb(86, 86, 86)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderColor": "rgb(86, 86, 86)"
+  }
+]

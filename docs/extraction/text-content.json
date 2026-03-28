@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Example Domain",
+    "parent": "h1",
+    "classes": [
+      ""
+    ],
+    "depth": 3
+  },
+  {
+    "text": "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+    "parent": "p",
+    "classes": [
+      ""
+    ],
+    "depth": 3
+  },
+  {
+    "text": "Learn more",
+    "parent": "a",
+    "classes": [
+      ""
+    ],
+    "depth": 4
+  }
+]

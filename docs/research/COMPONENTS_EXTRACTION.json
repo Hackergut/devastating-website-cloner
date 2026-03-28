@@ -1,0 +1,110 @@
+[
+  {
+    "index": 0,
+    "tagName": "HEADER",
+    "className": " transparent-white-font",
+    "id": "header",
+    "childrenCount": 2,
+    "textContent": "Products\n    \n        \n        \n            \n                \n                                            \n                                Discover our devices\n\n            \n        \n        \n        ",
+    "position": {
+      "top": 90.578125,
+      "height": 86
+    }
+  },
+  {
+    "index": 1,
+    "tagName": "MAIN",
+    "className": "ldg-container changing-header homepage",
+    "id": "main",
+    "childrenCount": 14,
+    "textContent": "LEDGER CRYPTO WALLETS\n                            \n                                                                            Now’s the best time to take control of your crypto\n                      ",
+    "position": {
+      "top": 90.578125,
+      "height": 5837.125
+    }
+  },
+  {
+    "index": 2,
+    "tagName": "SECTION",
+    "className": "bg no-margin-mobile faq-section-2",
+    "id": "faq-section-2",
+    "childrenCount": 1,
+    "textContent": "FAQ\n                                                    Find answers to some of the most common questions.\n                                                    \n                                        ",
+    "position": {
+      "top": 4303.703125,
+      "height": 820
+    }
+  },
+  {
+    "index": 3,
+    "tagName": "SECTION",
+    "className": "bg-divider-dark",
+    "id": "",
+    "childrenCount": 1,
+    "textContent": "",
+    "position": {
+      "top": 5487.703125,
+      "height": 4
+    }
+  },
+  {
+    "index": 4,
+    "tagName": "SECTION",
+    "className": "bg-divider-dark",
+    "id": "",
+    "childrenCount": 1,
+    "textContent": "",
+    "position": {
+      "top": 5923.703125,
+      "height": 4
+    }
+  },
+  {
+    "index": 5,
+    "tagName": "FOOTER",
+    "className": "ldg-container",
+    "id": "footer",
+    "childrenCount": 2,
+    "textContent": "en\n            English\n        \n        \n                                                                                                            \n                            \n                     ",
+    "position": {
+      "top": 5927.703125,
+      "height": 1104
+    }
+  },
+  {
+    "index": 6,
+    "tagName": "SECTION",
+    "className": "ot-hide ot-pc-scrollbar ot-enbl-chr",
+    "id": "ot-pc-lst",
+    "childrenCount": 3,
+    "textContent": "Back ButtonVendors List Filter ButtonConsent Leg.Interest checkbox label label checkbox label label checkbox label labelClear checkbox label labelApply Cancel",
+    "position": {
+      "top": 0,
+      "height": 0
+    }
+  },
+  {
+    "index": 7,
+    "tagName": "SECTION",
+    "className": "ot-pc-scrollbar",
+    "id": "ot-lst-cnt",
+    "childrenCount": 1,
+    "textContent": "Consent Leg.Interest checkbox label label checkbox label label checkbox label label",
+    "position": {
+      "top": 0,
+      "height": 0
+    }
+  },
+  {
+    "index": 8,
+    "tagName": "SECTION",
+    "className": "",
+    "id": "ot-fltr-modal",
+    "childrenCount": 1,
+    "textContent": "Clear checkbox label labelApply Cancel",
+    "position": {
+      "top": 0,
+      "height": 0
+    }
+  }
+]
