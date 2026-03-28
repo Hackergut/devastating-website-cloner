@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="fire-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35"/>
+      <stop offset="50%" style="stop-color:#FF8C42"/>
+      <stop offset="100%" style="stop-color:#FFD23F"/>
+    </linearGradient>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="url(#bg-gradient)"/>
+  
+  <!-- Fire/Flame shape -->
+  <path d="M100 30 
+           C85 50 70 70 75 95
+           C65 85 55 80 60 110
+           C50 100 40 95 50 130
+           C40 120 30 115 45 150
+           C35 140 25 135 40 165
+           C50 180 75 190 100 190
+           C125 190 150 180 160 165
+           C175 135 165 140 155 150
+           C170 115 160 120 150 130
+           C165 95 155 100 145 110
+           C155 80 145 85 135 95
+           C145 70 135 75 125 85
+           C135 60 120 50 100 30Z" 
+        fill="url(#fire-gradient)"/>
+  
+  <!-- Stylized "D" for DEVASTATING -->
+  <text x="65" y="140" 
+        font-family="Arial Black, sans-serif" 
+        font-size="60" 
+        font-weight="900" 
+        fill="#1a1a2e"
+        opacity="0.3">D</text>
+  
+  <!-- Inner flame details -->
+  <path d="M100 60 
+           C95 70 90 80 95 100
+           C90 95 85 92 90 110
+           C85 105 80 102 90 130
+           C80 140 95 155 100 150
+           C105 155 120 140 110 130
+           C120 102 115 105 110 110
+           C115 92 110 95 105 100
+           C110 80 105 70 100 60Z" 
+        fill="#FFD23F" 
+        opacity="0.8"/>
+  
+  <!-- Extract icon (arrows pointing inward) -->
+  <g fill="none" 
+     stroke="#FFFFFF" 
+     stroke-width="3" 
+     stroke-linecap="round"
+     opacity="0.9">
+    <!-- Arrow top -->
+    <path d="M100 40 L95 50 M100 40 L105 50"/>
+    <!-- Arrow left -->
+    <path d="M40 100 L50 95 M40 100 L50 105"/>
+    <!-- Arrow right -->
+    <path d="M160 100 L150 95 M160 100 L150 105"/>
+    <!-- Arrow bottom -->
+    <path d="M100 160 L95 150 M100 160 L105 150"/>
+  </g>
+  
+  <!-- Circular extraction indicator -->
+  <circle cx="100" cy="100" r="50" 
+         fill="none" 
+         stroke="#FFFFFF" 
+         stroke-width="4" 
+         stroke-dasharray="10,5"
+         opacity="0.6"/>
+</svg>

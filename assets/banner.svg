@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="fire" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35"/>
+      <stop offset="100%" style="stop-color:#FFD23F"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1280" height="400" fill="url(#bg)"/>
+  
+  <!-- Fire emoji -->
+  <text x="60" y="250" font-size="150">🔥</text>
+  
+  <!-- Title -->
+  <text x="230" y="150" font-family="Arial Black" font-size="72" fill="white" font-weight="900">
+    DEVASTATING
+  </text>
+  <text x="230" y="240" font-family="Arial" font-size="48" fill="url(#fire)" font-weight="bold">
+    Website Cloner
+  </text>
+  <text x="230" y="320" font-family="Arial" font-size="32" fill="#8892b0">
+    Extract complete websites in 2 minutes
+  </text>
+  
+  <!-- Stats -->
+  <g transform="translate(900, 100)">
+    <rect width="320" height="200" rx="20" fill="rgba(255,255,255,0.1)"/>
+    
+    <text x="160" y="50" text-anchor="middle" font-family="Arial Black" font-size="48" fill="url(#fire)">
+      116+
+    </text>
+    <text x="160" y="80" text-anchor="middle" font-family="Arial" font-size="20" fill="#8892b0">
+      Images Auto-Downloaded
+    </text>
+    
+    <text x="160" y="130" text-anchor="middle" font-family="Arial Black" font-size="48" fill="url(#fire)">
+      14,000+
+    </text>
+    <text x="160" y="160" text-anchor="middle" font-family="Arial" font-size="20" fill="#8892b0">
+      CSS Properties Extracted
+    </text>
+  </g>
+  
+  <!-- Bottom bar -->
+  <rect y="360" width="1280" height="40" fill="url(#fire)" opacity="0.3"/>
+  
+  <!-- Features -->
+  <g font-family="Arial" font-size="16" fill="white" opacity="0.9">
+    <text x="60" y="382">✓ Design System</text>
+    <text x="300" y="382">✓ Animations</text>
+    <text x="500" y="382">✓ Accessibility</text>
+    <text x="720" y="382">✓ Performance</text>
+    <text x="940" y="382">✓ Tailwind Config</text>
+    <text x="1150" y="382">✓ Production Ready</text>
+  </g>
+</svg>
