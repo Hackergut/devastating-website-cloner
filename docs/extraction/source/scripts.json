@@ -186,7 +186,7 @@
   {
     "type": "inline",
     "index": 23,
-    "code": "!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods=\"page track identify instances debug on off once ready alias group enableCookie disableCookie\".split(\" \");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f=\"https://analytics.tiktok.com/i18n/pixel/events.js\";\na._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement(\"script\");c.type=\"text/javascript\";c.async=!0;c.src=f+\"?sdkid\\x3d\"+b+\"\\x26lib\\x3d\"+e;b=document.getElementsByTagName(\"script\")[0];b.parentNode.insertBefore(c,b)};a.load(\"CCM80A3C77U9QMO0Q980\");a.page({},{event_id:\"1774737992519.155879.0\"})}(window,document,\"ttq\");",
+    "code": "!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods=\"page track identify instances debug on off once ready alias group enableCookie disableCookie\".split(\" \");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f=\"https://analytics.tiktok.com/i18n/pixel/events.js\";\na._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement(\"script\");c.type=\"text/javascript\";c.async=!0;c.src=f+\"?sdkid\\x3d\"+b+\"\\x26lib\\x3d\"+e;b=document.getElementsByTagName(\"script\")[0];b.parentNode.insertBefore(c,b)};a.load(\"CCM80A3C77U9QMO0Q980\");a.page({},{event_id:\"1774741906606.894144.0\"})}(window,document,\"ttq\");",
     "typeAttr": "text/javascript",
     "id": "",
     "className": ""
@@ -234,7 +234,7 @@
   {
     "type": "external",
     "index": 0,
-    "src": "https://2632.userly.net/trk/index.php?script_source=homepage&u=541,884a%205284-c826-69a0-358b-%20a753%209068,1774741595,",
+    "src": "https://2632.userly.net/trk/index.php?script_source=homepage&u=541,5d5c%20a694-f2c1-ef88-74cf-%20c455%20df5b,1774745509,",
     "typeAttr": "text/javascript",
     "async": true,
     "defer": false,
@@ -261,7 +261,7 @@
   {
     "type": "external",
     "index": 3,
-    "src": "https://www.googletagmanager.com/gtag/js?id=G-Y38HP2KGC3&cx=c&gtm=4e63p1h1",
+    "src": "https://www.googletagmanager.com/gtag/js?id=G-Y38HP2KGC3&cx=c&gtm=4e63p1",
     "typeAttr": "text/javascript",
     "async": true,
     "defer": false,
@@ -423,19 +423,19 @@
   {
     "type": "external",
     "index": 21,
-    "src": "https://www.ledger.com/wp-includes/js/wp-emoji-release.min.js",
-    "typeAttr": "",
+    "src": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/otBannerSdk.js",
+    "typeAttr": "text/javascript",
     "async": true,
-    "defer": true,
+    "defer": false,
     "module": false
   },
   {
     "type": "external",
     "index": 22,
-    "src": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/otBannerSdk.js",
-    "typeAttr": "text/javascript",
+    "src": "https://www.ledger.com/wp-includes/js/wp-emoji-release.min.js",
+    "typeAttr": "",
     "async": true,
-    "defer": false,
+    "defer": true,
     "module": false
   },
   {

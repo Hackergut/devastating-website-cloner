@@ -5,55 +5,171 @@ import { motion, AnimatePresence } from 'framer-motion';
 import Image from 'next/image';
 import { fadeIn, dropdownVariants } from '@/lib/animations';
 
+/**
+ * Header Component
+ * Extracted from: #header
+ * Classes: , transparent-white-font
+ * Navigation items: 24
+ */
 export default function Header() {
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
 
   const navigation = [
-    { name: "Products", hasDropdown: true },
-    { name: "Apps and Services", hasDropdown: true },
-    { name: "Learn", href: "#" },
-    { name: "For Business", href: "#" }
-  ];
+  {
+    "name": "Ledger Stax",
+    "href": "https://shop.ledger.com/pages/ledger-stax",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Hardware Wallets",
+    "href": "https://shop.ledger.com/pages/hardware-wallet",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Bundles & Packs",
+    "href": "https://shop.ledger.com/#category-bundle",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Accessories",
+    "href": "https://shop.ledger.com/#category-accessories",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Recovery Solutions",
+    "href": "https://shop.ledger.com/pages/recovery-solutions",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Limited Editions",
+    "href": "https://shop.ledger.com/#collaborations",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "See all products",
+    "href": "https://shop.ledger.com",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Compare Ledger signers",
+    "href": "https://shop.ledger.com/pages/hardware-wallets-comparison",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Bitcoin wallet",
+    "href": "/coin/wallet/bitcoin",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Ethereum wallet",
+    "href": "/coin/wallet/ethereum",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Solana wallet",
+    "href": "/coin/wallet/solana",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Buy crypto",
+    "href": "/buy",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Swap crypto",
+    "href": "/swap",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Stake crypto",
+    "href": "/staking",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "All supported crypto",
+    "href": "/supported-crypto-assets",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "What happens if I lose my Ledger?",
+    "href": "/academy/what-happens-if-i-lose-my-ledger",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Not your keys, not your coins",
+    "href": "/academy/not-your-keys-not-your-coins-why-it-matters",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "What is a cold wallet?",
+    "href": "/academy/topics/security/what-is-a-cold-wallet",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "What is a private key?",
+    "href": "/academy/whats-a-private-key",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "What is a Crypto Wallet?",
+    "href": "/what-is-a-crypto-wallet",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "For Developers",
+    "href": " https://developers.ledger.com",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "For Developers",
+    "href": " https://developers.ledger.com",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Support",
+    "href": " https://support.ledger.com/",
+    "hasDropdown": false,
+    "items": []
+  },
+  {
+    "name": "Support",
+    "href": " https://support.ledger.com/",
+    "hasDropdown": false,
+    "items": []
+  }
+];
 
   return (
     <>
-      {/* Banner */}
-      <motion.a
-        href="#"
-        style={{
-          display: 'block',
-          background: 'linear-gradient(90deg, rgba(212, 212, 212, 0.5), rgba(212, 212, 212, 0.3))',
-          backgroundColor: '#000',
-          color: '#fff',
-          padding: '16px 24px',
-          textAlign: 'center',
-          fontSize: '16px'
-        }}
-        animate={{
-          backgroundPosition: ['0% 50%', '100% 50%', '0% 50%']
-        }}
-        transition={{
-          duration: 8,
-          repeat: Infinity,
-          ease: 'linear'
-        }}
-      >
-        Get up to $100 of BTC to swap, stake, spend and more via Ledger Wallet
-        <span style={{ marginLeft: '8px', background: 'rgba(255, 255, 255, 0.1)', padding: '4px 12px', borderRadius: '4px' }}>
-          Bitcoin bonus
-        </span>
-      </motion.a>
-
-      {/* Header */}
       <motion.header
         initial={{ y: -100 }}
         animate={{ y: 0 }}
         transition={{ duration: 0.5, ease: 'easeOut' }}
+        className=" transparent-white-font"
         style={{
           background: 'linear-gradient(123deg, rgb(10, 10, 10), rgb(38, 38, 38))',
-          position: 'sticky',
-          top: 0,
-          zIndex: 999,
           width: '100%'
         }}
       >
@@ -65,15 +181,15 @@ export default function Header() {
           maxWidth: '1400px',
           margin: '0 auto'
         }}>
-          <motion.a
-            href="/"
+          <motion.a 
+            href="/" 
             style={{ display: 'flex', alignItems: 'center' }}
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
             <Image
-              src="/images/ledger-logo-long.svg"
-              alt="Ledger"
+              src="https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg"
+              alt="Logo"
               width={100}
               height={20}
               style={{ filter: 'brightness(0) invert(1)' }}
@@ -117,12 +233,51 @@ export default function Header() {
                         background: 'rgb(38, 38, 38)',
                         padding: '24px',
                         borderRadius: '0 0 24px 24px',
-                        minWidth: '400px',
+                        minWidth: '600px',
                         marginTop: '24px',
                         boxShadow: '0 20px 40px rgba(0, 0, 0, 0.3)'
                       }}
                     >
-                      <p style={{ color: '#fff', padding: '20px' }}>Dropdown content for {item.name}</p>
+                      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '16px' }}>
+                        {item.items?.map((subItem, idx) => (
+                          <motion.a
+                            key={subItem.name || idx}
+                            href={subItem.href}
+                            initial={{ opacity: 0, y: 10 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ delay: idx * 0.05 }}
+                            style={{
+                              display: 'flex',
+                              alignItems: 'center',
+                              gap: '16px',
+                              padding: '16px',
+                              borderRadius: '8px',
+                              background: 'rgba(255, 255, 255, 0.05)',
+                              border: '1px solid rgba(255, 255, 255, 0.1)'
+                            }}
+                          >
+                            {subItem.src && (
+                              <Image
+                                src={subItem.src}
+                                alt={subItem.name}
+                                width={64}
+                                height={64}
+                                style={{ borderRadius: '8px' }}
+                              />
+                            )}
+                            <div>
+                              <div style={{ color: '#fff', fontWeight: 500 }}>
+                                {subItem.name}
+                              </div>
+                              {subItem.description && (
+                                <div style={{ color: 'rgb(148, 148, 148)', fontSize: '13px', marginTop: '4px' }}>
+                                  {subItem.description}
+                                </div>
+                              )}
+                            </div>
+                          </motion.a>
+                        ))}
+                      </div>
                     </motion.div>
                   )}
                 </AnimatePresence>
@@ -133,8 +288,8 @@ export default function Header() {
           <motion.a
             href="#"
             style={{
-              background: '#fff',
-              color: '#000',
+              background: cta.classes?.includes('black') ? '#fff' : 'transparent',
+              color: cta.classes?.includes('black') ? '#000' : '#fff',
               padding: '14px 28px',
               borderRadius: '100px',
               fontSize: '14px',
@@ -143,7 +298,7 @@ export default function Header() {
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
-            Buy Now
+            Products
           </motion.a>
         </nav>
       </motion.header>

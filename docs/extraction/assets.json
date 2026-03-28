@@ -1,7 +1,7 @@
 {
   "images": [
     {
-      "src": "https://t.teads.tv/track?action=pageView&env=js-gtm&tag_version=8.8.2_3b95617&provider=tag&buyer_pixel_id=6887&referer=https%3A%2F%2Fwww.ledger.com%2F&user_session_id=a6fb1308-207f-4a8e-b0c2-915cea07a9db&hasConsent=true&cht=timeout",
+      "src": "https://t.teads.tv/track?action=pageView&env=js-gtm&tag_version=8.8.2_3b95617&provider=tag&buyer_pixel_id=6887&referer=https%3A%2F%2Fwww.ledger.com%2F&user_session_id=7349672d-853a-4fa3-9c2a-23ad1b77a840&hasConsent=true&cht=timeout",
       "alt": "",
       "width": 1,
       "height": 1,
@@ -897,7 +897,7 @@
       "position": "static"
     },
     {
-      "src": "https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=b85fd3f5-cb5e-464c-bd67-66c8c2b08e77&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=9eb31881-2924-4b67-8362-439657418f3d&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774737127931.884387539543259112&txn_id=nzkax&type=javascript&version=2.3.50",
+      "src": "https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=2f558d82-55f8-476b-9935-af49c59ef2ef&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=89083c8b-f16c-4e6d-98f9-bb0f6f469fcc&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774741907567.116597157133462785&txn_id=nzkax&type=javascript&version=2.3.50",
       "alt": "",
       "width": 1,
       "height": 1,
@@ -905,7 +905,7 @@
       "position": "static"
     },
     {
-      "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=b85fd3f5-cb5e-464c-bd67-66c8c2b08e77&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=9eb31881-2924-4b67-8362-439657418f3d&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774737127931.884387539543259112&txn_id=nzkax&type=javascript&version=2.3.50",
+      "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=2f558d82-55f8-476b-9935-af49c59ef2ef&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=89083c8b-f16c-4e6d-98f9-bb0f6f469fcc&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774741907567.116597157133462785&txn_id=nzkax&type=javascript&version=2.3.50",
       "alt": "",
       "width": 1,
       "height": 1,
@@ -913,7 +913,7 @@
       "position": "static"
     },
     {
-      "src": "https://bat.bing.com/action/0?ti=134633242&tm=gtm002&Ver=2&mid=d3bd9f83-d316-429b-a53f-f4b81cc95835&bo=1&sid=f47641002af511f1a42f7dd71aaeed6a&vid=f47652602af511f1a34461f990a06315&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&p=https%3A%2F%2Fwww.ledger.com%2F&r=&lt=1807&evt=pageLoad&sv=2&cdb=AQET&rn=2831",
+      "src": "https://bat.bing.com/action/0?ti=134633242&tm=gtm002&Ver=2&mid=cf360eec-f59b-4ba7-9ee6-6cb918282d4c&bo=1&sid=155e18402b0111f1b93699745017a425&vid=155e36702b0111f18ac9612c380c604d&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&p=https%3A%2F%2Fwww.ledger.com%2F&r=&lt=1591&evt=pageLoad&sv=2&cdb=AQET&rn=508988",
       "alt": "",
       "width": 0,
       "height": 0,
@@ -921,7 +921,7 @@
       "position": "static"
     },
     {
-      "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sat%2C%2028%20Mar%202026%2022%3A32%3A08%20GMT&n=7d&b=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&.yp=10159916&f=https%3A%2F%2Fwww.ledger.com%2F&enc=UTF-8&yv=1.16.6&tagmgr=gtm",
+      "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sat%2C%2028%20Mar%202026%2023%3A51%3A48%20GMT&n=7d&b=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&.yp=10159916&f=https%3A%2F%2Fwww.ledger.com%2F&enc=UTF-8&yv=1.16.6&tagmgr=gtm",
       "alt": "dot image pixel",
       "width": 1,
       "height": 1,

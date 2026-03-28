@@ -91,7 +91,7 @@
             "lineHeight": "24px",
             "color": "rgb(0, 0, 0)",
             "backgroundColor": "rgb(0, 0, 0)",
-            "background": "linear-gradient(90deg, rgba(212, 212, 212, 0.5), rgba(212, 212, 212, 0.1) 75.8%, rgba(212, 212, 212, 0.3)) repeat scroll 1.04239% 50% / 400% 400% padding-box border-box, rgb(0, 0, 0) none repeat scroll 1.04239% 50% / 400% 400% padding-box border-box",
+            "background": "linear-gradient(90deg, rgba(212, 212, 212, 0.5), rgba(212, 212, 212, 0.1) 75.8%, rgba(212, 212, 212, 0.3)) repeat scroll 24.8563% 50% / 400% 400% padding-box border-box, rgb(0, 0, 0) none repeat scroll 24.8563% 50% / 400% 400% padding-box border-box",
             "backgroundImage": "linear-gradient(90deg, rgba(212, 212, 212, 0.5), rgba(212, 212, 212, 0.1) 75.8%, rgba(212, 212, 212, 0.3)), none",
             "width": "800px",
             "height": "84px",
@@ -7635,13 +7635,13 @@
                             "border": "0px none rgb(255, 255, 255)",
                             "position": "static",
                             "opacity": "1",
-                            "transform": "matrix(1, 0, 0, 1, -631.347, 0)",
+                            "transform": "matrix(1, 0, 0, 1, -599.11, 0)",
                             "transition": "all",
                             "overflow": "visible",
                             "visibility": "visible"
                           },
                           "computed": {
-                            "x": -569.9093017578125,
+                            "x": -537.6722412109375,
                             "y": 3981.140625,
                             "width": 3176,
                             "height": 56,
@@ -8727,7 +8727,7 @@
                       "children": [
                         {
                           "tag": "div",
-                          "id": "swiper-wrapper-223a80f6895abd57",
+                          "id": "swiper-wrapper-af381b68724353f6",
                           "classes": [
                             "swiper-wrapper"
                           ],
@@ -12765,446 +12765,6 @@
       "children": []
     },
     {
-      "tag": "script",
-      "classes": [],
-      "text": "window.optimizely=window.optimizely||[];window.optimizely.push({type:\"event\",eventName:\"page_view\",properties:{site_language:google_tag_manager[\"rm\"][\"9346581\"](39),user_country:google_tag_manager[\"rm",
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "script",
-      "classes": [],
-      "text": "(function(){window._uxa=window._uxa||[];window._uxa.push([\"afterPageView\",function(f){if(1==f.pageNumber){f=document.referrer;\"\"==f&&(f=\"Direct\");window._uxa.push([\"trackDynamicVariable\",{key:\"Referre",
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "script",
-      "classes": [],
-      "text": "!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version=\"2.0\",a.queue=[],c=e.createE",
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "noscript",
-      "classes": [],
-      "text": "<img height=\"1\" width=\"1\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=237213137153741&amp;ev=PageView&amp;noscript=1\">",
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "display": "inline",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "script",
-      "classes": [],
-      "text": "(function(a,c,e,k,b){a[b]=a[b]||[];a[b].push({projectId:\"10000\",properties:{pixelId:\"10159916\",userEmail:\"\\x3cemail_address\\x3e\"}});var d=c.createElement(e);d.src=k;d.async=!0;d.onload=d.onreadystatec",
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "script",
-      "classes": [],
-      "text": "google_tag_manager[\"rm\"][\"9346581\"](50)();google_tag_manager[\"rm\"][\"9346581\"](51)();",
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "script",
-      "classes": [],
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "https://js.adsrvr.org/up_loader.1.1.0.js",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "script",
-      "classes": [],
-      "text": "!function(a,b){var e=\"59051\";if(a.zemApi)b=function(d){return\"[object Array]\"===Object.prototype.toString.call(d)?d:[d]},a.zemApi.marketerId=b(a.zemApi.marketerId).concat(b(e));else{var c=a.zemApi=fun",
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "script",
-      "classes": [],
-      "text": "!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods=\"page track identify instances debug on off once ready alias group enableCookie disableCookie\".split(\" \");a.setAndDefer=functio",
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "script",
-      "id": "abtasty-js-js",
-      "classes": [],
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "https://try.abtasty.com/2f64c37290a95967d11de606157a17ac.js",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "script",
-      "classes": [],
-      "text": "window.optimizely=window.optimizely||[];window.optimizely.push({type:\"sendEvents\"});",
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "script",
-      "classes": [],
-      "text": "(function(b,c,e,a,f,d){b[a]=b[a]||[];b[a].push({\"tag.start\":(new Date).getTime(),event:\"tag.js\",id:d,ad:f});b=c.getElementsByTagName(e)[0];c=c.createElement(e);a=a!=\"cibleclic_pt\"?\"\\x26l\\x3d\"+a:\"\";c.a",
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
-      "tag": "script",
-      "classes": [],
-      "text": "window._tfa=window._tfa||[];window._tfa.push({notify:\"event\",name:\"page_view\",id:1893020});!function(a,b,d,c){document.getElementById(c)||(a.async=1,a.src=d,a.id=c,b.parentNode.insertBefore(a,b))}(doc",
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "visible",
-        "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "",
-        "type": "text/javascript",
-        "aria-label": null
-      },
-      "children": []
-    },
-    {
       "tag": "div",
       "id": "onetrust-consent-sdk",
       "classes": [],
@@ -14818,8 +14378,9 @@
       ]
     },
     {
-      "tag": "img",
+      "tag": "script",
       "classes": [],
+      "text": "window.optimizely=window.optimizely||[];window.optimizely.push({type:\"event\",eventName:\"page_view\",properties:{site_language:google_tag_manager[\"rm\"][\"9346581\"](39),user_country:google_tag_manager[\"rm",
       "styles": {
         "fontSize": "16px",
         "fontWeight": "400",
@@ -14828,55 +14389,13 @@
         "color": "rgb(0, 0, 0)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "width": "1px",
-        "height": "1px",
-        "maxWidth": "100%",
         "flexDirection": "row",
         "border": "0px none rgb(0, 0, 0)",
         "position": "static",
         "opacity": "1",
         "transition": "all",
-        "overflow": "clip",
+        "overflow": "visible",
         "visibility": "visible"
-      },
-      "computed": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0,
-        "visible": false
-      },
-      "attributes": {
-        "src": "https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=b85fd3f5-cb5e-464c-bd67-66c8c2b08e77&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=9eb31881-2924-4b67-8362-439657418f3d&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774737127931.884387539543259112&txn_id=nzkax&type=javascript&version=2.3.50",
-        "alt": "",
-        "aria-label": null
-      },
-      "images": {
-        "src": "https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=b85fd3f5-cb5e-464c-bd67-66c8c2b08e77&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=9eb31881-2924-4b67-8362-439657418f3d&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774737127931.884387539543259112&txn_id=nzkax&type=javascript&version=2.3.50",
-        "alt": "",
-        "naturalWidth": 1,
-        "naturalHeight": 1
-      },
-      "children": []
-    },
-    {
-      "tag": "iframe",
-      "classes": [],
-      "styles": {
-        "fontSize": "16px",
-        "fontWeight": "400",
-        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
-        "lineHeight": "24px",
-        "color": "rgb(0, 0, 0)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "flexDirection": "row",
-        "border": "0px none rgb(0, 0, 0)",
-        "position": "static",
-        "opacity": "1",
-        "transition": "all",
-        "overflow": "clip",
-        "visibility": "hidden"
       },
       "computed": {
         "x": 0,
@@ -14887,6 +14406,447 @@
       },
       "attributes": {
         "src": "",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "classes": [],
+      "text": "(function(){window._uxa=window._uxa||[];window._uxa.push([\"afterPageView\",function(f){if(1==f.pageNumber){f=document.referrer;\"\"==f&&(f=\"Direct\");window._uxa.push([\"trackDynamicVariable\",{key:\"Referre",
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "classes": [],
+      "text": "!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version=\"2.0\",a.queue=[],c=e.createE",
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "noscript",
+      "classes": [],
+      "text": "<img height=\"1\" width=\"1\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=237213137153741&amp;ev=PageView&amp;noscript=1\">",
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "display": "inline",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "classes": [],
+      "text": "(function(a,c,e,k,b){a[b]=a[b]||[];a[b].push({projectId:\"10000\",properties:{pixelId:\"10159916\",userEmail:\"\\x3cemail_address\\x3e\"}});var d=c.createElement(e);d.src=k;d.async=!0;d.onload=d.onreadystatec",
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "classes": [],
+      "text": "google_tag_manager[\"rm\"][\"9346581\"](50)();google_tag_manager[\"rm\"][\"9346581\"](51)();",
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "classes": [],
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "https://js.adsrvr.org/up_loader.1.1.0.js",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "classes": [],
+      "text": "!function(a,b){var e=\"59051\";if(a.zemApi)b=function(d){return\"[object Array]\"===Object.prototype.toString.call(d)?d:[d]},a.zemApi.marketerId=b(a.zemApi.marketerId).concat(b(e));else{var c=a.zemApi=fun",
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "classes": [],
+      "text": "!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods=\"page track identify instances debug on off once ready alias group enableCookie disableCookie\".split(\" \");a.setAndDefer=functio",
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "id": "abtasty-js-js",
+      "classes": [],
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "https://try.abtasty.com/2f64c37290a95967d11de606157a17ac.js",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "classes": [],
+      "text": "window.optimizely=window.optimizely||[];window.optimizely.push({type:\"sendEvents\"});",
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "classes": [],
+      "text": "(function(b,c,e,a,f,d){b[a]=b[a]||[];b[a].push({\"tag.start\":(new Date).getTime(),event:\"tag.js\",id:d,ad:f});b=c.getElementsByTagName(e)[0];c=c.createElement(e);a=a!=\"cibleclic_pt\"?\"\\x26l\\x3d\"+a:\"\";c.a",
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "classes": [],
+      "text": "window._tfa=window._tfa||[];window._tfa.push({notify:\"event\",name:\"page_view\",id:1893020});!function(a,b,d,c){document.getElementById(c)||(a.async=1,a.src=d,a.id=c,b.parentNode.insertBefore(a,b))}(doc",
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "",
+        "type": "text/javascript",
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "script",
+      "classes": [],
+      "text": "ttd_dom_ready(function(){if(\"function\"===typeof TTDUniversalPixelApi){var a=new TTDUniversalPixelApi;a.init(\"ybd3fwz\",[\"x70jfyp\"],\"https://insight.adsrvr.org/track/up\",{td1:google_tag_manager[\"rm\"][\"9",
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "visible",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "",
+        "type": "text/javascript",
         "aria-label": null
       },
       "children": []
@@ -14921,12 +14881,54 @@
         "visible": false
       },
       "attributes": {
-        "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=b85fd3f5-cb5e-464c-bd67-66c8c2b08e77&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=9eb31881-2924-4b67-8362-439657418f3d&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774737127931.884387539543259112&txn_id=nzkax&type=javascript&version=2.3.50",
+        "src": "https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=2f558d82-55f8-476b-9935-af49c59ef2ef&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=89083c8b-f16c-4e6d-98f9-bb0f6f469fcc&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774741907567.116597157133462785&txn_id=nzkax&type=javascript&version=2.3.50",
         "alt": "",
         "aria-label": null
       },
       "images": {
-        "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=b85fd3f5-cb5e-464c-bd67-66c8c2b08e77&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=9eb31881-2924-4b67-8362-439657418f3d&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774737127931.884387539543259112&txn_id=nzkax&type=javascript&version=2.3.50",
+        "src": "https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=2f558d82-55f8-476b-9935-af49c59ef2ef&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=89083c8b-f16c-4e6d-98f9-bb0f6f469fcc&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774741907567.116597157133462785&txn_id=nzkax&type=javascript&version=2.3.50",
+        "alt": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1
+      },
+      "children": []
+    },
+    {
+      "tag": "img",
+      "classes": [],
+      "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Inter, \"Times New Roman\", arial, sans-serif",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "1px",
+        "height": "1px",
+        "maxWidth": "100%",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "overflow": "clip",
+        "visibility": "visible"
+      },
+      "computed": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": false
+      },
+      "attributes": {
+        "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=2f558d82-55f8-476b-9935-af49c59ef2ef&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=89083c8b-f16c-4e6d-98f9-bb0f6f469fcc&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774741907567.116597157133462785&txn_id=nzkax&type=javascript&version=2.3.50",
+        "alt": "",
+        "aria-label": null
+      },
+      "images": {
+        "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=2f558d82-55f8-476b-9935-af49c59ef2ef&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=89083c8b-f16c-4e6d-98f9-bb0f6f469fcc&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774741907567.116597157133462785&txn_id=nzkax&type=javascript&version=2.3.50",
         "alt": "",
         "naturalWidth": 1,
         "naturalHeight": 1

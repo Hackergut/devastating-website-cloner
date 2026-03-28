@@ -99,7 +99,7 @@
     ],
     "scripts": [
       {
-        "src": "https://2632.userly.net/trk/index.php?script_source=homepage&u=541,884a 5284-c826-69a0-358b- a753 9068,1774741595,",
+        "src": "https://2632.userly.net/trk/index.php?script_source=homepage&u=541,5d5c a694-f2c1-ef88-74cf- c455 df5b,1774745509,",
         "id": "uz_rt"
       },
       {
@@ -109,7 +109,7 @@
         "src": "https://analytics.tiktok.com/i18n/pixel/static/main.MTJlMjhkNzMyMQ.js"
       },
       {
-        "src": "https://www.googletagmanager.com/gtag/js?id=G-Y38HP2KGC3&cx=c&gtm=4e63p1h1"
+        "src": "https://www.googletagmanager.com/gtag/js?id=G-Y38HP2KGC3&cx=c&gtm=4e63p1"
       },
       {
         "src": "//cdn.taboola.com/libtrc/unip/1893020/tfa.js",
@@ -169,10 +169,10 @@
         "id": "jquery-migrate-js"
       },
       {
-        "src": "https://www.ledger.com/wp-includes/js/wp-emoji-release.min.js"
+        "src": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/otBannerSdk.js"
       },
       {
-        "src": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/otBannerSdk.js"
+        "src": "https://www.ledger.com/wp-includes/js/wp-emoji-release.min.js"
       },
       {
         "src": "//t.contentsquare.net/uxa/632f3a9f096b5.js"
