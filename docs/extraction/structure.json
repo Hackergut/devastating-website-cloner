@@ -99,7 +99,7 @@
     ],
     "scripts": [
       {
-        "src": "https://2632.userly.net/trk/index.php?script_source=homepage&u=541,5d5c a694-f2c1-ef88-74cf- c455 df5b,1774745509,",
+        "src": "https://2632.userly.net/trk/index.php?script_source=homepage&u=541,8d2c c53e-aaa7-9841-daee- 3a6c f4d0,1774746584,",
         "id": "uz_rt"
       },
       {
@@ -169,10 +169,10 @@
         "id": "jquery-migrate-js"
       },
       {
-        "src": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/otBannerSdk.js"
+        "src": "https://www.ledger.com/wp-includes/js/wp-emoji-release.min.js"
       },
       {
-        "src": "https://www.ledger.com/wp-includes/js/wp-emoji-release.min.js"
+        "src": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/otBannerSdk.js"
       },
       {
         "src": "//t.contentsquare.net/uxa/632f3a9f096b5.js"

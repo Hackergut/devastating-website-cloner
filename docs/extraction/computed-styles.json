@@ -91,7 +91,7 @@
             "lineHeight": "24px",
             "color": "rgb(0, 0, 0)",
             "backgroundColor": "rgb(0, 0, 0)",
-            "background": "linear-gradient(90deg, rgba(212, 212, 212, 0.5), rgba(212, 212, 212, 0.1) 75.8%, rgba(212, 212, 212, 0.3)) repeat scroll 24.8563% 50% / 400% 400% padding-box border-box, rgb(0, 0, 0) none repeat scroll 24.8563% 50% / 400% 400% padding-box border-box",
+            "background": "linear-gradient(90deg, rgba(212, 212, 212, 0.5), rgba(212, 212, 212, 0.1) 75.8%, rgba(212, 212, 212, 0.3)) repeat scroll 16.7375% 50% / 400% 400% padding-box border-box, rgb(0, 0, 0) none repeat scroll 16.7375% 50% / 400% 400% padding-box border-box",
             "backgroundImage": "linear-gradient(90deg, rgba(212, 212, 212, 0.5), rgba(212, 212, 212, 0.1) 75.8%, rgba(212, 212, 212, 0.3)), none",
             "width": "800px",
             "height": "84px",
@@ -7635,13 +7635,13 @@
                             "border": "0px none rgb(255, 255, 255)",
                             "position": "static",
                             "opacity": "1",
-                            "transform": "matrix(1, 0, 0, 1, -599.11, 0)",
+                            "transform": "matrix(1, 0, 0, 1, -658.774, 0)",
                             "transition": "all",
                             "overflow": "visible",
                             "visibility": "visible"
                           },
                           "computed": {
-                            "x": -537.6722412109375,
+                            "x": -597.3369750976562,
                             "y": 3981.140625,
                             "width": 3176,
                             "height": 56,
@@ -8727,7 +8727,7 @@
                       "children": [
                         {
                           "tag": "div",
-                          "id": "swiper-wrapper-af381b68724353f6",
+                          "id": "swiper-wrapper-4b52ee4a298e4a10c",
                           "classes": [
                             "swiper-wrapper"
                           ],
@@ -14852,7 +14852,7 @@
       "children": []
     },
     {
-      "tag": "img",
+      "tag": "iframe",
       "classes": [],
       "styles": {
         "fontSize": "16px",
@@ -14862,16 +14862,13 @@
         "color": "rgb(0, 0, 0)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "width": "1px",
-        "height": "1px",
-        "maxWidth": "100%",
         "flexDirection": "row",
         "border": "0px none rgb(0, 0, 0)",
         "position": "static",
         "opacity": "1",
         "transition": "all",
         "overflow": "clip",
-        "visibility": "visible"
+        "visibility": "hidden"
       },
       "computed": {
         "x": 0,
@@ -14881,20 +14878,13 @@
         "visible": false
       },
       "attributes": {
-        "src": "https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=2f558d82-55f8-476b-9935-af49c59ef2ef&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=89083c8b-f16c-4e6d-98f9-bb0f6f469fcc&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774741907567.116597157133462785&txn_id=nzkax&type=javascript&version=2.3.50",
-        "alt": "",
+        "src": "",
         "aria-label": null
-      },
-      "images": {
-        "src": "https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=2f558d82-55f8-476b-9935-af49c59ef2ef&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=89083c8b-f16c-4e6d-98f9-bb0f6f469fcc&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774741907567.116597157133462785&txn_id=nzkax&type=javascript&version=2.3.50",
-        "alt": "",
-        "naturalWidth": 1,
-        "naturalHeight": 1
       },
       "children": []
     },
     {
-      "tag": "img",
+      "tag": "cs-native-frame-holder",
       "classes": [],
       "styles": {
         "fontSize": "16px",
@@ -14904,15 +14894,12 @@
         "color": "rgb(0, 0, 0)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-        "width": "1px",
-        "height": "1px",
-        "maxWidth": "100%",
         "flexDirection": "row",
         "border": "0px none rgb(0, 0, 0)",
         "position": "static",
         "opacity": "1",
         "transition": "all",
-        "overflow": "clip",
+        "overflow": "visible",
         "visibility": "visible"
       },
       "computed": {
@@ -14923,15 +14910,7 @@
         "visible": false
       },
       "attributes": {
-        "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=2f558d82-55f8-476b-9935-af49c59ef2ef&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=89083c8b-f16c-4e6d-98f9-bb0f6f469fcc&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774741907567.116597157133462785&txn_id=nzkax&type=javascript&version=2.3.50",
-        "alt": "",
         "aria-label": null
-      },
-      "images": {
-        "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26MacIntel%26127%26800%26600%2610%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=2f558d82-55f8-476b-9935-af49c59ef2ef&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=89083c8b-f16c-4e6d-98f9-bb0f6f469fcc&pt=Ledger%20Crypto%20Wallet%20-%20Security%20for%20DeFi%20%26%20Web3&tw_document_href=https%3A%2F%2Fwww.ledger.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1774741907567.116597157133462785&txn_id=nzkax&type=javascript&version=2.3.50",
-        "alt": "",
-        "naturalWidth": 1,
-        "naturalHeight": 1
       },
       "children": []
     }

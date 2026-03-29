@@ -1,8 +1,4 @@
-import Banner from "@/components/sections/Banner";
-import Header from "@/components/sections/Header";
-import Hero from "@/components/sections/Hero";
-import Products from "@/components/sections/Products";
-import Footer from "@/components/sections/Footer";
+import { Banner, Header, Hero, Products, Faq, Footer } from "@/components/sections";
 
 export default function Home() {
   return (
@@ -11,6 +7,7 @@ export default function Home() {
       <Header />
       <Hero />
       <Products />
+      <Faq />
       <Footer />
     </main>
   );
