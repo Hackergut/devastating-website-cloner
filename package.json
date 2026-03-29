@@ -21,9 +21,14 @@
     "clone:structure": "node scripts/analyze-html-structure.mjs",
     "clone:css": "node scripts/process-css.mjs",
     "clone:build-animations": "node scripts/build-animations.mjs",
-    "clone:components": "node scripts/generate-components.mjs"
+    "clone:components": "node scripts/generate-components.mjs",
+    "mcp": "node scripts/mcp/master-orchestrator.mjs",
+    "mcp:html": "node scripts/mcp/html-to-jsx-agent.mjs",
+    "mcp:css": "node scripts/mcp/css-styles-agent.mjs",
+    "mcp:verify": "node scripts/mcp/pixel-perfect-agent.mjs"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.28.0",
     "axios": "^1.14.0",
     "cheerio": "^1.2.0",
     "class-variance-authority": "^0.7.1",
@@ -31,6 +36,7 @@
     "framer-motion": "^12.38.0",
     "lucide-react": "^1.7.0",
     "next": "16.2.1",
+    "pixelmatch": "^7.1.0",
     "puppeteer": "^24.40.0",
     "radix-ui": "^1.4.3",
     "react": "19.2.4",
